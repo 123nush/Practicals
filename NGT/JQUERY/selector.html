@@ -1,1 +1,89 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="jquery-3.2.1.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+</head>
+<body>
+<div class="col-md-10 m-auto pt-5">
+    <h2 class="text-center text-primary">jquery Selector</h2>
+    <div class="col-md-6 m-auto p-3 bg-warning" id="element1">
+        <h3 class="text-center"> Tag Name as Selector</h3>
+        <p class="text-center">Represents a tag name available in the DOM,.</p>
+        <p class="text-center"> For example $('p')selects all paragraphs  in the document.</p>
+    </div>
+    
+</div>
+<div class="col-md-5 m-auto p-3 bg-secondary" id="element2">
+        <h3 class="text-center">  Id as Selector</h3>
+        <ul>
+            <li id="first">Represents a tag available with the given ID in the DOM. </li>
+            <li>For example $('#some-id') selects the single element in the document that has an ID of some-id</li>
+        </ul>
+</div>
+<div class="col-md-5 m-auto p-3 bg-info" id="element3">
+    <h3 class="text-center"> Class as Selector</h3>
+    <ol>
+        <li  class="apply">Represents a tag available with the given class in the DOM. </li>
+        <li class="apply">For example $('.some-class') selects all elements in the document that have a class of some-class.</li>
+    </ol>
+</div>
+<div class="col-md-5 m-auto p-3 bg-success" id="element4">
+        <label >first field</label>
+        <input type="text">
+    
+</div>
+<div class="col-md-5 m-auto text-center bg-info" >
+    <h4>Selecting multiple elemets at one time</h4>
+    <span>Span Tag</span><br>
+    <small>samll Tag</small>
+</div>
+<div class="col-md-5 m-auto text-center" >
+   
+    <button type="button" class="btn btn-primary text-light" id="click_hide">Click To Hide</button>
+    <button type="button"  class="btn btn-primary text-light" id="click_show">Click To Show</button>
+    <!-- <h6 id="">Content is visible because you clicked 'Click To Show' button</h6> -->
+    <h6 id="hide_show">This Content Will be hide and show</h6>
+
+</div>
+
+
+    <script>
+       $(document).ready(function(){
+            $('#element1').click(function(){
+            $('p').css('font-style','italic')
+       
+        $('#element2').dblclick(function(){
+            $('#first').hide()
+        })
+        })
+        $('#element3').hover(function(){
+            $('.apply').css({"font-size":"20px","color":"white"})
+        })
+        $('input').blur(function(){
+            $('this').css("background-color", "yellow")
+        })
+        $("input").focus(function(){
+        $(this).css("background-color", "yellow");
+        });
+        $('span,small').click(function(){
+                alert("Selcting Multiple Task At a Time")
+            });
+            $("#click_hide").click(function(){
+                $('#hide_show').hide()
+            });
+            $("#click_show").click(function(){
+                $('#hide_show').show()
+            });
+           
+ 
+    });
+    </script>
+</body>
+</html>
