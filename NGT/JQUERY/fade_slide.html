@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="jquery-3.2.1.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script>
+        // const fadefun=
+        $(document).ready(function(){
+            $('#b1').click(function(){
+            $('#div1').fadeIn("fast")
+            $('#div2').fadeIn(3000)
+            $('#div3').fadeIn(5000,()=>{
+                alert('Implementing fadeIn')
+            })
+        });
+        $('#b2').click(function(){
+            $('#div4').fadeOut("fast")
+            $('#div5').fadeOut(3000)
+            $('#div6').fadeOut(5000,()=>{
+                alert('Implementing Out effect')
+            })
+        });
+        $('#b3').click(function(){
+            $('#div7').fadeToggle("fast",()=>{
+                alert("fading In and fading out with fadeToggle")
+            })
+        });
+        $('#b4').click(function(){
+            $('#div8').fadeTo("slow",0.5,()=>{
+                alert("fading To Effect")
+            })
+        });
+        $('#b5').dblclick(function(){
+            $('#i1').slideDown(2000)
+        })
+    
+        
+        })
+    </script>
+</head>
+<body>
+    <div class="row" >
+        <button type="button" class="btn fw-bolder " id="b1">Fade In effect</button>
+        <div class="col-md-3 m-auto text-center" style="background-color: #f54272;display: none;" id="div1">
+            <h3 class="text-center">Cart 1</h3>
+            <p>The jQuery fadeIn() method is used to fade in a hidden element.</p>
+        </div>
+        <div class="col-md-3 m-auto text-center" style="background-color:#42f5b0;display: none" id="div2">
+            <h3 class="text-center">cart 2</h3>
+            <p>The jQuery fadeIn() method is used to fade in a hidden element.</p>
+        </div>
+        <div class="col-md-3 m-auto text-center" style="background-color: #f5bf42;display: none" id="div3">
+            <h3 class="text-center">Cart 3</h3>
+            <p>The jQuery fadeIn() method is used to fade in a hidden element.</p>
+        </div>
+    </div>
+    <div class="row" >
+        <button type="button" class="btn fw-bolder " id="b2">Fade Out effect</button>
+        <div class="col-md-3 m-auto text-center" style="background-color:  #cbf542;" id="div4">
+            <h3 class="text-center">Cart 4</h3>
+           <p>The jQuery fadeOut() method is used to fade out a visible element.</p>
+        </div>
+        <div class="col-md-3 m-auto text-center" style="background-color:#42f5b0;" id="div5">
+            <h3 class="text-center">cart 5</h3>
+           <p>The jQuery fadeOut() method is used to fade out a visible element.</p>
+        </div>
+        <div class="col-md-3 m-auto text-center" style="background-color: #f5bf42;" id="div6">
+            <h3 class="text-center">Cart 6</h3>
+           <p>The jQuery fadeOut() method is used to fade out a visible element.</p>
+        </div>
+    </div>
+    <div class="row" >
+        <button type="button" class="btn fw-bolder " id="b3">Fade Toggle effect</button>
+        <div class="col-md-3 m-auto text-center" style="background-color: #7842f5;" id="div7">
+            <h3 class="text-center">Cart 7</h3>
+           <p>The jQuery fadeToggle() method toggles between the fadeIn() and fadeOut() methods.
+            If the elements are faded out, fadeToggle() will fade them in.
+            If the elements are faded in, fadeToggle() will fade them out.</p>
+        </div>
+    </div>
+    <div class="row" >
+        <button type="button" class="btn fw-bolder " id="b4">Fade To effect</button>
+        <div class="col-md-3 m-auto text-center" style="background-color:#f54248;" id="div8">
+            <h3 class="text-center">Cart 7</h3>
+           <p>The required speed parameter specifies the duration of the effect. It can take the following values: "slow", "fast", or milliseconds.
+            The required opacity parameter in the fadeTo() method specifies fading to a given opacity (value between 0 and 1).
+            The optional callback parameter is a function to be executed after the function completes.</p>
+        </div>
+       
+    </div>
+    <h1 class="text-center">Performing Sliding effect</h1>
+    <div class="row" >
+        <button type="button" class="btn fw-bolder " id="b5">Slide Down</button>
+        <div class="mx-auto" id="i1" style="text-align:center;border:2px solid black;display: none;">
+            
+        <img src="img1.jpg" alt=""  style="height:200px;width:200px;" class="mx-auto">
+    </div>
+    <div class="row" >
+        <button type="button" class="btn fw-bolder " id="b6">Slide Down</button>
+        <div class="mx-auto" id="i2" style="text-align:center;border:2px solid black;;">
+        <img src="img1.jpg" alt=""  style="height:200px;width:200px;" class="mx-auto">
+    </div>
+    </div>
+</body>
+
+</html>
