@@ -1,0 +1,21 @@
+graph={'A':list(['B','C']),
+       'B':list(['A','D','E']),
+       'C':list(['A','F']),
+       'D':list(['B']),
+       'E':list(['B','F']),
+       'F':list(['C','E'])
+       }
+def dfs(graph,start):
+    visited,stack=list(),[start]
+    while stack:
+        #print("Stack:",stack)
+        vertex=stack.pop()
+        if vertex not in visited:
+            print("Current vertex:",vertex)#extra
+            visited.append(vertex)
+            print("Current visited:",visited)#extra
+            stack.extend(graph[vertex])
+            
+    return visited
+
+print(dfs(graph,'B'))
