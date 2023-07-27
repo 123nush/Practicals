@@ -1,1 +1,22 @@
 
+graph={'A':list(['B','C']),
+       'B':list(['A','D','E']),
+       'C':list(['A','F']),
+       'D':list(['B']),
+       'E':list(['B','F']),
+       'F':list(['C','E'])
+       }
+def bfs(graph,start):
+    visited,queue=list(),[start]
+    while queue:
+        #print("Stack:",stack)
+        vertex=queue.pop(0)
+        if vertex not in visited:
+            print("Current vertex:",vertex)#extra
+            visited.append(vertex)
+            print("Current visited:",visited)#extra
+            queue.extend(graph[vertex])
+            
+    return visited
+
+print(bfs(graph,'A'))
