@@ -1,0 +1,39 @@
+[{
+ 
+    "job_profile_name":"Artificial Intelligence",
+    "Description":"Artificial intelligence (AI) engineers are responsible for developing, programming and training the complex networks of algorithms that make up AI so that they can function like a human brain. This role requires combined expertise in software development, programming, data science and data engineering",
+    "technologies":["Natural language generation","Speech recognition","Virtual agents","Decision management","Biometrics","Machine learning","Robotic process automation","Peer-to-peer network","Deep learning platforms","AL-optimized hardware"],
+    "update_date":"2023-08-04"
+
+    },{
+        "job_profile_name":"Database Administrator",
+        "Description":"Database Administrators are professionals who ensure that all databases, including those for financial or customer information, stay up-to-date with policies and procedures in place to protect against data loss.",
+        "technologies":["SQL","UNIX","Linux","Oracle","Windows Operating System","Data Analysis","Microsoft Access","HTML"],
+        "update_date":"2023-08-04"
+
+    },{
+        "job_profile_name":"Data Analyst",
+        "Description":"A Data Analyst is a professional who collects and analyzes data across the business to make informed decisions or assist other team members and leadership in making sound decisions.",
+        "technologies":["SQL","Statistical programming","Machine learning","Probability and statistics","Data management","Statistical visualization","Econometrics"],
+        "update_date":"2023-08-04"
+
+    },{
+        "job_profile_name":"Android Developer",
+        "Description":"An Android developer is responsible for developing applications for devices powered by the Android operating system. Due to the fragmentation of this ecosystem, an Android developer must pay special attention to the application’s compatibility with multiple versions of Android and device types.",
+        "technologies":["Programming Language Kotlin"," Android Jetpack","Instant Android Apps","Augmented Reality","Artificial Intelligence and Machine Learning "," Ethereum Integration","Cloud Computing","Integration of the Internet of Things (IoT)","Integration of Chatbots"," Enhancements to Security Using Biometrics"],
+        "update_date":"2023-08-04"
+
+    },{
+        "job_profile_name":"Android Developer",
+        "Description":"An Android developer is responsible for developing applications for devices powered by the Android operating system. Due to the fragmentation of this ecosystem, an Android developer must pay special attention to the application’s compatibility with multiple versions of Android and device types.",
+        "technologies":["Programming Language Kotlin"," Android Jetpack","Instant Android Apps","Augmented Reality","Artificial Intelligence and Machine Learning "," Ethereum Integration","Cloud Computing","Integration of the Internet of Things (IoT)","Integration of Chatbots"," Enhancements to Security Using Biometrics"],
+        "update_date":"2023-08-04"
+
+    },{
+        "job_profile_name":"Software Engineer",
+        "Description":"A Software Engineer is an IT professional who designs, develops and maintains computer software at a company. They use their creativity and technical skills and apply the principles of software engineering to help solve new and ongoing problems for an organization.",
+        "technologies":["Coding languages"," Android Jetpack","Instant Android Apps","Augmented Reality","Artificial Intelligence and Machine Learning "," Ethereum Integration","Cloud Computing","Integration of the Internet of Things (IoT)","Integration of Chatbots"," Enhancements to Security Using Biometrics"],
+        "update_date":"2023-08-04"
+
+    }
+]
