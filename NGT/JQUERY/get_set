@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="jquery3.7.0.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    </head>
+    <body>
+
+        <h1 class="text-center"  >Implementing jquery get and set contents</h1>
+        <div class="col-md-10 m-auto">
+        <form class="w-50 m-auto pt-5">
+            <h2 id="heading" class="text-cneter">Getting <b>User</b> information</h2>
+            <div class="form-group">
+                <label  id="name_label"> Name</label>
+               <input type="text" id='name' class="form-control" placeholder="Enter Your name">
+              </div>
+            <div class="form-group">
+              <label id="email_label">Email address</label>
+              <input type="email" class="form-control" id="email" aria-describedby="emailHelp" placeholder="Enter email">
+              <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+            </div>
+
+            <button type="button" id="btn" class="btn btn-primary">Submit</button>
+          </form>
+        </div>
+    </body>
+    <script>
+        $(document).ready(function(){
+            $('#btn').click(function(){
+                alert($('#heading').html()+"\n"+$('#name_label').text()+" :"+$('#name').val()+"\n"+$('#email_label').text()+" :"+$('#email').val())
+               
+            })
+        })
+    </script>
+    </html>
