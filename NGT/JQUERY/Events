@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="jquery-3.2.1.min.js"></script>
+<script>
+$(document).ready(function(){
+  $("button").click(function(){
+    // $("#test").hide();     //hides tag(p) with id test
+    // $("#test>*").hide();  //hides all child elements of p whose id id test 
+    $("p:not(#test)").hide();    //hides all p tags whose id is NOT test 
+    
+  });
+  $("#hidetitle").dblclick(function(){
+  $("h2").hide();
+});
+$("#test").mouseenter(function(){
+  alert("You entered jquery definition!");
+});
+$("button").hover(function(){
+  alert("Click to submit");
+});
+$("input").focus(function(){
+  $(this).css("background-color", "blue");
+});
+
+});
+</script>
+</head>
+<body>
+
+<h2>jQuery</h2>
+<p id="hidetitle">Hide title</p>
+<p>jQuery selectors are one of the most important parts of the jQuery library.</p>
+<p id="test">jQuery selectors are used to <b>"find"</b> (or select) <i>HTML elements</i> based on their name, id, classes, types, attributes, values of attributes and much more. It's based on the existing CSS Selectors, and in addition, it has some own custom selectors.This is another paragraph.</p>
+<input type="text">
+<button>Click me</button>
+
+<a href="#">View more</a>
+
+</body>
+</html>
