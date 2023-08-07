@@ -1,0 +1,45 @@
+<%@ Page Title="Home Page" Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true"
+    CodeFile="Default.aspx.cs" Inherits="_Default" %>
+
+<asp:Content ID="HeaderContent" runat="server" ContentPlaceHolderID="HeadContent">
+</asp:Content>
+<asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
+    <h2>
+        Welcome to ASP.NET!
+    </h2>
+    <p>
+        To learn more about ASP.NET visit <a href="http://www.asp.net" title="ASP.NET Website">www.asp.net</a>.
+    </p>
+    <p>
+        You can also find <a href="http://go.microsoft.com/fwlink/?LinkID=152368&amp;clcid=0x409"
+            title="MSDN ASP.NET Docs">documentation on ASP.NET at MSDN</a>.
+    <asp:HiddenField ID="HiddenField1" runat="server"></asp:HiddenField></p>
+    Press Alt+t to select the textbox<br /><br />
+
+    <asp:Label ID="Label1" runat="server" Text="Label" Font-Size="Large" Font-Italic="true">Enter Name:</asp:Label> <br />
+   <asp:TextBox ID="TextBox1" runat="server" TabIndex="1" ToolTip="Enter your name" 
+        AccessKey="t" BackColor="#e8d890" BorderColor="#fc8905"
+    BorderStyle="Ridge" Height="30px" Width="200px" MaxLength="5"  
+        BorderWidth="10px" ForeColor="red"  Visible="true" 
+        ontextchanged="TextBox1_TextChanged"></asp:TextBox>  <br />
+
+    <asp:Label ID="Label2" runat="server" Text="Label" Font-Size="Large" Font-Italic="true">Enter Age:</asp:Label> <br />
+   <asp:TextBox ID="TextBox2" runat="server" TabIndex="2" ToolTip="Enter your name" 
+        AccessKey="p" BackColor="#90e6e8" BorderColor="#086769"
+    BorderStyle="Double" Height="30px" Width="200px" MaxLength="5"  
+        BorderWidth="5px" ForeColor="red" Visible="true" 
+        ontextchanged="TextBox2_TextChanged"></asp:TextBox>  <br /><br />
+
+    
+    <asp:Label ID="Label3" runat="server" Text="Label" Font-Size="Large" Font-Italic="true">Enter Address:</asp:Label> <br />
+   <asp:TextBox ID="TextBox3" runat="server" TabIndex="2" ToolTip="Enter your name" AccessKey="p" BackColor="#90e6e8" BorderColor="#086769"
+    BorderStyle="Double" Height="60px" Width="200px" MaxLength="5"  BorderWidth="5px" ForeColor="red" Visible="true"></asp:TextBox>  <br />  
+        <asp:Button ID="Button2" runat="server" Text="Reset" BorderStyle="Solid"
+        BackColor="#d8f5d5" BorderColor="Green" Height="25px" Width="100px" 
+        ToolTip="Submit" onclick="Button1_Click"/>  
+    <br />
+
+    <asp:Button ID="Button1" runat="server" Text="Submit" BorderStyle="Solid"
+        BackColor="#d8f5d5" BorderColor="Green" Height="25px" Width="100px" 
+        ToolTip="Submit" onclick="Button1_Click"/>  
+        </asp:Content>
