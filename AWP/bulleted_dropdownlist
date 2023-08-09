@@ -1,0 +1,52 @@
+<%@ Page Title="Home Page" Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true"
+    CodeFile="Default.aspx.cs" Inherits="_Default" %>
+
+<asp:Content ID="HeaderContent" runat="server" ContentPlaceHolderID="HeadContent">
+</asp:Content>
+<asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
+    <h2>
+        Welcome to ASP.NET!
+    </h2>
+    <p>
+        To learn more about ASP.NET visit <a href="http://www.asp.net" title="ASP.NET Website">www.asp.net</a>.
+    </p>
+    <p>
+        You can also find <a href="http://go.microsoft.com/fwlink/?LinkID=152368&amp;clcid=0x409"
+            title="MSDN ASP.NET Docs">documentation on ASP.NET at MSDN</a>.
+    </p>
+    <asp:BulletedList ID="BulletedList1" runat="server" BulletStyle="CustomImage" 
+        BorderColor="#3399FF" BackColor="#CCFFFF" Width="100px" 
+        BulletImageUrl="E:\TY_Anushka_Sanika\AWWP\Images\arrow_bullet1.png" DisplayMode="LinkButton" 
+        >
+        <asp:ListItem>AWP</asp:ListItem>
+        <asp:ListItem>IoT</asp:ListItem>
+        <asp:ListItem>SPM</asp:ListItem>
+        <asp:ListItem>AI</asp:ListItem>
+        <asp:ListItem>NGT</asp:ListItem>
+</asp:BulletedList>
+<asp:BulletedList ID="BulletedList2" runat="server" BulletStyle="CustomImage" 
+        BorderColor="#3399FF" BackColor="#CCFFFF" Width="100px" 
+        BulletImageUrl="E:\TY_Anushka_Sanika\AWWP\Images\arrow_bullet1.png" DisplayMode="HyperLink" 
+        >
+        <asp:ListItem>Default2.aspx</asp:ListItem>
+        <asp:ListItem>Default3.aspx</asp:ListItem>
+        <asp:ListItem>Default.aspx</asp:ListItem>
+</asp:BulletedList>
+<asp:Label ID="Label1" runat="server" Text="Select your favourite sensory organ:"></asp:Label>
+    <br />
+<asp:DropDownList ID="DropDownList1" runat="server" AutoPostBack="True" 
+        CausesValidation="True" 
+        onselectedindexchanged="DropDownList1_SelectedIndexChanged" >
+    <asp:ListItem>Eyes</asp:ListItem>
+    <asp:ListItem>Ears</asp:ListItem>
+    <asp:ListItem>Nose</asp:ListItem>
+    <asp:ListItem>Skin</asp:ListItem>
+    <asp:ListItem>Tongue</asp:ListItem>
+</asp:DropDownList>
+<br />
+<br />
+<asp:TextBox ID="TextBox1"
+    runat="server" ontextchanged="TextBox1_TextChanged"></asp:TextBox>
+    <br />
+    <asp:Button ID="submit" runat="server" Text="Submit" onclick="submit_Click" />
+</asp:Content>
