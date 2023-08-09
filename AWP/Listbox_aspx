@@ -1,0 +1,58 @@
+<%@ Page Title="Home Page" Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true"
+    CodeFile="Default.aspx.cs" Inherits="_Default" %>
+
+<asp:Content ID="HeaderContent" runat="server" ContentPlaceHolderID="HeadContent">
+</asp:Content>
+<asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
+    <h2>
+        Welcome to ASP.NET!
+    </h2>
+    <p>
+        To learn more about ASP.NET visit <a href="http://www.asp.net" title="ASP.NET Website">www.asp.net</a>.
+    </p>
+    <p>
+        You can also find <a href="http://go.microsoft.com/fwlink/?LinkID=152368&amp;clcid=0x409"
+            title="MSDN ASP.NET Docs">documentation on ASP.NET at MSDN</a>.
+    </p>
+    <asp:ListBox ID="ListBox1" runat="server" AutoPostBack="true" 
+        onselectedindexchanged="ListBox1_SelectedIndexChanged" Rows="10" 
+        Width="89px" SelectionMode="multiple" BackColor="#CCFF66" ForeColor="#006600">
+        <asp:ListItem>Tomato</asp:ListItem>
+        <asp:ListItem>Beans</asp:ListItem>
+        <asp:ListItem>Peas</asp:ListItem>
+        <asp:ListItem>Cabbage</asp:ListItem>
+        <asp:ListItem>capsicum</asp:ListItem>
+        <asp:ListItem>potato</asp:ListItem>
+        <asp:ListItem>Carrot</asp:ListItem>
+        <asp:ListItem>raddish</asp:ListItem>
+
+     </asp:ListBox>
+     <br />
+     <br />
+     <asp:Label ID="veg" runat="server" ForeColor="#006600">Enter Vegetable to be added</asp:Label>
+   
+     <br />
+    <br />
+   
+     <asp:TextBox ID="new_veg" runat="server" BackColor="#CCFF99" ></asp:TextBox>
+
+    <br />
+
+    <br />
+    <asp:Button ID="add" runat="server" Text="Add Item" onclick="add_Click" BackColor="#FFFFCC" BorderColor="#66FF33"/>
+  
+    <asp:Button ID="remove" runat="server" Text="Delete Item" BackColor="#FFFFCC" BorderColor="#66FF33"
+        onclick="remove_Click"  />
+    
+    <asp:Button ID="count" runat="server" Text="Count" onclick="count_Click" BackColor="#FFFFCC" BorderColor="#66FF33"/>
+    
+    <asp:Button ID="item" runat="server" Text="Selected Item" onclick="item_Click" BackColor="#FFFFCC" BorderColor="#66FF33"/>
+    
+    <asp:Button ID="value" runat="server" Text="Selected value" BackColor="#FFFFCC" BorderColor="#66FF33"
+        onclick="value_Click"/>
+   
+    <asp:Button ID="clear" runat="server" Text="Clear all" onclick="clear_Click" 
+        BackColor="#FFFFCC" BorderColor="#66FF33"/>
+     <asp:Button ID="selected_item" runat="server" Text="Number of selected items" BackColor="#FFFFCC" BorderColor="#66FF33"
+        onclick="selected_item_Click" />
+</asp:Content>
