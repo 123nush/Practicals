@@ -14,7 +14,7 @@
         <h1 class="text-center"  >Implementing jquery get and set contents</h1>
         <div class="col-md-10 m-auto">
         <form class="w-50 m-auto pt-5">
-            <h2 id="heading" class="text-cneter">Getting <b>User</b> information</h2>
+            <h2 id="heading" class="text-center">Getting <b>User</b> information</h2>
             <div class="form-group">
                 <label  id="name_label"> Name</label>
                <input type="text" id='name' class="form-control" placeholder="Enter Your name">
@@ -28,12 +28,29 @@
             <button type="button" id="btn" class="btn btn-primary">Submit</button>
           </form>
         </div>
+        <div class="col-md-10 m-auto">
+            <h3 id="user_info" class="text-center" style="display: none;">Users information</h3>
+            <div class="col-md-5-m-auto">
+            <h4 style="display: none;" id="show_name">Name</h4>
+            <p id="name_info"></p>
+            <h4 style="display: none;" id="show_email">Email</h4>
+            <p id="email_info"></p>
+        </div>
+        </div>
     </body>
     <script>
         $(document).ready(function(){
             $('#btn').click(function(){
                 alert($('#heading').html()+"\n"+$('#name_label').text()+" :"+$('#name').val()+"\n"+$('#email_label').text()+" :"+$('#email').val())
                
+            })
+            $('#btn').click(function(){
+                $('h3').show(1000)
+                $('#show_name').show(1000)
+                $('#name_info').text($('#name').val());
+                $('#show_email').show(1000)
+                $('#email_info').text($('#email').val());
+
             })
         })
     </script>
