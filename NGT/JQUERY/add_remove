@@ -19,15 +19,33 @@
 2.$(selector).removeAttr() use to remove attributes into the HTML element.
 </p>
 </div>
-
+<div class="col-md-10 m-auto">
+    <h4>List of fruits</h4>
+   <ol>
+    <li>Apple</li>
+    <li id="berry">Berry
+        <ul><li>Blue berry</li>
+        <li>Black berry</li></ul>
+    </li>
+    <li>Banana</li>
+    <li>Mango</li>
+    
+   </ol>
+   <button type="button" id="btn1" class="btn btn-primary"> Remove Berry option</button>
+   <button type="button" id="btn2" class="btn btn-primary"> Remove sub categories of berry option</button>
 </body>
 <script>
     $(document).ready(function(){
         $('#info').before("<h3>jQuery Before</h3>")
         $('#info').prepend("“Write less, do more” JQuery is the lightweight plugin.")
         $('#info').append(" Before starting you should have a piece of knowledge about:HTML,CSS,JAVASCRIPT.")
-
         $('#info').after("<h1>Good Bye!!!!</h1>")
+        $('#btn1').click(function(){
+            $('#berry').remove()
+        })
+        $('#btn2').click(function(){
+            $('ul').empty()
+        })
 
     })
 </script>
