@@ -1,4 +1,3 @@
-
 graph={'A':set(['B','C']),
        'B':set(['A','D','E']),
        'C':set(['A','F']),
@@ -8,7 +7,7 @@ graph={'A':set(['B','C']),
        }
 def dfs(graph,start):
     visited,stack=set(),[start]
-    while stack:
+    while stack:#10
         vertex=stack.pop()
         if vertex not in visited:
             print("Current vertex:",vertex)#extra
@@ -18,7 +17,7 @@ def dfs(graph,start):
             print("Stack:",stack)
     return visited
 
-print(dfs(graph,'A'))
+print(dfs(graph,'A'))#20
 
 def dfs_paths(graph,start,goal):
     stack=[(start,[start])]
@@ -36,11 +35,17 @@ def dfs_paths(graph,start,goal):
                 stack.append((next,path+[next]))
                 print("current stack",stack)#extra
         print()
-print(list(dfs_paths(graph,'A','F')))
+print(list(dfs_paths(graph,'A','E')))
 
-'''def shortest_path(graph,start,goal):
-    try:
-        return next(bfs_paths(graph,start,goal))
-    except stopIteration:
-        return None'''
-
+def shortest_path(graph,start,goal):
+    try:#40
+        min_path=float('inf')
+        for path in list(dfs_paths(graph,start,goal)):
+            size=len(path)
+            if size<min_path:
+                min_path=size
+                short_path=path
+        return short_path# shorts
+    except StopIteration:
+        return None
+print(shortest_path(graph,'A','E'))
