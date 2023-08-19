@@ -1,5 +1,7 @@
-job_profiles = [
-   {
+{
+    "type":"module",
+    "job_profile": [{
+ 
     "job_profile_name":"Artificial Intelligence",
     "Description":"Artificial intelligence (AI) engineers are responsible for developing, programming and training the complex networks of algorithms that make up AI so that they can function like a human brain. This role requires combined expertise in software development, programming, data science and data engineering",
     "technologies":["Natural language generation","Speech recognition","Virtual agents","Decision management","Biometrics","Machine learning","Robotic process automation","Peer-to-peer network","Deep learning platforms","AL-optimized hardware"],
@@ -34,11 +36,122 @@ job_profiles = [
         "Description":"A Software Engineer is an IT professional who designs, develops and maintains computer software at a company. They use their creativity and technical skills and apply the principles of software engineering to help solve new and ongoing problems for an organization.",
         "technologies":["Coding languages"," Android Jetpack","Instant Android Apps","Augmented Reality","Artificial Intelligence and Machine Learning "," Ethereum Integration","Cloud Computing","Integration of the Internet of Things (IoT)","Integration of Chatbots"," Enhancements to Security Using Biometrics"],
         "update_date":"2023-08-04"
-},{
-        "job_profile_name":"UI/UX Designer",
-        "Description":"User experience (UX) designers work to optimize the interaction between humans and products. Find out why you should consider a career in UX design.",
-        "technologies":["Coding languages"," Android Jetpack","Instant Android Apps","Augmented Reality","Artificial Intelligence and Machine Learning "," Ethereum Integration","Cloud Computing","Integration of the Internet of Things (IoT)","Integration of Chatbots"," Enhancements to Security Using Biometrics"],
-        "update_date":"2023-08-04"
+
     }
- 
-]
+],
+"User":[
+    {
+        "username":"123nush",
+        "name":"Anushka",
+        "password":"anushka111",
+        "email":"anushka@gmail.com",
+        "user_type":"a"
+    },
+    {
+        "username":"sanika18",
+        "name":"sanika",
+        "password":"sanika111",
+        "email":"sanika@gmail.com",
+        "user_type":"o"
+    },
+    {
+        "username":"johndoe",
+        "name":"John Doe",
+        "password":"john123",
+        "email":"johndoe@gmail.com",
+        "user_type":"o"
+    },
+{
+        "username":"janedoe",
+        "name":"Jane Doe",
+        "password":"jane123",
+        "email":"janedoe@gmail.com",
+        "user_type":"o"
+    },
+{
+        "username":"jenny",
+        "name":"Jenny shrof",
+        "password":"jenny234",
+        "email":"jenny@gmail.com",
+        "user_type":"o"
+    }
+
+],
+"Review":[{
+    "review_id": 101,
+    "job_profile_suggested": "Software Engineer",
+    "reason_for_job_profile": "Trending job",
+    "suggestion_for_system": null
+},{
+    "review_id": 102,
+    "job_profile_suggested": "Data Analyst",
+    "reason_for_job_profile": "High demand",
+    "suggestion_for_system": null
+},
+{
+    "review_id": 103,
+    "job_profile_suggested": "Product Manager",
+    "reason_for_job_profile": "Good salary",
+    "suggestion_for_system": null
+},
+{
+    "review_id": 104,
+    "job_profile_suggested": "Marketing Manager",
+    "reason_for_job_profile": "Good salary",
+    "suggestion_for_system": null
+},
+{
+    "review_id": 105,
+    "job_profile_suggested": "Software Developer",
+    "reason_for_job_profile": "High demand",
+    "suggestion_for_system": null
+},
+{
+    "review_id": 106,
+    "job_profile_suggested": "Data Scientist",
+    "reason_for_job_profile": "Trending job",
+    "suggestion_for_system": null
+}
+
+],
+"Result":[{
+    "result_id": 1,
+    "score": 9,
+    "score_analysis": "performed well in logical reasoning, have to focus on topics related to data visualization"
+},{ "result_id": 2,"score": 7, "score_analysis": "showed good understanding of statistics, need to work on problem-solving skills" }
+
+,{ "result_id": 3, "score": 6, "score_analysis": "struggled with critical thinking questions, need to improve analytical skills" }
+
+,{ "result_id": 4, "score": 8, "score_analysis": "demonstrated strong knowledge in data manipulation, should practice more on statistical testing" }
+
+,{ "result_id": 5, "score": 6, "score_analysis": "performed exceptionally in coding tasks, should work on effective communication" }
+],
+"Quiz":[{
+    "quiz_id":501,
+    "quiz_date":"2023-08-10",
+    "completed_questions": 10,
+    "incomplete_questions": 0
+},{ "quiz_id":502, "quiz_date":"2023-08-11", "completed_questions": 8, "incomplete_questions": 2 }
+
+,{ "quiz_id":503, "quiz_date":"2023-08-12", "completed_questions": 9, "incomplete_questions": 1 }
+
+,{ "quiz_id":504, "quiz_date":"2023-08-13", "completed_questions": 5, "incomplete_questions": 3 }
+
+,{ "quiz_id":505, "quiz_date":"2023-08-14", "completed_questions": 6, "incomplete_questions": 4 }],
+"question_answer":[{
+    "question_id":1001,
+    "question":"Select function which will be used for grouping purpose in Pandas",
+    "difficulty_level":"simple",
+    "option_1":"cut()",
+    "option_2":"sum()",
+    "option_3":"pivot()",
+    "option_4":"head()",
+    "correct_answer_description":"pandas.pivot(index, columns, values) function produces pivot table based on 3 columns of the DataFrame. Uses unique values from index / columns and fills with values."
+},{ "question_id":1002, "question":"Which method can be used to drop duplicate values in a Pandas DataFrame?", "difficulty_level":"simple", "option_1":"dropduplicates()", "option_2":"removeduplicates()", "option_3":"deleteduplicates()", "option_4":"eliminateduplicates()", "correct_answer_description":"The drop_duplicates() method is used to drop duplicate values in a Pandas DataFrame." }
+
+,{ "question_id":1003, "question":"What is the purpose of the info() method in Pandas?", "difficulty_level":"simple", "option_1":"Displays information about the data types, memory usage, and non-null values", "option_2":"Sorts the data in ascending order", "option_3":"Calculates the cumulative sum of the data", "option_4":"Converts categorical data into numerical data", "correct_answer_description":"The info() method in Pandas displays information about the data types, memory usage, and non-null values in a DataFrame."}
+
+,{ "question_id":1004, "question":"Which method can be used to rename columns in a Pandas DataFrame?", "difficulty_level":"simple", "option_1":"renamecolumns()", "option_2":"changecolumnnames()", "option_3":"altercolumnnames()", "option_4":"rename()", "correct_answer_description":"The rename() method is used to rename columns in a Pandas DataFrame." }
+
+,{ "question_id":1005, "question":"How can missing values be handled in a Pandas DataFrame?", "difficulty_level":"simple", "option_1":"dropmissing()", "option_2":"fillblanks()", "option_3":"ignoremissing()", "option_4":"fillna()", "correct_answer_description":"The fillna() method can be used to fill missing values in a Pandas DataFrame." }]
+}
