@@ -9,7 +9,16 @@ local          0.000GB
 > use sample
 switched to db sample
 
-##### CREATE TABLE #####
+
+##### CREATE COLLECTION(TABLE) EXPLICITLY #######
+> db.createCollection("sanika")
+{ "ok" : 1 }
+
+> show collections
+sanika
+
+
+##### CREATE COLLECTION(TABLE) #####
 > db.samplecollection.insert({"name":"ABC"})
 WriteResult({ "nInserted" : 1 })
 
@@ -19,9 +28,11 @@ WriteResult({ "nInserted" : 1 })
 
 > show collections
 samplecollection
+sanika
 
 ##### DROP COLLECTION #######
 > db.samplecollection.drop()
 true
 
 > show collections
+sanika
