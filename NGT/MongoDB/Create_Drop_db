@@ -1,1 +1,194 @@
+---------------------STARTING SERVER(RUN CMD AS ADMINISTRATOR)-------------------------------------------
+C:\Windows\system32>cd..
 
+C:\Windows>cd..
+
+C:\>cd mongodb3.7.9\bin
+
+C:\mongodb3.7.9\bin>mongod.exe
+2023-09-01T08:12:13.233+0530 I CONTROL  [main] Automatically disabling TLS 1.0, to force-enable TLS 1.0 specify --sslDisabledProtocols 'none'
+2023-09-01T08:12:14.310+0530 I CONTROL  [initandlisten] MongoDB starting : pid=4088 port=27017 dbpath=C:\data\db\ 64-bit host=DESKTOP-LNUQ2PI
+2023-09-01T08:12:14.311+0530 I CONTROL  [initandlisten] targetMinOS: Windows 7/Windows Server 2008 R2
+2023-09-01T08:12:14.311+0530 I CONTROL  [initandlisten] db version v3.7.9
+2023-09-01T08:12:14.311+0530 I CONTROL  [initandlisten] git version: 681d1e0bf8d45c366848678811bad6f1a471f20c
+2023-09-01T08:12:14.311+0530 I CONTROL  [initandlisten] allocator: tcmalloc
+2023-09-01T08:12:14.311+0530 I CONTROL  [initandlisten] modules: none
+2023-09-01T08:12:14.311+0530 I CONTROL  [initandlisten] build environment:
+2023-09-01T08:12:14.311+0530 I CONTROL  [initandlisten]     distmod: 2008plus-ssl
+2023-09-01T08:12:14.311+0530 I CONTROL  [initandlisten]     distarch: x86_64
+2023-09-01T08:12:14.311+0530 I CONTROL  [initandlisten]     target_arch: x86_64
+2023-09-01T08:12:14.311+0530 I CONTROL  [initandlisten] options: {}
+2023-09-01T08:12:14.376+0530 I STORAGE  [initandlisten] Detected data files in C:\data\db\ created by the 'wiredTiger' storage engine, so setting the active storage engine to 'wiredTiger'.
+2023-09-01T08:12:14.376+0530 I STORAGE  [initandlisten] wiredtiger_open config: create,cache_size=1535M,session_max=20000,eviction=(threads_min=4,threads_max=4),config_base=false,statistics=(fast),log=(enabled=true,archive=true,path=journal,compressor=snappy),file_manager=(close_idle_time=100000),statistics_log=(wait=0),verbose=(recovery_progress),
+2023-09-01T08:12:14.848+0530 I STORAGE  [initandlisten] WiredTiger message [1693536134:848368][4088:140728813304912], txn-recover: Main recovery loop: starting at 2/16384
+2023-09-01T08:12:14.913+0530 I STORAGE  [initandlisten] WiredTiger message [1693536134:913516][4088:140728813304912], txn-recover: Recovering log 2 through 3
+2023-09-01T08:12:14.981+0530 I STORAGE  [initandlisten] WiredTiger message [1693536134:980777][4088:140728813304912], txn-recover: Recovering log 3 through 3
+2023-09-01T08:12:15.012+0530 I STORAGE  [initandlisten] WiredTiger message [1693536135:12762][4088:140728813304912], txn-recover: Set global recovery timestamp: 0
+2023-09-01T08:12:15.087+0530 I RECOVERY [initandlisten] WiredTiger recoveryTimestamp. Ts: Timestamp(0, 0)
+2023-09-01T08:12:15.298+0530 I CONTROL  [initandlisten]
+2023-09-01T08:12:15.299+0530 I CONTROL  [initandlisten] ** NOTE: This is a development version (3.7.9) of MongoDB.
+2023-09-01T08:12:15.299+0530 I CONTROL  [initandlisten] **       Not recommended for production.
+2023-09-01T08:12:15.299+0530 I CONTROL  [initandlisten]
+2023-09-01T08:12:15.299+0530 I CONTROL  [initandlisten] ** WARNING: Access control is not enabled for the database.
+2023-09-01T08:12:15.300+0530 I CONTROL  [initandlisten] **          Read and write access to data and configuration is unrestricted.
+2023-09-01T08:12:15.300+0530 I CONTROL  [initandlisten]
+2023-09-01T08:12:15.300+0530 I CONTROL  [initandlisten] ** WARNING: This server is bound to localhost.
+2023-09-01T08:12:15.300+0530 I CONTROL  [initandlisten] **          Remote systems will be unable to connect to this server.
+2023-09-01T08:12:15.300+0530 I CONTROL  [initandlisten] **          Start the server with --bind_ip <address> to specify which IP
+2023-09-01T08:12:15.300+0530 I CONTROL  [initandlisten] **          addresses it should serve responses from, or with --bind_ip_all to
+2023-09-01T08:12:15.300+0530 I CONTROL  [initandlisten] **          bind to all interfaces. If this behavior is desired, start the
+2023-09-01T08:12:15.301+0530 I CONTROL  [initandlisten] **          server with --bind_ip 127.0.0.1 to disable this warning.
+2023-09-01T08:12:15.301+0530 I CONTROL  [initandlisten]
+2023-09-01T08:12:15.301+0530 I CONTROL  [initandlisten]
+2023-09-01T08:12:15.301+0530 I CONTROL  [initandlisten] ** WARNING: The file system cache of this machine is configured to be greater than 40% of the total memory. This can lead to increased memory pressure and poor performance.
+2023-09-01T08:12:15.301+0530 I CONTROL  [initandlisten] See http://dochub.mongodb.org/core/wt-windows-system-file-cache
+2023-09-01T08:12:15.301+0530 I CONTROL  [initandlisten]
+2023-09-01T08:12:15.771+0530 I FTDC     [initandlisten] Initializing full-time diagnostic data capture with directory 'C:/data/db/diagnostic.data'
+2023-09-01T08:12:15.809+0530 I NETWORK  [initandlisten] waiting for connections on port 27017
+2023-09-01T08:28:43.324+0530 I NETWORK  [listener] connection accepted from 127.0.0.1:50908 #1 (1 connection now open)
+2023-09-01T08:28:43.340+0530 I NETWORK  [conn1] received client metadata from 127.0.0.1:50908 conn1: { application: { name: "MongoDB Shell" }, driver: { name: "MongoDB Internal Client", version: "3.7.9" }, os: { type: "Windows", name: "Microsoft Windows 10", architecture: "x86_64", version: "10.0 (build 17134)" } }
+2023-09-01T08:30:12.097+0530 I COMMAND  [conn1] command admin.$cmd appName: "MongoDB Shell" command: listDatabases { listDatabases: 1.0, $db: "admin" } numYields:0 reslen:230 locks:{ Global: { acquireCount: { r: 8 } }, Database: { acquireCount: { r: 3 } } } protocol:op_msg 864ms
+2023-09-01T08:33:04.183+0530 I STORAGE  [conn1] createCollection: quiz_analysis.users with generated UUID: 0b33aae5-0dfd-4bad-84e6-74657bee288b
+2023-09-01T08:38:48.763+0530 I STORAGE  [conn1] createCollection: sample.samplecollection with generated UUID: 45a1d7d5-51c3-498f-9546-9b3be2827ce7
+2023-09-01T08:45:01.518+0530 I COMMAND  [conn1] dropDatabase sample - starting
+2023-09-01T08:45:01.518+0530 I COMMAND  [conn1] dropDatabase sample - dropping 0 collections
+2023-09-01T08:45:01.540+0530 I COMMAND  [conn1] dropDatabase sample - finished
+
+
+
+--------------------------------START SHELL(OPEN NEW CMD AS ADMINISTRATOR)-------------------------------------
+C:\>cd C:\mongodb3.7.9\bin
+
+C:\mongodb3.7.9\bin>mongo.exe
+MongoDB shell version v3.7.9
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.7.9
+Server has startup warnings:
+2023-09-01T08:12:15.298+0530 I CONTROL  [initandlisten]
+2023-09-01T08:12:15.299+0530 I CONTROL  [initandlisten] ** NOTE: This is a development version (3.7.9) of MongoDB.
+2023-09-01T08:12:15.299+0530 I CONTROL  [initandlisten] **       Not recommended for production.
+2023-09-01T08:12:15.299+0530 I CONTROL  [initandlisten]
+2023-09-01T08:12:15.299+0530 I CONTROL  [initandlisten] ** WARNING: Access control is not enabled for the database.
+2023-09-01T08:12:15.300+0530 I CONTROL  [initandlisten] **          Read and write access to data and configuration is unrestricted.
+2023-09-01T08:12:15.300+0530 I CONTROL  [initandlisten]
+2023-09-01T08:12:15.300+0530 I CONTROL  [initandlisten] ** WARNING: This server is bound to localhost.
+2023-09-01T08:12:15.300+0530 I CONTROL  [initandlisten] **          Remote systems will be unable to connect to this server.
+2023-09-01T08:12:15.300+0530 I CONTROL  [initandlisten] **          Start the server with --bind_ip <address> to specify which IP
+2023-09-01T08:12:15.300+0530 I CONTROL  [initandlisten] **          addresses it should serve responses from, or with --bind_ip_all to
+2023-09-01T08:12:15.300+0530 I CONTROL  [initandlisten] **          bind to all interfaces. If this behavior is desired, start the
+2023-09-01T08:12:15.301+0530 I CONTROL  [initandlisten] **          server with --bind_ip 127.0.0.1 to disable this warning.
+2023-09-01T08:12:15.301+0530 I CONTROL  [initandlisten]
+2023-09-01T08:12:15.301+0530 I CONTROL  [initandlisten]
+2023-09-01T08:12:15.301+0530 I CONTROL  [initandlisten] ** WARNING: The file system cache of this machine is configured to be greater than 40% of the total memory. This can lead to increased memory pressure and poor performance.
+2023-09-01T08:12:15.301+0530 I CONTROL  [initandlisten] See http://dochub.mongodb.org/core/wt-windows-system-file-cache
+2023-09-01T08:12:15.301+0530 I CONTROL  [initandlisten]
+
+----------------------(BASIC COMMANDS)-----------------------------------
+##### TO SHOW ALL DATABASES #########
+> show dbs
+admin   0.000GB
+config  0.000GB
+local   0.000GB
+
+##### TO SHOW CURRENT DATABASE #######
+> db
+test
+
+##### TO CREATE NEW DATABASE #######(!!!!NO CREATE COMMAND)
+> use quiz_analysis
+switched to db quiz_analysis
+
+##### TO INSERT TABLE ########
+> db.users.insert({
+...         "username":"123nush",
+...         "name":"Anushka",
+...         "password":"anushka111",
+...         "email":"anushka@gmail.com",
+...         "user_type":"a"
+...     })
+WriteResult({ "nInserted" : 1 })
+
+###### CONFIRM TABLE CREATION ######
+> show collections
+users
+> db.users.insert({
+...         "username":"sanika18",
+...         "name":"sanika",
+...         "password":"sanika111",
+...         "email":"sanika@gmail.com",
+...         "user_type":"o"
+...     })
+WriteResult({ "nInserted" : 1 })
+> db.users.insert(  {
+...         "username":"Strokes",
+...         "name":"Ben Strokes",
+...         "password":"john123",
+...         "email":"Strokes@gmail.com",
+...         "user_type":"o"
+...     })
+WriteResult({ "nInserted" : 1 })
+> db.users.insert({
+...         "username":"Pitter",
+...         "name":"Pitter Glitter",
+...         "password":"jane123",
+...         "email":"Pitter@gmail.com",
+...         "user_type":"o"
+...     })
+WriteResult({ "nInserted" : 1 })
+> db.users.insert({
+...         "username":"jenny",
+...         "name":"Jenny shrof",
+...         "password":"jenny234",
+...         "email":"jenny@gmail.com",
+...         "user_type":"o"
+...     })
+WriteResult({ "nInserted" : 1 })
+> show collections
+users
+
+##### TO GET COUNT OF DATA ROWS ###### 
+> db.users.find().count()
+5
+
+##### TO SEE TABLE DATA #####
+> db.users.find()
+{ "_id" : ObjectId("64f154689fc670d651afd881"), "username" : "123nush", "name" : "Anushka", "password" : "anushka111", "email" : "anushka@gmail.com", "user_type" : "a" }
+{ "_id" : ObjectId("64f154af9fc670d651afd882"), "username" : "sanika18", "name" : "sanika", "password" : "sanika111", "email" : "sanika@gmail.com", "user_type" : "o" }
+{ "_id" : ObjectId("64f154e39fc670d651afd883"), "username" : "Strokes", "name" : "Ben Strokes", "password" : "john123", "email" : "Strokes@gmail.com", "user_type" : "o" }
+{ "_id" : ObjectId("64f154f69fc670d651afd884"), "username" : "Pitter", "name" : "Pitter Glitter", "password" : "jane123", "email" : "Pitter@gmail.com", "user_type" : "o" }
+{ "_id" : ObjectId("64f1550c9fc670d651afd885"), "username" : "jenny", "name" : "Jenny shrof", "password" : "jenny234", "email" : "jenny@gmail.com", "user_type" : "o" }
+
+
+------------------PRACTICAL 2A------------------------
+> show dbs
+admin          0.000GB
+config         0.000GB
+local          0.000GB
+
+> use sample
+switched to db sample
+
+> db.samplecollection.insert({"name":"John"})
+WriteResult({ "nInserted" : 1 })
+> db.samplecollection.insert({"name":"Jack","age":20})
+WriteResult({ "nInserted" : 1 })
+> db.samplecollection.insert({"name":"Jack","age":20,"gender":"male"})
+WriteResult({ "nInserted" : 1 })
+
+
+> show collections
+samplecollection
+
+> show dbs
+admin          0.000GB
+config         0.000GB
+local          0.000GB
+sample         0.000GB
+
+> db.dropDatabase()
+{ "dropped" : "sample", "ok" : 1 }
+
+> show dbs
+admin          0.000GB
+config         0.000GB
+local          0.000GB
