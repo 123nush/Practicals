@@ -1,0 +1,27 @@
+-----------------PRACTICAL 2B------------------------------
+
+> show dbs
+admin          0.000GB
+config         0.000GB
+local          0.000GB
+
+###### CREATE DATABASE ########
+> use sample
+switched to db sample
+
+##### CREATE TABLE #####
+> db.samplecollection.insert({"name":"ABC"})
+WriteResult({ "nInserted" : 1 })
+
+##### TO DISPLAY COLLECTION DATA ########
+> db.samplecollection.find()
+{ "_id" : ObjectId("64f15c8f9fc670d651afd889"), "name" : "ABC" }
+
+> show collections
+samplecollection
+
+##### DROP COLLECTION #######
+> db.samplecollection.drop()
+true
+
+> show collections
