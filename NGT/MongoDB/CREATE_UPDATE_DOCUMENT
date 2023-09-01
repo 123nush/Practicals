@@ -85,4 +85,27 @@ WriteResult({ "nRemoved" : 1 })
 { "_id" : ObjectId("64f154e39fc670d651afd883"), "username" : "Strokes", "name" : "Ben Strokes", "password" : "john123", "email" : "Strokes@gmail.com", "user_type" : "o" }
 { "_id" : ObjectId("64f154f69fc670d651afd884"), "username" : "Pitter", "name" : "Pitter Glitter", "password" : "jane123", "email" : "Pitter@gmail.com", "user_type" : "o" }
 
+QQQQQQQQQQQQQQQ ADDING NEW COLUMN(FIELD) IN DOCUMENT HAVING USER TYPE 'ADMIN" QQQQQQQQQQQQQQQQQQQ
+ db.users.update({"username":"123nush"},{$set:{"gender":"Female"}})
+WriteResult({ "nMatched" : 1, "nUpserted" : 0, "nModified" : 1 })
 
+> db.users.find({"username":"123nush"})
+{ "_id" : ObjectId("64f154689fc670d651fd881"), "username" : "123nush", "name" : "Anushka", "password" : "anushka111", "email" : "anushka@gmail.com", "user_type" : "a", "gender" : "Female" }
+
+QQQQQQQQQQ ID IS IMMUTABLE QQQQQQQQQQQQQQQQ
+> db.users.insert({"_id":"jenny_ben","username":"Jenny","user_type":"o"})
+WriteResult({ "nInserted" : 1 })
+
+> db.users.find({"username":"Jenny"})
+{ "_id" : "jenny_ben", "username" : "Jenny", "user_type" : "o" }
+
+> db.users.update({"username":"Jenny"},{$set:{"_id":"Quiz_User"}})
+WriteResult({
+        "nMatched" : 0,
+        "nUpserted" : 0,
+        "nModified" : 0,
+        "writeError" : {
+                "code" : 66,
+                "errmsg" : "Performing an update on the path '_id' would modify the immutable field '_id'"
+        }
+})
