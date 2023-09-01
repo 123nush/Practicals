@@ -109,3 +109,12 @@ WriteResult({
                 "errmsg" : "Performing an update on the path '_id' would modify the immutable field '_id'"
         }
 })
+
+
+
+QQQQQQQQQQQ IMPLEMENTING PROJECTOR QQQQQQQQQQQQQQ
+> db.users.find({"username":"123nush"},{"username":1,"user_type":1})
+{ "_id" : ObjectId("64f154689fc670d651afd881"), "username" : "123nush", "user_type" : "a" }
+
+> db.users.find({"username":"123nush"},{"username":0,"user_type":0})
+{ "_id" : ObjectId("64f154689fc670d651afd881"), "name" : "Anushka", "password" : "anushka111", "email" : "anushka@gmail.com", "gender" : "Female" }
