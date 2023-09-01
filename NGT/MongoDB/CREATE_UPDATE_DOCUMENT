@@ -1,1 +1,88 @@
+###### CREATE DOCUMENT ######
+db.users.insert({
+...         "username":"123nush",
+...         "name":"Anushka",
+...         "password":"anushka111",
+...         "email":"anushka@gmail.com",
+...         "user_type":"a"
+...     })
+WriteResult({ "nInserted" : 1 })
+
+
+> show collections
+users
+> db.users.insert({
+...         "username":"sanika18",
+...         "name":"sanika",
+...         "password":"sanika111",
+...         "email":"sanika@gmail.com",
+...         "user_type":"o"
+...     })
+WriteResult({ "nInserted" : 1 })
+> db.users.insert(  {
+...         "username":"Strokes",
+...         "name":"Ben Strokes",
+...         "password":"john123",
+...         "email":"Strokes@gmail.com",
+...         "user_type":"o"
+...     })
+WriteResult({ "nInserted" : 1 })
+> db.users.insert({
+...         "username":"Pitter",
+...         "name":"Pitter Glitter",
+...         "password":"jane123",
+...         "email":"Pitter@gmail.com",
+...         "user_type":"o"
+...     })
+WriteResult({ "nInserted" : 1 })
+> db.users.insert({
+...         "username":"jenny",
+...         "name":"Jenny shrof",
+...         "password":"jenny234",
+...         "email":"jenny@gmail.com",
+...         "user_type":"o"
+...     })
+WriteResult({ "nInserted" : 1 })
+
+############## SHOW COLLECTIONS#####################
+ db.users.find()
+{ "_id" : ObjectId("64f154689fc670d651afd881"), "username" : "123nush", "name" : "Anushka", "password" : "anushka111", "email" : "anushka@gmail.com", "user_type" : "a" }
+{ "_id" : ObjectId("64f154af9fc670d651afd882"), "username" : "sanika18", "name" : "sanika", "password" : "sanika111", "email" : "sanika@gmail.com", "user_type" : "o" }
+{ "_id" : ObjectId("64f154e39fc670d651afd883"), "username" : "Strokes", "name" : "Ben Strokes", "password" : "john123", "email" : "Strokes@gmail.com", "user_type" : "o" }
+{ "_id" : ObjectId("64f154f69fc670d651afd884"), "username" : "Pitter", "name" : "Pitter Glitter", "password" : "jane123", "email" : "Pitter@gmail.com", "user_type" : "o" }
+{ "_id" : ObjectId("64f1550c9fc670d651afd885"), "username" : "jenny", "name" : "Jenny shrof", "password" : "jenny234", "email" : "jenny@gmail.com", "user_type" : "o" }
+
+QQQQQQ SHOW ALL USERS HAVING USER TYPE AS OTHER USERS OR SHOW ALL OTHER USERS QQQQQQQQQQQQQQQQQQQQQQQ
+> db.users.find({"user_type":"o"})
+{ "_id" : ObjectId("64f154af9fc670d651afd882"), "username" : "sanika18", "name" : "sanika", "password" : "sanika111", "email" : "sanika@gmail.com", "user_type" : "o" }
+{ "_id" : ObjectId("64f154e39fc670d651afd883"), "username" : "Strokes", "name" : "Ben Strokes", "password" : "john123", "email" : "Strokes@gmail.com", "user_type" : "o" }
+{ "_id" : ObjectId("64f154f69fc670d651afd884"), "username" : "Pitter", "name" : "Pitter Glitter", "password" : "jane123", "email" : "Pitter@gmail.com", "user_type" : "o" }
+{ "_id" : ObjectId("64f1550c9fc670d651afd885"), "username" : "jenny", "name" : "Jenny shrof", "password" : "jenny234", "email" : "jenny@gmail.com", "user_type" : "o" }
+
+
+QQQQQQ UPDATE EMAIL OF USER WITH USERNAME SANIKA18   QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+> db.users.update({"username":"sanika18"},{$set:{"email":"sanika@yahoo.com"}})
+WriteResult({ "nMatched" : 1, "nUpserted" : 0, "nModified" : 1 })
+> db.users.find({"username":"sanika18"})
+{ "_id" : ObjectId("64f154af9fc670d651afd882"), "username" : "sanika18", "name" : "sanika", "password" : "sanika111", "email" : "sanika@yahoo.com", "user_type" : "o" }
+
+
+
+QQQQQQQ REMOVE USER JENNY QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+> db.users.remove({"username":"jenny"})
+WriteResult({ "nRemoved" : 1 })
+
+
+> db.users.find({"user_type":"o"}  )
+{ "_id" : ObjectId("64f154af9fc670d651afd882"), "username" : "sanika18", "name" : "sanika", "password" : "sanika111", "email" : "sanika@yahoo.com", "user_type" : "o" }
+{ "_id" : ObjectId("64f154e39fc670d651afd883"), "username" : "Strokes", "name" : "Ben Strokes", "password" : "john123", "email" : "Strokes@gmail.com", "user_type" : "o" }
+{ "_id" : ObjectId("64f154f69fc670d651afd884"), "username" : "Pitter", "name" : "Pitter Glitter", "password" : "jane123", "email" : "Pitter@gmail.com", "user_type" : "o" }
+
+
+> db.users.find(  )
+{ "_id" : ObjectId("64f154689fc670d651afd881"), "username" : "123nush", "name" : "Anushka", "password" : "anushka111", "email" : "anushka@gmail.com", "user_type" : "a" }
+{ "_id" : ObjectId("64f154af9fc670d651afd882"), "username" : "sanika18", "name" : "sanika", "password" : "sanika111", "email" : "sanika@yahoo.com", "user_type" : "o" }
+{ "_id" : ObjectId("64f154e39fc670d651afd883"), "username" : "Strokes", "name" : "Ben Strokes", "password" : "john123", "email" : "Strokes@gmail.com", "user_type" : "o" }
+{ "_id" : ObjectId("64f154f69fc670d651afd884"), "username" : "Pitter", "name" : "Pitter Glitter", "password" : "jane123", "email" : "Pitter@gmail.com", "user_type" : "o" }
+
 
