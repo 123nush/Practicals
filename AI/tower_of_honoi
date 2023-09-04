@@ -10,3 +10,12 @@ def moveDisk(fp,tp):
     print("Moving disk from ",fp," to ",tp)
 
 moveTower(3,"A","B","C")
+'''output
+Moving disk from  A  to  B
+Moving disk from  A  to  C
+Moving disk from  B  to  C
+Moving disk from  A  to  B
+Moving disk from  C  to  A
+Moving disk from  C  to  B
+Moving disk from  A  to  B
+''''
