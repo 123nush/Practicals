@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Json Parsing</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="col-md-10 text-center div-container">
+        <h2>
+            Performing Json Parsing
+        </h2>
+        <h5>User Data</h5>
+        <ol class="f-bold">
+        <div class="row-md-10 row-lg-10 div-container d-flex m-auto">
+            <div id="user0" class="col-md-4 col-lg-4 d-flex m-auto text-center" ></div>
+            <div id="user1" class="col-md-4 col-lg-4 d-flex m-auto text-center"></div>
+        </div>
+        <h5>Job Profiles</h5>
+        <ol class="f-bold">
+        <div class="row-md-10 row-lg-10 div-container d-flex m-auto">
+            <div id="job0" class="col-md-4 col-lg-4 d-flex m-auto text-center" ></div>
+            <div id="job1" class="col-md-4 col-lg-4 d-flex m-auto text-center"></div>
+        </div>
+           
+        </ol>
+        </div>
+    </div>
+    <script>
+    var	JSONtext='[{"username":"Strokes","name":"Ben Strokes","password":"john123","email":"Strokes@gmail.com","user_type":"o"},{"username":"Pitter","name":"Pitter Glitter","password":"jane123","email":"Pitter@gmail.com","user_type":"o"}]';
+    var data = JSON.parse(JSONtext);
+for (var i = 0; i < data.length; i++) {
+    var userData = data[i];
+    var username = userData.username;
+    var name = userData.name;
+    var password = userData.password;
+    var email = userData.email;
+    var userType = userData.user_type;
+    var users=document.getElementById("user"+[i]);
+    var htmlTemplate = `
+            <li>
+            <p>Name: ${username}</p>
+            <p>Age: ${name}</p>
+            <p>Password: ${ password}</p>
+            <p>Email:${email}</p>
+            <p>User Type:${userType}</p>
+            </li>`;
+    users.innerHTML=htmlTemplate;
+
+    function customReviver(key, value) {
+    if (key === "update_date") {
+        return new Date(value);
+    }
+    return value;
+}
+    var JobText=' [{"job_profile_name":"Artificial Intelligence","Description":"Artificial intelligence (AI) engineers are responsible for developing, programming and training the complex networks of algorithms that make up AI so that they can function like a human brain. This role requires combined expertise in software development, programming, data science and data engineering","technologies":["Natural language generation","Speech recognition","Virtual agents","Decision management","Biometrics","Machine learning","Robotic process automation","Peer-to-peer network","Deep learning platforms","AL-optimized hardware"],"update_date":"2023-08-04"},{"job_profile_name":"Database Administrator","Description":"Database Administrators are professionals who ensure that all databases, including those for financial or customer information, stay up-to-date with policies and procedures in place to protect against data loss.","technologies":["SQL","UNIX","Linux","Oracle","Windows Operating System","Data Analysis","Microsoft Access","HTML"],"update_date":"2023-08-04"}]'};
+    var data1=JSON.parse(JobText,customReviver);
+    for (var i = 0; i < data1.length; i++) {
+    var jobProfile = data1[i];
+    var job= jobProfile.job_profile_name;
+   var description= jobProfile.Description;
+   var technology=jobProfile.technologies;
+    // for (var j = 0; j < jobProfile.technologies.length; j++) {
+    //     // console.log("  - " + jobProfile.technologies[j]);
+    // }
+var date= jobProfile.update_date;
+var j=document.getElementById("job"+[i]);
+var temp=`
+<li>
+    <p>Job Profile:${job}</p>
+    <p>Description:${description}</p>
+    <p>technology:${technology}</p>
+    <p>Update Date:${date}</p>
+
+</li>
+`
+j.innerHTML=temp;
+
+}
+
+</script>
+
+</body>
+</html>
