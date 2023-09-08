@@ -1,0 +1,28 @@
+########Delete documents from reviews where result_id is 1,2,3,4,5#####
+db.reviews.remove({$or:[{result_id:1},{result_id:2},{result_id:3},{result_id:4},{result_id:5}]}
+... )
+WriteResult({ "nRemoved" : 5 })
+
+
+######Display reviews who suggested job profile data analyst or data scientist #########
+> db.reviews.find({$or:[{"job_profile_suggested":"Data Analyst"},{"job_profile_suggested":"Data Scientist"}]})
+{ "_id" : ObjectId("64f6c01b91e0edbcf965f5ba"), "review_id" : 102, "job_profile_suggested" : "Data Analyst", "reason_for_job_profile" : "High demand", "suggestion_for_system" : null, "username" : "Strokes" }
+{ "_id" : ObjectId("64f6c01b91e0edbcf965f5bd"), "review_id" : 105, "job_profile_suggested" : "Data Scientist", "reason_for_job_profile" : "Trending job", "suggestion_for_system" : null, "username" : "Strokes" }
+
+
+_________________AND________________________
+####Display document where score of users is grester than 3 and less than equal to 7#####
+ db.result.find({$and:[{"score":{$gt:3}},{"score":{$lte:7}}]})
+{ "_id" : ObjectId("64f6c23a91e0edbcf965f5c4"), "result_id" : 2, "attained_questions" : 8, "correct_ans" : 7, "incorrect_ans" : 1, "score" : 7, "username" : "Strokes" }
+{ "_id" : ObjectId("64f6c23a91e0edbcf965f5c5"), "result_id" : 3, "attained_questions" : 9, "correct_ans" : 6, "incorrect_ans" : 3, "score" : 6, "username" : "Pitter" }
+{ "_id" : ObjectId("64f6c23a91e0edbcf965f5c7"), "result_id" : 5, "attained_questions" : 9, "correct_ans" : 7, "incorrect_ans" : 2, "score" : 7, "username" : "sanika18" }
+
+
+##### Display result of users who attained 10 questions and get greater than 7 score ########
+ db.result.find({$and:[{"score":{$gt:7}},{"attained_questions":{$eq:10}}]})
+{ "_id" : ObjectId("64f6c23a91e0edbcf965f5c3"), "result_id" : 1, "attained_questions" : 10, "correct_ans" : 8, "incorrect_ans" : 2, "score" : 8, "username" : "sanika18" }
+{ "_id" : ObjectId("64f6c23a91e0edbcf965f5c6"), "result_id" : 4, "attained_questions" : 10, "correct_ans" : 8, "incorrect_ans" : 2, "score" : 8, "username" : "jenny" }
+
+
+
+_______________________NOT_____________________________________
