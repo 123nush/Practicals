@@ -44,6 +44,15 @@ WriteResult({ "nInserted" : 1 })
 ...     })
 WriteResult({ "nInserted" : 1 })
 
+
+
+############## REMOVING FIELD #######################
+QQQQQQQQQQQQQQQ Remove field "suggestion_for_system" where value is null QQQQQQQQQQQQQQQQQQQQQQQQ 
+ db.reviews.update({"suggestion_for_system":null},{$unset:{"suggestion_for_system":""}},{multi:true})
+WriteResult({ "nMatched" : 4, "nUpserted" : 0, "nModified" : 4 })
+
+
+
 ############## SHOW COLLECTIONS#####################
  db.users.find()
 { "_id" : ObjectId("64f154689fc670d651afd881"), "username" : "123nush", "name" : "Anushka", "password" : "anushka111", "email" : "anushka@gmail.com", "user_type" : "a" }
