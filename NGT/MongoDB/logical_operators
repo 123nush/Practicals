@@ -50,3 +50,11 @@ __________________________________EXISTS_____________________________________
 ######display users which have given suggestion for the system##############
  db.reviews.find({"suggestion_for_system":{$exists:true}})
 { "_id" : ObjectId("64f6c01b91e0edbcf965f5bb"), "review_id" : 103, "job_profile_suggested" : "Product Manager", "reason_for_job_profile" : "Good salary", "suggestion_for_system" : "Work on Result analysis", "username" : "jenny" }
+
+
+________________TYPE()_______________________________
+QQQQQQQQQ Implementing TYPE QQQQQQQQQQQQ
+ db.reviews.find({"suggestion_for_system":{$type: "string"}})
+{ "_id" : ObjectId("64fa94b401ed580fe7c6f04f"), "review_id" : 103, "job_profile_suggested" : "Product Manager", "reason_for_job_profile" : "Good salary", "suggestion_for_system" : "Work on result analysis", "username" : "jenny" }
+
+
