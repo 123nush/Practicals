@@ -26,3 +26,13 @@ _________________AND________________________
 
 
 _______________________NOT_____________________________________
+######Display result of users who attained not less than 9 questions ##########
+ db.result.find({"attained_questions":{$not:{$lt:9}}})
+{ "_id" : ObjectId("64f6c23a91e0edbcf965f5c3"), "result_id" : 1, "attained_questions" : 10, "correct_ans" : 8, "incorrect_ans" : 2, "score" : 8, "username" : "sanika18" }
+{ "_id" : ObjectId("64f6c23a91e0edbcf965f5c5"), "result_id" : 3, "attained_questions" : 9, "correct_ans" : 6, "incorrect_ans" : 3, "score" : 6, "username" : "Pitter" }
+{ "_id" : ObjectId("64f6c23a91e0edbcf965f5c6"), "result_id" : 4, "attained_questions" : 10, "correct_ans" : 8, "incorrect_ans" : 2, "score" : 8, "username" : "jenny" }
+{ "_id" : ObjectId("64f6c23a91e0edbcf965f5c7"), "result_id" : 5, "attained_questions" : 9, "correct_ans" : 7, "incorrect_ans" : 2, "score" : 7, "username" : "sanika18" }
+
+#########Display users whose user_type not "other_user"###################
+db.users.find({"user_type":{$not:{$eq:"o"}}})
+{ "_id" : ObjectId("64f154689fc670d651afd881"), "username" : "123nush", "name" : "Anushka", "password" : "anushka111", "email" : "anushka@gmail.com", "user_type" : "a", "gender" : "Female" }
