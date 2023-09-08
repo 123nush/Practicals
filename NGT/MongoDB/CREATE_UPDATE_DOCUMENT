@@ -73,6 +73,8 @@ QQQQQQQ REMOVE USER JENNY QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
 WriteResult({ "nRemoved" : 1 })
 
 
+
+
 > db.users.find({"user_type":"o"}  )
 { "_id" : ObjectId("64f154af9fc670d651afd882"), "username" : "sanika18", "name" : "sanika", "password" : "sanika111", "email" : "sanika@yahoo.com", "user_type" : "o" }
 { "_id" : ObjectId("64f154e39fc670d651afd883"), "username" : "Strokes", "name" : "Ben Strokes", "password" : "john123", "email" : "Strokes@gmail.com", "user_type" : "o" }
