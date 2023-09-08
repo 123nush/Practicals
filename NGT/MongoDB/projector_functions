@@ -1,0 +1,59 @@
+_____________SORT()_______________
+QQQQQQQQQQQQQ Display score of uders in ascending orderQQQQQQQQQQQQQ
+> db.result.find().sort({"score":1})
+{ "_id" : ObjectId("64f6c23a91e0edbcf965f5c5"), "result_id" : 3, "attained_questions" : 9, "correct_ans" : 6, "incorrect_ans" : 3, "score" : 6, "username" : "Pitter" }
+{ "_id" : ObjectId("64f6c23a91e0edbcf965f5c4"), "result_id" : 2, "attained_questions" : 8, "correct_ans" : 7, "incorrect_ans" : 1, "score" : 7, "username" : "Strokes" }
+{ "_id" : ObjectId("64f6c23a91e0edbcf965f5c7"), "result_id" : 5, "attained_questions" : 9, "correct_ans" : 7, "incorrect_ans" : 2, "score" : 7, "username" : "sanika18" }
+{ "_id" : ObjectId("64f6c23a91e0edbcf965f5c3"), "result_id" : 1, "attained_questions" : 10, "correct_ans" : 8, "incorrect_ans" : 2, "score" : 8, "username" : "sanika18" }
+{ "_id" : ObjectId("64f6c23a91e0edbcf965f5c6"), "result_id" : 4, "attained_questions" : 10, "correct_ans" : 8, "incorrect_ans" : 2, "score" : 8, "username" : "jenny" }
+
+
+
+___________Limit()_________________________
+QQQQQQQQQQQ Find result of 2 users QQQQQQQQQQQQQQQQ
+ db.result.find().limit(2)
+{ "_id" : ObjectId("64f6c23a91e0edbcf965f5c3"), "result_id" : 1, "attained_questions" : 10, "correct_ans" : 8, "incorrect_ans" : 2, "score" : 8, "username" : "sanika18" }
+{ "_id" : ObjectId("64f6c23a91e0edbcf965f5c4"), "result_id" : 2, "attained_questions" : 8, "correct_ans" : 7, "incorrect_ans" : 1, "score" : 7, "username" : "Strokes" }
+
+
+___________skip()________________________________
+QQQQQQQQQQQQ Find results of 2 users but skipping first 2 QQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+ db.result.find().limit(2).skip(2)
+{ "_id" : ObjectId("64f6c23a91e0edbcf965f5c5"), "result_id" : 3, "attained_questions" : 9, "correct_ans" : 6, "incorrect_ans" : 3, "score" : 6, "username" : "Pitter" }
+{ "_id" : ObjectId("64f6c23a91e0edbcf965f5c6"), "result_id" : 4, "attained_questions" : 10, "correct_ans" : 8, "incorrect_ans" : 2, "score" : 8, "username" : "jenny" }
+
+
+__________________findOne()_____________________
+QQQQQQQQQQQ Find one user QQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+db.users.findOne()
+{
+        "_id" : ObjectId("64f154689fc670d651afd881"),
+        "username" : "123nush",
+        "name" : "Anushka",
+        "password" : "anushka111",
+        "email" : "anushka@gmail.com",
+        "user_type" : "a",
+        "gender" : "Female"
+}
+
+______________pretty()______________________
+QQQQQQQQQQQQ Find 2 users using pretty function QQQQQQQQQQQQQQQQQQQQQQQQ
+ db.users.find().pretty().limit(2)
+{
+        "_id" : ObjectId("64f154689fc670d651afd881"),
+        "username" : "123nush",
+        "name" : "Anushka",
+        "password" : "anushka111",
+        "email" : "anushka@gmail.com",
+        "user_type" : "a",
+        "gender" : "Female"
+}
+{
+        "_id" : ObjectId("64f154af9fc670d651afd882"),
+        "username" : "sanika18",
+        "name" : "sanika",
+        "password" : "sanika111",
+        "email" : "sanika@yahoo.com",
+        "user_type" : "o",
+        "score" : "96"
+}
