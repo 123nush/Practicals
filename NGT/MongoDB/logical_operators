@@ -36,3 +36,17 @@ _______________________NOT_____________________________________
 #########Display users whose user_type not "other_user"###################
 db.users.find({"user_type":{$not:{$eq:"o"}}})
 { "_id" : ObjectId("64f154689fc670d651afd881"), "username" : "123nush", "name" : "Anushka", "password" : "anushka111", "email" : "anushka@gmail.com", "user_type" : "a", "gender" : "Female" }
+
+
+
+__________________________________NOR___________________________________________
+> db.reviews.find({$nor:[{"job_profile_suggested":"Data Analyst"},{"job_profile_suggested":"Data Scientist"}]})
+{ "_id" : ObjectId("64f6c01b91e0edbcf965f5b9"), "review_id" : 101, "job_profile_suggested" : "Software Engineer", "reason_for_job_profile" : "Trending job", "suggestion_for_system" : null, "username" : "sanika18" }
+{ "_id" : ObjectId("64f6c01b91e0edbcf965f5bb"), "review_id" : 103, "job_profile_suggested" : "Product Manager", "reason_for_job_profile" : "Good salary", "suggestion_for_system" : null, "username" : "jenny" }
+{ "_id" : ObjectId("64f6c01b91e0edbcf965f5bc"), "review_id" : 104, "job_profile_suggested" : "Software Developer", "reason_for_job_profile" : "Trending job", "suggestion_for_system" : null, "username" : "Pitter" }
+
+
+__________________________________EXISTS_____________________________________
+######display users which have given suggestion for the system##############
+ db.reviews.find({"suggestion_for_system":{$exists:true}})
+{ "_id" : ObjectId("64f6c01b91e0edbcf965f5bb"), "review_id" : 103, "job_profile_suggested" : "Product Manager", "reason_for_job_profile" : "Good salary", "suggestion_for_system" : "Work on Result analysis", "username" : "jenny" }
