@@ -22,3 +22,21 @@ adjacent(R1, R2),
 color(R1, Color, Coloring_scheme),  
 color(R2, Color, Coloring_scheme).  
 
+1 ?- color(X,Y,x).
+X = 1,
+Y = orange ;
+X = 2,
+Y = pink .
+
+2 ?- color(X,Y,y).
+X = 1,
+Y = orange ;
+X = 2,
+Y = pink .
+
+3 ?- check(1,2,y).
+false.
+
+
+
+
