@@ -1,6 +1,15 @@
-go inside C:\Program Files\MongoDB\Server\3.6\bin for import and export
+______________go inside C:\Program Files\MongoDB\Server\3.6\bin for import and export__________________ 
 
+__________importing Complete database (all documents will be imported in single collection)________________________
 
 C:\Program Files\MongoDB\Server\3.6\bin>mongoimport --host localhost --db quiz-analysis --collection sample --file C:\quiz_database\job_profile.json
 2023-09-15T08:28:17.526+0530    connected to: localhost
 2023-09-15T08:28:17.552+0530    imported 1 document
+
+___________IMPORTING DATA IN SEPARATE DOCUMENTS OF A COLLECTION____________________________________
+_________TO IMPORT DATA IN SEPARATE DOCUMENTS, CREATE A JSON FILE HAVING ONLY DOCUMENTS WITHOUT NAME AND USE {}{} FORMAT WITHOUT COMMA____________
+
+C:\Program Files\MongoDB\Server\3.6\bin>mongoimport --host localhost --db quiz --collection job_profile --file C:\quiz_database\job_profile_collection.json
+2023-09-15T09:20:51.466+0530    connected to: localhost
+2023-09-15T09:20:51.483+0530    imported 5 documents
+
