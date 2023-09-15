@@ -1,0 +1,13 @@
+
+QQQQQQQQQQQQQQ Find average score of all users QQQQQQQQQQQQQQQQQQQ
+>db.result.aggregate({$group:{_id:"$username",avgScore:{$avg:"$score"}}})
+{ "_id" : "jenny", "avgScore" : 8 }
+{ "_id" : "Pitter", "avgScore" : 6 }
+{ "_id" : "Strokes", "avgScore" : 7 }
+{ "_id" : "sanika18", "avgScore" : 7.5 }]
+
+QQQQQQQQQQQQQQQQQQFINDING MAXIMUM SCORE OF SANIKA18 QQQQQQQQQQQQQQQQQQQQQQQ
+> db.result.aggregate({$match:{username:"sanika18"} },{$group:{_id:"$username",avgScore:{$max:"$score"}}})
+{ "_id" : "sanika18", "avgScore" : 8 }
+
+QQQQQQQQQQQQQQQQ QQQQQQQQQQQQQQQQQQQQQQQ
