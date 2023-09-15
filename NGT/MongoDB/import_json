@@ -1,0 +1,6 @@
+go inside C:\Program Files\MongoDB\Server\3.6\bin for import and export
+
+
+C:\Program Files\MongoDB\Server\3.6\bin>mongoimport --host localhost --db quiz-analysis --collection sample --file C:\quiz_database\job_profile.json
+2023-09-15T08:28:17.526+0530    connected to: localhost
+2023-09-15T08:28:17.552+0530    imported 1 document
