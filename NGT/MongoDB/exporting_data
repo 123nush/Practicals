@@ -1,0 +1,10 @@
+
+_______________________EXPORTING DATA INTO CSV FILE_____________________________
+C:\Program Files\MongoDB\Server\3.6\bin>mongoexport --db=quiz_analysis --collection=result --type=csv --fields=_id,result_id,score, --out=C:\quiz_database\csv_export.csv
+2023-09-15T09:02:07.799+0530    connected to: localhost
+2023-09-15T09:02:07.802+0530    exported 5 records
+
+________________________EXPORTING DATA INTO JSON FILE_____________________________
+C:\Program Files\MongoDB\Server\3.6\bin>mongoexport --db=quiz_analysis --collection=result --type=json --fields=_id,result_id,score, --out=C:\quiz_database\exporteddata.json
+2023-09-15T09:03:13.068+0530    connected to: localhost
+2023-09-15T09:03:13.070+0530    exported 5 records
