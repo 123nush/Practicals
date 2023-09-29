@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <!-- name of the AdRotator control is slightly misleading. A better name might be RandomImage or
+    RotatingImage.!-->
+    <ImageUrl>~/images/l1.jpg</ImageUrl>
+    <!--No space should be there while giving path of image in ImageUrl-->
+    <NavigateUrl>https://www.lorealparis.co.in/</NavigateUrl>
+    <Impression>1</Impression>
+    <Height>200px</Height>
+    <Width>300px</Width>
+    <AlternateText>Image 1</AlternateText>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/images/l2.jpg</ImageUrl>
+    <NavigateUrl>https://www.lorealparis.co.in/</NavigateUrl>
+    <Impression>1</Impression>
+    <Height>200px</Height>
+    <Width>300px</Width>
+    <AlternateText>Image 2</AlternateText>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/images/l3.jpg</ImageUrl>
+    <NavigateUrl>https://www.lorealparis.co.in/</NavigateUrl>
+    <Impression>1</Impression>
+    <Height>200px</Height>
+    <Width>300px</Width>
+    <AlternateText>Image 3</AlternateText>
+  </Ad>
+</Advertisements>
