@@ -8,62 +8,59 @@
 </head>
 <body>
     <form id="form1" runat="server">
-    <div>
-     <h1 style="text-align:center">
-       Performing Different validations
-    </h1>
-    </div>
-   <div style="margin:50px 50px 50px 130px">
-   <h2>Application form</h2>
-   <asp:Label runat="server" Text="Name" ID="name"></asp:Label><br />
-   <asp:TextBox ID="name_field" runat="server" 
-    ToolTip="Enter Your name"  ></asp:TextBox>
-   <asp:RequiredFieldValidator runat="server" ControlToValidate="name_field" 
-           ID="mandatory" ErrorMessage="Name must be filled" ForeColor="Red" 
-           ToolTip="Enter Your  Name" Display="Dynamic" ViewStateMode="Enabled" AccessKey="t"></asp:RequiredFieldValidator>
-       <br />
-       <br />
+    <div style="margin:50px">
+    <asp:Label ID="name" runat="server" Text="Name"></asp:Label><br/>
+    <asp:TextBox runat="server" ID="name_field"></asp:TextBox><br />
+        <asp:RequiredFieldValidator ID="name_val" runat="server" ErrorMessage="Name is mandatory" ControlToValidate="name_field" Display="Dynamic"></asp:RequiredFieldValidator>
 
-    <asp:Label runat="server" Text="Email" ID="email"></asp:Label><br />
-   <asp:TextBox ID="email_field" runat="server" ToolTip="Enter Your Email"></asp:TextBox>
-   <asp:RegularExpressionValidator runat="server" id="regular" Display="Dynamic" 
-           ErrorMessage="Invalid Email " ForeColor="Red" 
-           ValidationExpression="\S+@\w[.]\w" ControlToValidate="email_field"></asp:RegularExpressionValidator>
-       <br />
-       <br />
+        <br />
 
-    <asp:Label runat="server" Text="Age" ID="age"></asp:Label><br />
-   <asp:TextBox ID="age_field" runat="server" AutoPostBack="true" ontextchanged="age_field_TextChanged" 
-          ></asp:TextBox>
-   <asp:CustomValidator runat="server" ID="age_range" 
-           ClientValidationFunction="valid" ControlToValidate="age_field" 
-           Display="Dynamic" ErrorMessage="Age must be more than 20" ForeColor="Red"></asp:CustomValidator>
-       <br />
-       <br />
+     <asp:Label ID="email" runat="server" Text="Email"></asp:Label><br/>
+      <asp:TextBox runat="server" ID="email_field"   ></asp:TextBox><br />
+        <asp:RegularExpressionValidator ID="email_val" runat="server" 
+            ErrorMessage="Enter Valid Email" ControlToValidate="email_field" 
+            ValidationExpression="\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*" 
+            Display="Dynamic"></asp:RegularExpressionValidator>
 
-    <asp:Label runat="server" Text="Marks" ID="marks"></asp:Label><br />
-   <asp:TextBox ID="marks_field" runat="server"></asp:TextBox>
-   <asp:RangeValidator ID="marks_range" runat="server" ControlToValidate="marks_field"
-   MaximumValue="100" MinimumValue="0" Type="Integer" 
-           ErrorMessage="Marks  Must be between 0-100 " ForeColor="Red"></asp:RangeValidator>
-       <br />
-       <br />
-       <br />
-    <asp:Button id="submit"  runat="server" Text="Submit"/>
+        <br />
 
-<asp:ValidationSummary ID="ValidationSummary1"  runat="server" ForeColor="Red" />  
-   </div>
-   
+       <asp:Label ID="password" runat="server" Text="Password"></asp:Label><br/>
+      <asp:TextBox runat="server" ID="password_field" TextMode="Password"></asp:TextBox><br />
+
+      <asp:Label ID="confirm_password" runat="server" Text="Conform Password"></asp:Label><br/>
+      <asp:TextBox runat="server" ID="confirm_password_field" TextMode="Password"></asp:TextBox><br /><br />
+       <asp:CompareValidator ID="password_val" runat="server" 
+            ErrorMessage="Password not matches" ControlToCompare="confirm_password_field" 
+            ControlToValidate="password_field" Display="Dynamic"></asp:CompareValidator>
+        <br />
+      <asp:Label ID="age" runat="server" Text="Age"></asp:Label><br/>
+      <asp:TextBox runat="server" ID="age_field" ></asp:TextBox>
+        <br />
+        <asp:RangeValidator ID="age_val" runat="server" 
+            ErrorMessage="Age must be greater than 18" MaximumValue="50" 
+            MinimumValue="18" Type="Integer" ControlToValidate="age_field" 
+            Display="Dynamic"></asp:RangeValidator>
+        <br />
+        <br />
+          <asp:Label ID="marks" runat="server" Text="Marks"></asp:Label><br/>
+      <asp:TextBox runat="server" ID="marks_field" ></asp:TextBox><br /><br />
+        <asp:CustomValidator ID="marks_val" runat="server" 
+            ErrorMessage="Your marks not fits in Criteria" Display="Dynamic" 
+            ControlToValidate="marks_field" OnServerValidate="validate_marks"></asp:CustomValidator>
+        <br />
+        <asp:Button ID="Button1" runat="server" Text="Submit" 
+            onclick="Button1_Click"  />
+        <br />
+        <br />
+        <asp:Label runat="server" ID="reference" Text="For More Details"></asp:Label>
+        <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="https://vazecollege.net/" Text="Click Here"></asp:HyperLink>
+        <asp:Label ID="preview" runat="server" Enabled="False" Text="Preview:" 
+            Visible="False"></asp:Label>
+        <br />
+        <br />
+        <asp:ValidationSummary ID="summary" runat="server" ShowMessageBox="True" />
+
+        </div>
     </form>
-    <script type="text/javascript">
-        function valid(source, arguments) {
-            if (arguments.Value < 20) {
-                arguments.IsValid = true;
-            }
-            else {
-                arguments.IsValid = false;
-            }
-        }
-    </script>
 </body>
 </html>
