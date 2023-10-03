@@ -1,0 +1,42 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using System.Xml;
+using System.IO;
+using System.Xml.Linq;
+
+public partial class Default4 : System.Web.UI.Page
+{
+    protected void Page_Load(object sender, EventArgs e)
+    {
+
+        XDocument doc = new XDocument(
+ new XDeclaration("1.0", null, "yes"),
+ new XComment("Created with the XDocument class."),
+ new XElement("SuperProProductList",
+   new XElement("Product",
+     new XAttribute("ID", 1),
+     new XAttribute("Name", "Chair"),
+     new XElement("Price", 49.33)
+   ),
+   new XElement("Product",
+     new XAttribute("ID", 2),
+     new XAttribute("Name", "Car"),
+     new XElement("Price", 43399.55)
+   ),
+   new XElement("Product",
+     new XAttribute("ID", 3),
+     new XAttribute("Name", "Fresh Fruit Basket"),
+     new XElement("Price", 49.99)
+   )
+ )
+);
+        // Save the document.
+        doc.Save("E:\\All data\\Anushka\\TY_SEM-5\\AWP\\.NET\\XML\\student.xml");
+
+    }
+    
+}
