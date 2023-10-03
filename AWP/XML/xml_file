@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<students>
+  <student>
+    <name>abc</name>
+    <roll_no>1</roll_no>
+  </student>
+  <student>
+    <name>pqr</name>
+    <roll_no>2</roll_no>
+    <phone>1111111</phone>
+  </student>
+  <student name="lkm" roll_no="3"></student>
+</students>
