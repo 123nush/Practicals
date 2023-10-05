@@ -1,0 +1,217 @@
+Python 3.7.0 (v3.7.0:1bf9cc5093, Jun 27 2018, 04:06:47) [MSC v.1914 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+============== RESTART: C:/quiz_database/pythonconnectivity.py ==============
+>>> 
+============== RESTART: C:/quiz_database/pythonconnectivity.py ==============
+>>> 
+============== RESTART: C:/quiz_database/pythonconnectivity.py ==============
+651e2d7ddb07d011185a57c4
+>>> 
+============== RESTART: C:/quiz_database/pythonconnectivity.py ==============
+651e2eabdb07d01c1449b409
+>>> 
+============== RESTART: C:/quiz_database/pythonconnectivity.py ==============
+{'_id': ObjectId('651e2d7ddb07d011185a57c4'),
+ 'age': '20',
+ 'name': 'sanika chalke'}
+>>> 
+============== RESTART: C:/quiz_database/pythonconnectivity.py ==============
+<pymongo.cursor.Cursor object at 0x03CED150>
+>>> 
+============== RESTART: C:/quiz_database/pythonconnectivity.py ==============
+{'_id': ObjectId('651e2d7ddb07d011185a57c4'),
+ 'age': '20',
+ 'name': 'sanika chalke'}
+{'_id': ObjectId('651e2eabdb07d01c1449b409'),
+ 'age': '20',
+ 'name': 'sanika chalke'}
+>>> 
+============== RESTART: C:/quiz_database/pythonconnectivity.py ==============
+{'_id': ObjectId('651e2d7ddb07d011185a57c4'),
+ 'age': '20',
+ 'name': 'sanika chalke'}
+{'_id': ObjectId('651e2eabdb07d01c1449b409'),
+ 'age': '20',
+ 'name': 'sanika chalke'}
+{'_id': ObjectId('651e30b2db07d0081c9e0d48'),
+ 'age': '20',
+ 'name': 'anushka dalvi'}
+>>> 
+============== RESTART: C:/quiz_database/pythonconnectivity.py ==============
+{'_id': ObjectId('651e2d7ddb07d011185a57c4'),
+ 'age': '20',
+ 'name': 'sanika chalke'}
+{'_id': ObjectId('651e2eabdb07d01c1449b409'),
+ 'age': '20',
+ 'name': 'sanika chalke'}
+{'_id': ObjectId('651e30b2db07d0081c9e0d48'),
+ 'age': '20',
+ 'name': 'anushka dalvi'}
+{'_id': ObjectId('651e3189db07d01d94f64a9b'),
+ 'age': '20',
+ 'name': 'sakshi sataye'}
+>>> 
+============== RESTART: C:/quiz_database/pythonconnectivity.py ==============
+{'_id': ObjectId('651e2d7ddb07d011185a57c4'),
+ 'age': '20',
+ 'name': 'sanika chalke'}
+{'_id': ObjectId('651e2eabdb07d01c1449b409'),
+ 'age': '20',
+ 'name': 'sanika chalke'}
+{'_id': ObjectId('651e30b2db07d0081c9e0d48'),
+ 'age': '20',
+ 'name': 'anushka dalvi'}
+{'_id': ObjectId('651e3189db07d01d94f64a9b'),
+ 'age': '20',
+ 'name': 'sakshi sataye'}
+{'_id': ObjectId('651e3195db07d025cc96e559'),
+ 'age': '20',
+ 'name': 'aditi patil'}
+>>> 
+============== RESTART: C:/quiz_database/pythonconnectivity.py ==============
+{'_id': ObjectId('651e2d7ddb07d011185a57c4'),
+ 'age': '20',
+ 'name': 'sanika chalke'}
+{'_id': ObjectId('651e2eabdb07d01c1449b409'),
+ 'age': '20',
+ 'name': 'sanika chalke'}
+{'_id': ObjectId('651e30b2db07d0081c9e0d48'),
+ 'age': '20',
+ 'name': 'anushka dalvi'}
+{'_id': ObjectId('651e3189db07d01d94f64a9b'),
+ 'age': '20',
+ 'name': 'sakshi sataye'}
+{'_id': ObjectId('651e3195db07d025cc96e559'),
+ 'age': '20',
+ 'name': 'aditi patil'}
+>>> 
+============== RESTART: C:/quiz_database/pythonconnectivity.py ==============
+{'_id': ObjectId('651e2eabdb07d01c1449b409'),
+ 'age': '20',
+ 'name': 'sanika chalke'}
+{'_id': ObjectId('651e30b2db07d0081c9e0d48'),
+ 'age': '20',
+ 'name': 'anushka dalvi'}
+{'_id': ObjectId('651e3189db07d01d94f64a9b'),
+ 'age': '20',
+ 'name': 'sakshi sataye'}
+{'_id': ObjectId('651e3195db07d025cc96e559'),
+ 'age': '20',
+ 'name': 'aditi patil'}
+>>> 
+============== RESTART: C:/quiz_database/pythonconnectivity.py ==============
+{'_id': ObjectId('651e2eabdb07d01c1449b409'),
+ 'age': '20',
+ 'name': 'sanika chalke'}
+{'_id': ObjectId('651e2eabdb07d01c1449b409'), 'name': 'sanika chalke', 'age': '20'}
+{'_id': ObjectId('651e30b2db07d0081c9e0d48'),
+ 'age': '20',
+ 'name': 'anushka dalvi'}
+{'_id': ObjectId('651e30b2db07d0081c9e0d48'), 'name': 'anushka dalvi', 'age': '20'}
+{'_id': ObjectId('651e3189db07d01d94f64a9b'),
+ 'age': '20',
+ 'name': 'sakshi sataye'}
+{'_id': ObjectId('651e3189db07d01d94f64a9b'), 'name': 'sakshi sataye', 'age': '20'}
+{'_id': ObjectId('651e3195db07d025cc96e559'),
+ 'age': '20',
+ 'name': 'aditi patil'}
+{'_id': ObjectId('651e3195db07d025cc96e559'), 'name': 'aditi patil', 'age': '20'}
+>>> 
+============== RESTART: C:/quiz_database/pythonconnectivity.py ==============
+{'_id': ObjectId('651e2eabdb07d01c1449b409'), 'name': 'sanika chalke', 'age': '20'}
+{'_id': ObjectId('651e30b2db07d0081c9e0d48'), 'name': 'anushka dalvi', 'age': '20'}
+{'_id': ObjectId('651e3189db07d01d94f64a9b'), 'name': 'sakshi sataye', 'age': '20'}
+{'_id': ObjectId('651e3195db07d025cc96e559'), 'name': 'aditi patil', 'age': '20'}
+>>> 
+============== RESTART: C:/quiz_database/pythonconnectivity.py ==============
+{'_id': ObjectId('651e2eabdb07d01c1449b409'), 'name': 'sanika chalke', 'age': '20'}
+{'_id': ObjectId('651e30b2db07d0081c9e0d48'), 'name': 'anushka dalvi', 'age': '20'}
+{'_id': ObjectId('651e3189db07d01d94f64a9b'), 'name': 'sakshi sataye', 'age': '20'}
+{'_id': ObjectId('651e3195db07d025cc96e559'), 'name': 'aditi patil', 'age': '20'}
+>>> 
+============== RESTART: C:/quiz_database/pythonconnectivity.py ==============
+{'_id': ObjectId('651e2eabdb07d01c1449b409'), 'name': 'kale', 'age': '20'}
+{'_id': ObjectId('651e30b2db07d0081c9e0d48'), 'name': 'anushka dalvi', 'age': '20'}
+{'_id': ObjectId('651e3189db07d01d94f64a9b'), 'name': 'sakshi sataye', 'age': '20'}
+{'_id': ObjectId('651e3195db07d025cc96e559'), 'name': 'aditi patil', 'age': '20'}
+>>> 
+============== RESTART: C:/quiz_database/pythonconnectivity.py ==============
+{'_id': ObjectId('651e2eabdb07d01c1449b409'), 'name': 'kale', 'age': '20', 'college': 'Vaze'}
+{'_id': ObjectId('651e30b2db07d0081c9e0d48'), 'name': 'anushka dalvi', 'age': '20'}
+{'_id': ObjectId('651e3189db07d01d94f64a9b'), 'name': 'sakshi sataye', 'age': '20'}
+{'_id': ObjectId('651e3195db07d025cc96e559'), 'name': 'aditi patil', 'age': '20'}
+>>> 
+============== RESTART: C:/quiz_database/pythonconnectivity.py ==============
+{'_id': ObjectId('651e2eabdb07d01c1449b409'), 'name': 'kale', 'age': '20', 'college': 'Vaze'}
+{'_id': ObjectId('651e30b2db07d0081c9e0d48'), 'name': 'anushka dalvi', 'age': '20', 'college': 'Vaze'}
+{'_id': ObjectId('651e3189db07d01d94f64a9b'), 'name': 'sakshi sataye', 'age': '20', 'college': 'Vaze'}
+{'_id': ObjectId('651e3195db07d025cc96e559'), 'name': 'aditi patil', 'age': '20', 'college': 'Vaze'}
+>>> 
+============== RESTART: C:/quiz_database/pythonconnectivity.py ==============
+{'_id': ObjectId('651e2eabdb07d01c1449b409'), 'name': 'kale', 'age': '20', 'college': 'Vaze'}
+{'_id': ObjectId('651e30b2db07d0081c9e0d48'), 'name': 'anushka dalvi', 'age': '20', 'college': 'Vaze'}
+{'_id': ObjectId('651e3189db07d01d94f64a9b'), 'name': 'sakshi sataye', 'age': '20', 'college': 'Vaze'}
+{'_id': ObjectId('651e3195db07d025cc96e559'), 'name': 'aditi patil', 'age': '20', 'college': 'Vaze'}
+>>> 
+============== RESTART: C:/quiz_database/pythonconnectivity.py ==============
+{'_id': ObjectId('651e2eabdb07d01c1449b409'), 'name': 'kale', 'age': '20', 'college': 'Vaze'}
+{'_id': ObjectId('651e30b2db07d0081c9e0d48'), 'name': 'anushka dalvi', 'age': '20', 'college': 'Vaze'}
+{'_id': ObjectId('651e3189db07d01d94f64a9b'), 'name': 'sakshi sataye', 'age': '20', 'college': 'Vaze'}
+{'_id': ObjectId('651e3195db07d025cc96e559'), 'name': 'aditi patil', 'age': '20', 'college': 'Vaze'}
+>>> 
+============== RESTART: C:/quiz_database/pythonconnectivity.py ==============
+{'_id': ObjectId('651e2eabdb07d01c1449b409'), 'name': 'kale', 'age': '20', 'college': 'Vaze'}
+{'_id': ObjectId('651e30b2db07d0081c9e0d48'), 'name': 'anushka dalvi', 'age': '20', 'college': 'Vaze'}
+{'_id': ObjectId('651e3189db07d01d94f64a9b'), 'name': 'sakshi sataye', 'age': '20', 'college': 'Vaze'}
+{'_id': ObjectId('651e3195db07d025cc96e559'), 'name': 'aditi patil', 'age': '20', 'college': 'Vaze'}
+>>> 
+============== RESTART: C:/quiz_database/pythonconnectivity.py ==============
+{'_id': ObjectId('651e2eabdb07d01c1449b409'), 'name': 'kale', 'age': '20'}
+{'_id': ObjectId('651e30b2db07d0081c9e0d48'), 'name': 'anushka dalvi', 'age': '20', 'college': 'Vaze'}
+{'_id': ObjectId('651e3189db07d01d94f64a9b'), 'name': 'sakshi sataye', 'age': '20', 'college': 'Vaze'}
+{'_id': ObjectId('651e3195db07d025cc96e559'), 'name': 'aditi patil', 'age': '20', 'college': 'Vaze'}
+>>> 
+============== RESTART: C:/quiz_database/pythonconnectivity.py ==============
+{'_id': ObjectId('651e2eabdb07d01c1449b409'), 'name': 'kale', 'age': '20'}
+{'_id': ObjectId('651e30b2db07d0081c9e0d48'), 'name': 'anushka dalvi', 'age': '20', 'college': 'Vaze'}
+{'_id': ObjectId('651e3189db07d01d94f64a9b'), 'name': 'sakshi sataye', 'age': '20', 'college': 'Vaze'}
+{'_id': ObjectId('651e3195db07d025cc96e559'), 'name': 'aditi patil', 'age': '20', 'college': 'Vaze'}
+{'_id': ObjectId('651e3b2edb07d01450773286'), 'name': 'Aaditya', 'age': '20'}
+{'_id': ObjectId('651e3b2edb07d01450773287'), 'name': 'Steven', 'age': '20'}
+{'_id': ObjectId('651e3b2edb07d01450773288'), 'name': 'Hrushikesh', 'age': '20'}
+>>> 
+============== RESTART: C:/quiz_database/pythonconnectivity.py ==============
+{'_id': ObjectId('651e3b2edb07d01450773287'), 'name': 'Steven', 'age': '20', 'college': 'Vaze'}
+{'_id': ObjectId('651e2eabdb07d01c1449b409'), 'age': '20', 'name': 'kale'}
+{'_id': ObjectId('651e30b2db07d0081c9e0d48'),
+ 'age': '20',
+ 'college': 'Vaze',
+ 'name': 'anushka dalvi'}
+{'_id': ObjectId('651e3189db07d01d94f64a9b'),
+ 'age': '20',
+ 'college': 'Vaze',
+ 'name': 'sakshi sataye'}
+{'_id': ObjectId('651e3195db07d025cc96e559'),
+ 'age': '20',
+ 'college': 'Vaze',
+ 'name': 'aditi patil'}
+{'_id': ObjectId('651e3b2edb07d01450773286'),
+ 'age': '20',
+ 'college': 'Vaze',
+ 'name': 'Aaditya'}
+{'_id': ObjectId('651e3b2edb07d01450773287'),
+ 'age': '20',
+ 'college': 'Vaze',
+ 'name': 'Steven'}
+{'_id': ObjectId('651e3b2edb07d01450773288'),
+ 'age': '20',
+ 'college': 'Vaze',
+ 'name': 'Hrushikesh'}
+{'_id': ObjectId('651e3f97db07d00f70dabdb4'), 'age': '20', 'name': 'Aaditya'}
+{'_id': ObjectId('651e3f97db07d00f70dabdb5'), 'age': '20', 'name': 'Steven'}
+{'_id': ObjectId('651e3f97db07d00f70dabdb6'), 'age': '20', 'name': 'Hrushikesh'}
+>>> 
+============== RESTART: C:/quiz_database/pythonconnectivity.py ==============
+{'_id': ObjectId('651e3b2edb07d01450773287'), 'name': 'Steven', 'age': '20', 'college': 'Vaze'}
+>>> 
