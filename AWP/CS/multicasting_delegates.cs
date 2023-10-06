@@ -22,7 +22,7 @@ public class Del
 output:
 Answer is:2
 
-
+//If return type is mentioned, during multicasting only one function is executed, that is assigned last
   //Using void return type
 
   using System;
