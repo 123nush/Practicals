@@ -1,0 +1,36 @@
+Category name,total questions,correct questions,correctness,Performance,Job Profile Name,User name
+Analytical Skills,5,2,40,Below Average,Data Analyst,123nush
+Programming Skills,8,7,87.5,Very Good,Data Analyst,123nush
+Statistical Knowledge,4,1,25,Very Poor,Data Analyst,123nush
+Data Visualization,6,4,66.66,Above Average,Data Analyst,123nush
+Database Knowledge,7,3,42.85,Below Average,Data Analyst,123nush
+Critical Thinking,2,2,100,Excellent,Data Analyst,123nush
+Attention to Detail,0,0,0,Needs Improvement,Data Analyst,123nush
+Domain Knowledge,3,2,66.66,Above  Average,Data Analyst,123nush
+Front-end Technologies,4,3,75,Good,Full Stack Developer,321say
+Back-end Technologies,3,1,33.33,Poor,Full Stack Developer,321say
+Database Management,5,3,60,Above Average,Full Stack Developer,321say
+"APIs (RESTful, GraphQL)",1,0,0,Needs Improvement,Full Stack Developer,321say
+Web Development Tools,6,5,83.33,Very Good,Full Stack Developer,321say
+Version Control/Git,2,1,50,Average,Full Stack Developer,321say
+Knowledge of Security Tools,5,2,40,Below Average,Cybersecurity Analyst,rits
+Networking Skills,3,2,66.66,Above Average,Cybersecurity Analyst,rits
+Security Policies and Compliance,7,5,71.42,Good,Cybersecurity Analyst,rits
+Cyber Threat Intelligence,4,3,75,Good,Cybersecurity Analyst,rits
+Understanding of Security Tools,2,1,50,Average,Cybersecurity Analyst,rits
+Security Tools,6,1,16.66,Extremly Poor,Cybersecurity Analyst,rits
+Risk Assessment and Management,4,1,25,Very Poor,Cybersecurity Analyst,rits
+Analytical Skills,5,2,40,Below Average,Data Analyst,kitty
+Programming Skills,8,7,87.5,Very Good,Data Analyst,kitty
+Statistical Knowledge,4,1,25,Very Poor,Data Analyst,kitty
+Data Visualization,6,4,66.66,Above Average,Data Analyst,kitty
+Database Knowledge,7,3,42.85,Below Average,Data Analyst,kitty
+Critical Thinking,2,2,100,Excellent,Data Analyst,kitty
+Attention to Detail,0,0,0,Needs Improvement,Data Analyst,kitty
+Domain Knowledge,3,2,66.66,Above  Average,Data Analyst,kitty
+Front-end Technologies,4,3,75,Good,Full Stack Developer,123nush
+Back-end Technologies,3,1,33.33,Poor,Full Stack Developer,123nush
+Database Management,5,3,60,Above Average,Full Stack Developer,123nush
+"APIs (RESTful, GraphQL)",1,0,0,Needs Improvement,Full Stack Developer,123nush
+Web Development Tools,6,5,83.33,Very Good,Full Stack Developer,123nush
+Version Control/Git,2,1,50,Average,Full Stack Developer,123nush
