@@ -1,0 +1,2001 @@
+Category name,total questions,correct questions,Performance,Job Profile Name,User name,correctness
+Attention to Detail,1,9,can't predict,Data Analyst,lara,900.0
+Domain Knowledge,6,8,can't predict,Data Analyst,jefforson,133.33
+Natural Language Processing ,7,5,Good,Data Analyst,andrew,71.43
+Networking Skills,3,6,can't predict,Data Analyst,jefforson,200.0
+Risk Assessment and Management,5,2,Below Average,Artificial Intelligence (AI) Engineer,jefforson,40.0
+Security Policies and Compliance,9,3,Poor,Cybersecurity Analyst,jefforson,33.33
+Performance Tuning,7,8,can't predict,Data Analyst,lara,114.29
+Data Visualization,8,8,Excellent,Cybersecurity Analyst,lara,100.0
+Programming Skills,8,8,Excellent,Data Analyst,robin,100.0
+Problem-Solving Abilities,7,5,Good,Data Analyst,andrew,71.43
+Web Development Tools,10,1,Extremely Poor,Data Analyst,jefforson,10.0
+Database Knowledge,7,1,Extremely Poor,Cybersecurity Analyst,lara,14.29
+Problem-Solving Abilities,4,5,can't predict,Cybersecurity Analyst,john,125.0
+Understanding of Security Tools,4,8,can't predict,Artificial Intelligence (AI) Engineer,john,200.0
+Data Visualization,6,4,Above Average,Database Administrator,robin,66.67
+"APIs (RESTful, GraphQL)",7,7,Excellent,Data Analyst,john,100.0
+Data Handling,6,4,Above Average,Artificial Intelligence (AI) Engineer,lara,66.67
+Domain Knowledge,3,4,can't predict,Full Stack Developer,andrew,133.33
+Front-end Technologies,7,9,can't predict,Full Stack Developer,jefforson,128.57
+Scripting and Automation,8,2,Very Poor,Artificial Intelligence (AI) Engineer,andrew,25.0
+SQL and Query Optimization,10,7,Good,Data Analyst,lara,70.0
+Version Control/Git,5,6,can't predict,Data Analyst,jefforson,120.0
+Programming Skills,7,4,Average,Database Administrator,andrew,57.14
+Data Visualization,7,5,Good,Database Administrator,jefforson,71.43
+Programming skills,9,10,can't predict,Database Administrator,lara,111.11
+Domain Knowledge,5,6,can't predict,Data Analyst,lara,120.0
+Natural Language Processing ,8,1,Extremely Poor,Full Stack Developer,andrew,12.5
+Domain Knowledge,6,6,Excellent,Database Administrator,robin,100.0
+Knowledge of Security Tools,4,10,can't predict,Cybersecurity Analyst,jefforson,250.0
+Database Knowledge,7,3,Below Average,Full Stack Developer,john,42.86
+Database Management,5,9,can't predict,Data Analyst,andrew,180.0
+Scripting and Automation,6,0,Needs Improvement,Cybersecurity Analyst,lara,0.0
+Natural Language Processing ,10,10,Excellent,Data Analyst,lara,100.0
+Knowledge of Security Tools,7,5,Good,Artificial Intelligence (AI) Engineer,andrew,71.43
+Security Policies and Compliance,4,1,Very Poor,Cybersecurity Analyst,robin,25.0
+Programming Skills,5,2,Below Average,Full Stack Developer,john,40.0
+Back-end Technologies,7,8,can't predict,Cybersecurity Analyst,andrew,114.29
+Domain Knowledge,4,7,can't predict,Data Analyst,jefforson,175.0
+Machine Learning,4,2,Average,Data Analyst,john,50.0
+Database Security,6,2,Poor,Data Analyst,andrew,33.33
+Data Modeling and Design,7,2,Very Poor,Data Analyst,john,28.57
+Statistical Knowledge,1,5,can't predict,Data Analyst,lara,500.0
+Natural Language Processing ,4,10,can't predict,Full Stack Developer,john,250.0
+Natural Language Processing ,2,0,Needs Improvement,Data Analyst,john,0.0
+Attention to Detail,8,10,can't predict,Cybersecurity Analyst,andrew,125.0
+Problem-Solving Abilities,8,8,Excellent,Cybersecurity Analyst,lara,100.0
+Analytical Skills,5,8,can't predict,Cybersecurity Analyst,andrew,160.0
+Backup and Recovery,10,7,Good,Artificial Intelligence (AI) Engineer,jefforson,70.0
+Machine Learning,1,5,can't predict,Database Administrator,jefforson,500.0
+Security Tools,6,0,Needs Improvement,Full Stack Developer,jefforson,0.0
+Scripting and Automation,1,4,can't predict,Artificial Intelligence (AI) Engineer,andrew,400.0
+Cyber Threat Intelligence,6,10,can't predict,Full Stack Developer,jefforson,166.67
+"APIs (RESTful, GraphQL)",2,1,Average,Data Analyst,andrew,50.0
+Domain Knowledge,8,4,Average,Database Administrator,john,50.0
+Data Modeling and Design,7,6,Very Good,Data Analyst,andrew,85.71
+Data Visualization,9,2,Very Poor,Full Stack Developer,jefforson,22.22
+Domain Knowledge,3,10,can't predict,Database Administrator,john,333.33
+Domain Knowledge,5,5,Excellent,Data Analyst,lara,100.0
+Performance Tuning,1,7,can't predict,Data Analyst,jefforson,700.0
+Security Tools,4,1,Very Poor,Full Stack Developer,andrew,25.0
+Security Tools,10,0,Needs Improvement,Full Stack Developer,andrew,0.0
+Analytical Skills,2,0,Needs Improvement,Data Analyst,robin,0.0
+Analytical Skills,3,9,can't predict,Data Analyst,john,300.0
+Troubleshooting and Problem-Solving,3,4,can't predict,Artificial Intelligence (AI) Engineer,lara,133.33
+Attention to Detail,3,10,can't predict,Database Administrator,jefforson,333.33
+Programming skills,6,2,Poor,Database Administrator,andrew,33.33
+Troubleshooting and Problem-Solving,7,4,Average,Artificial Intelligence (AI) Engineer,john,57.14
+Knowledge of Security Tools,4,1,Very Poor,Cybersecurity Analyst,jefforson,25.0
+Cyber Threat Intelligence,5,9,can't predict,Data Analyst,andrew,180.0
+SQL and Query Optimization,9,5,Average,Database Administrator,andrew,55.56
+Mathematics and Statistics.,5,1,Very Poor,Cybersecurity Analyst,jefforson,20.0
+Back-end Technologies,3,6,can't predict,Database Administrator,jefforson,200.0
+Risk Assessment and Management,8,7,Very Good,Cybersecurity Analyst,jefforson,87.5
+Back-end Technologies,8,6,Good,Artificial Intelligence (AI) Engineer,john,75.0
+Performance Tuning,4,10,can't predict,Database Administrator,jefforson,250.0
+"APIs (RESTful, GraphQL)",5,8,can't predict,Database Administrator,jefforson,160.0
+Programming Skills,6,4,Above Average,Artificial Intelligence (AI) Engineer,lara,66.67
+Domain Knowledge,7,4,Average,Artificial Intelligence (AI) Engineer,lara,57.14
+Database Management,5,7,can't predict,Data Analyst,robin,140.0
+"APIs (RESTful, GraphQL)",9,5,Average,Data Analyst,jefforson,55.56
+Analytical Skills,10,6,Above Average,Data Analyst,lara,60.0
+Security Policies and Compliance,3,3,Excellent,Data Analyst,jefforson,100.0
+Programming Skills,9,2,Very Poor,Artificial Intelligence (AI) Engineer,jefforson,22.22
+Programming Skills,8,0,Needs Improvement,Artificial Intelligence (AI) Engineer,andrew,0.0
+Data Visualization,10,4,Below Average,Database Administrator,andrew,40.0
+Web Development Tools,9,9,Excellent,Data Analyst,andrew,100.0
+Programming skills,5,7,can't predict,Full Stack Developer,john,140.0
+Security Policies and Compliance,10,0,Needs Improvement,Cybersecurity Analyst,john,0.0
+Statistical Knowledge,6,3,Average,Data Analyst,robin,50.0
+Web Development Tools,6,6,Excellent,Artificial Intelligence (AI) Engineer,jefforson,100.0
+Statistical Knowledge,4,4,Excellent,Database Administrator,jefforson,100.0
+Understanding of Security Tools,1,2,can't predict,Artificial Intelligence (AI) Engineer,john,200.0
+Domain Knowledge,9,10,can't predict,Artificial Intelligence (AI) Engineer,jefforson,111.11
+Cyber Threat Intelligence,2,2,Excellent,Database Administrator,robin,100.0
+Machine Learning,8,1,Extremely Poor,Artificial Intelligence (AI) Engineer,andrew,12.5
+Back-end Technologies,3,4,can't predict,Database Administrator,jefforson,133.33
+Risk Assessment and Management,3,2,Above Average,Data Analyst,jefforson,66.67
+Programming Skills,9,0,Needs Improvement,Data Analyst,john,0.0
+Programming skills,10,5,Average,Data Analyst,andrew,50.0
+Statistical Knowledge,2,9,can't predict,Database Administrator,jefforson,450.0
+Web Development Tools,8,9,can't predict,Database Administrator,robin,112.5
+Scripting and Automation,3,4,can't predict,Data Analyst,john,133.33
+Troubleshooting and Problem-Solving,1,10,can't predict,Cybersecurity Analyst,robin,1000.0
+Security Policies and Compliance,9,4,Below Average,Artificial Intelligence (AI) Engineer,john,44.44
+Statistical Knowledge,1,7,can't predict,Data Analyst,john,700.0
+Understanding of Security Tools,2,0,Needs Improvement,Data Analyst,jefforson,0.0
+Front-end Technologies,5,3,Above Average,Cybersecurity Analyst,andrew,60.0
+Risk Assessment and Management,6,0,Needs Improvement,Artificial Intelligence (AI) Engineer,john,0.0
+Attention to Detail,1,1,Excellent,Full Stack Developer,john,100.0
+Analytical Skills,8,5,Above Average,Full Stack Developer,john,62.5
+Problem-Solving Abilities,10,5,Average,Database Administrator,jefforson,50.0
+Database Management,9,10,can't predict,Data Analyst,john,111.11
+Understanding of Security Tools,1,7,can't predict,Cybersecurity Analyst,jefforson,700.0
+Risk Assessment and Management,7,5,Good,Cybersecurity Analyst,jefforson,71.43
+Domain Knowledge,5,4,Very Good,Full Stack Developer,jefforson,80.0
+Data Modeling and Design,3,1,Poor,Artificial Intelligence (AI) Engineer,jefforson,33.33
+Analytical Skills,1,9,can't predict,Data Analyst,lara,900.0
+Deep Learning,1,9,can't predict,Full Stack Developer,lara,900.0
+Web Development Tools,5,0,Needs Improvement,Data Analyst,jefforson,0.0
+Front-end Technologies,4,0,Needs Improvement,Artificial Intelligence (AI) Engineer,john,0.0
+Programming Skills,5,7,can't predict,Full Stack Developer,andrew,140.0
+Algorithm Development,4,6,can't predict,Data Analyst,jefforson,150.0
+"APIs (RESTful, GraphQL)",9,1,Extremely Poor,Cybersecurity Analyst,lara,11.11
+Scripting and Automation,2,5,can't predict,Data Analyst,jefforson,250.0
+Database Knowledge,10,7,Good,Artificial Intelligence (AI) Engineer,jefforson,70.0
+"APIs (RESTful, GraphQL)",8,1,Extremely Poor,Data Analyst,jefforson,12.5
+Statistical Knowledge,5,0,Needs Improvement,Full Stack Developer,andrew,0.0
+Database Management Systems,7,9,can't predict,Data Analyst,jefforson,128.57
+Back-end Technologies,9,6,Above Average,Database Administrator,andrew,66.67
+"APIs (RESTful, GraphQL)",9,3,Poor,Data Analyst,jefforson,33.33
+Security Policies and Compliance,5,6,can't predict,Artificial Intelligence (AI) Engineer,john,120.0
+Back-end Technologies,7,3,Below Average,Full Stack Developer,john,42.86
+Database Management Systems,5,2,Below Average,Database Administrator,lara,40.0
+Database Knowledge,3,10,can't predict,Database Administrator,andrew,333.33
+Data Modeling and Design,1,3,can't predict,Cybersecurity Analyst,robin,300.0
+Programming Skills,5,3,Above Average,Database Administrator,andrew,60.0
+Machine Learning,6,2,Poor,Database Administrator,lara,33.33
+Data Modeling and Design,8,10,can't predict,Data Analyst,andrew,125.0
+"APIs (RESTful, GraphQL)",5,10,can't predict,Full Stack Developer,jefforson,200.0
+Understanding of Security Tools,7,9,can't predict,Cybersecurity Analyst,jefforson,128.57
+Security Tools,7,3,Below Average,Full Stack Developer,robin,42.86
+Critical Thinking,9,5,Average,Data Analyst,andrew,55.56
+Database Security,2,7,can't predict,Cybersecurity Analyst,robin,350.0
+Understanding of Security Tools,3,6,can't predict,Full Stack Developer,jefforson,200.0
+Natural Language Processing ,8,10,can't predict,Database Administrator,andrew,125.0
+Programming Skills,7,4,Average,Data Analyst,jefforson,57.14
+Programming Skills,6,7,can't predict,Artificial Intelligence (AI) Engineer,lara,116.67
+Programming Skills,10,6,Above Average,Cybersecurity Analyst,lara,60.0
+"APIs (RESTful, GraphQL)",2,3,can't predict,Artificial Intelligence (AI) Engineer,john,150.0
+Data Visualization,5,10,can't predict,Full Stack Developer,lara,200.0
+Data Handling,7,8,can't predict,Data Analyst,lara,114.29
+Domain Knowledge,8,3,Poor,Artificial Intelligence (AI) Engineer,jefforson,37.5
+Front-end Technologies,9,10,can't predict,Data Analyst,jefforson,111.11
+Version Control/Git,10,2,Very Poor,Data Analyst,jefforson,20.0
+Version Control/Git,5,3,Above Average,Data Analyst,jefforson,60.0
+Troubleshooting and Problem-Solving,3,4,can't predict,Artificial Intelligence (AI) Engineer,jefforson,133.33
+Machine Learning,8,3,Poor,Database Administrator,jefforson,37.5
+Risk Assessment and Management,10,0,Needs Improvement,Cybersecurity Analyst,andrew,0.0
+Database Security,7,7,Excellent,Database Administrator,andrew,100.0
+Performance Tuning,7,8,can't predict,Full Stack Developer,jefforson,114.29
+Programming Skills,3,10,can't predict,Cybersecurity Analyst,andrew,333.33
+Attention to Detail,7,7,Excellent,Full Stack Developer,john,100.0
+Analytical Skills,7,9,can't predict,Cybersecurity Analyst,jefforson,128.57
+Database Security,1,2,can't predict,Database Administrator,lara,200.0
+Statistical Knowledge,7,0,Needs Improvement,Full Stack Developer,andrew,0.0
+Programming skills,6,9,can't predict,Database Administrator,lara,150.0
+Deep Learning,9,6,Above Average,Database Administrator,robin,66.67
+Scripting and Automation,5,10,can't predict,Data Analyst,andrew,200.0
+Performance Tuning,10,10,Excellent,Full Stack Developer,robin,100.0
+Database Knowledge,8,10,can't predict,Full Stack Developer,andrew,125.0
+Critical Thinking,9,4,Below Average,Artificial Intelligence (AI) Engineer,jefforson,44.44
+Web Development Tools,8,3,Poor,Data Analyst,andrew,37.5
+Web Development Tools,9,0,Needs Improvement,Full Stack Developer,jefforson,0.0
+"APIs (RESTful, GraphQL)",3,5,can't predict,Data Analyst,andrew,166.67
+Algorithm Development,4,3,Good,Artificial Intelligence (AI) Engineer,lara,75.0
+Programming Skills,7,5,Good,Cybersecurity Analyst,robin,71.43
+Data Modeling and Design,2,10,can't predict,Artificial Intelligence (AI) Engineer,john,500.0
+Version Control/Git,4,5,can't predict,Cybersecurity Analyst,lara,125.0
+Domain Knowledge,6,6,Excellent,Cybersecurity Analyst,andrew,100.0
+Performance Tuning,6,10,can't predict,Full Stack Developer,andrew,166.67
+Security Policies and Compliance,5,7,can't predict,Data Analyst,jefforson,140.0
+Networking Skills,2,3,can't predict,Cybersecurity Analyst,jefforson,150.0
+Version Control/Git,2,5,can't predict,Artificial Intelligence (AI) Engineer,jefforson,250.0
+Cyber Threat Intelligence,8,10,can't predict,Artificial Intelligence (AI) Engineer,robin,125.0
+Algorithm Development,2,6,can't predict,Cybersecurity Analyst,jefforson,300.0
+Back-end Technologies,7,1,Extremely Poor,Full Stack Developer,robin,14.29
+Attention to Detail,3,0,Needs Improvement,Data Analyst,andrew,0.0
+Web Development Tools,3,9,can't predict,Data Analyst,robin,300.0
+Knowledge of Security Tools,5,9,can't predict,Data Analyst,robin,180.0
+Problem-Solving Abilities,1,9,can't predict,Cybersecurity Analyst,jefforson,900.0
+Knowledge of Security Tools,4,10,can't predict,Data Analyst,andrew,250.0
+Attention to Detail,5,5,Excellent,Full Stack Developer,john,100.0
+Deep Learning,6,5,Very Good,Full Stack Developer,andrew,83.33
+Scripting and Automation,10,0,Needs Improvement,Cybersecurity Analyst,andrew,0.0
+Domain Knowledge,5,0,Needs Improvement,Artificial Intelligence (AI) Engineer,robin,0.0
+Domain Knowledge,2,6,can't predict,Artificial Intelligence (AI) Engineer,john,300.0
+Networking Skills,6,6,Excellent,Data Analyst,jefforson,100.0
+Risk Assessment and Management,9,8,Very Good,Cybersecurity Analyst,john,88.89
+Understanding of Security Tools,9,8,Very Good,Full Stack Developer,jefforson,88.89
+Troubleshooting and Problem-Solving,6,5,Very Good,Cybersecurity Analyst,jefforson,83.33
+Knowledge of Security Tools,3,9,can't predict,Full Stack Developer,lara,300.0
+Risk Assessment and Management,3,3,Excellent,Data Analyst,lara,100.0
+Data Visualization,7,9,can't predict,Full Stack Developer,andrew,128.57
+Programming Skills,4,3,Good,Data Analyst,jefforson,75.0
+Scripting and Automation,9,9,Excellent,Data Analyst,andrew,100.0
+Deep Learning,8,2,Very Poor,Full Stack Developer,jefforson,25.0
+Security Tools,1,1,Excellent,Artificial Intelligence (AI) Engineer,robin,100.0
+"APIs (RESTful, GraphQL)",7,2,Very Poor,Full Stack Developer,lara,28.57
+Knowledge of Security Tools,5,9,can't predict,Database Administrator,john,180.0
+Version Control/Git,9,4,Below Average,Full Stack Developer,john,44.44
+Database Knowledge,7,5,Good,Data Analyst,jefforson,71.43
+Security Tools,10,0,Needs Improvement,Cybersecurity Analyst,john,0.0
+Database Management,6,2,Poor,Data Analyst,lara,33.33
+Front-end Technologies,6,3,Average,Full Stack Developer,andrew,50.0
+Programming skills,4,3,Good,Data Analyst,robin,75.0
+Web Development Tools,2,6,can't predict,Full Stack Developer,lara,300.0
+Database Security,6,10,can't predict,Full Stack Developer,jefforson,166.67
+Backup and Recovery,6,10,can't predict,Database Administrator,robin,166.67
+Database Management,1,8,can't predict,Cybersecurity Analyst,robin,800.0
+Database Management,8,0,Needs Improvement,Data Analyst,robin,0.0
+Data Modeling and Design,7,6,Very Good,Artificial Intelligence (AI) Engineer,andrew,85.71
+Front-end Technologies,2,2,Excellent,Cybersecurity Analyst,lara,100.0
+Critical Thinking,1,1,Excellent,Cybersecurity Analyst,andrew,100.0
+Data Visualization,2,3,can't predict,Cybersecurity Analyst,john,150.0
+Mathematics and Statistics.,6,6,Excellent,Artificial Intelligence (AI) Engineer,jefforson,100.0
+Web Development Tools,10,5,Average,Data Analyst,andrew,50.0
+Database Management,2,1,Average,Cybersecurity Analyst,andrew,50.0
+Domain Knowledge,1,10,can't predict,Data Analyst,andrew,1000.0
+Mathematics and Statistics.,8,4,Average,Cybersecurity Analyst,andrew,50.0
+Database Management,3,7,can't predict,Full Stack Developer,lara,233.33
+Mathematics and Statistics.,7,8,can't predict,Full Stack Developer,jefforson,114.29
+Networking Skills,8,8,Excellent,Data Analyst,robin,100.0
+Data Handling,10,7,Good,Full Stack Developer,andrew,70.0
+Attention to Detail,4,6,can't predict,Artificial Intelligence (AI) Engineer,lara,150.0
+Database Management Systems,5,6,can't predict,Data Analyst,jefforson,120.0
+Statistical Knowledge,10,6,Above Average,Artificial Intelligence (AI) Engineer,jefforson,60.0
+Analytical Skills,5,4,Very Good,Database Administrator,lara,80.0
+Data Modeling and Design,7,1,Extremely Poor,Database Administrator,andrew,14.29
+Database Security,9,0,Needs Improvement,Artificial Intelligence (AI) Engineer,andrew,0.0
+Domain Knowledge,9,1,Extremely Poor,Cybersecurity Analyst,jefforson,11.11
+Networking Skills,7,3,Below Average,Data Analyst,andrew,42.86
+Data Modeling and Design,6,5,Very Good,Database Administrator,jefforson,83.33
+Database Knowledge,7,0,Needs Improvement,Database Administrator,jefforson,0.0
+Front-end Technologies,7,4,Average,Database Administrator,jefforson,57.14
+Natural Language Processing ,9,8,Very Good,Full Stack Developer,jefforson,88.89
+"APIs (RESTful, GraphQL)",7,3,Below Average,Database Administrator,lara,42.86
+Database Management,9,4,Below Average,Full Stack Developer,andrew,44.44
+SQL and Query Optimization,4,1,Very Poor,Data Analyst,lara,25.0
+Database Security,7,10,can't predict,Database Administrator,jefforson,142.86
+Programming Skills,10,7,Good,Data Analyst,lara,70.0
+Database Knowledge,2,1,Average,Data Analyst,robin,50.0
+Cyber Threat Intelligence,2,4,can't predict,Data Analyst,andrew,200.0
+Analytical Skills,10,5,Average,Data Analyst,andrew,50.0
+Domain Knowledge,10,7,Good,Database Administrator,robin,70.0
+Back-end Technologies,3,1,Poor,Data Analyst,lara,33.33
+Domain Knowledge,9,1,Extremely Poor,Database Administrator,jefforson,11.11
+Security Policies and Compliance,5,0,Needs Improvement,Data Analyst,john,0.0
+SQL and Query Optimization,4,10,can't predict,Artificial Intelligence (AI) Engineer,lara,250.0
+Troubleshooting and Problem-Solving,9,0,Needs Improvement,Data Analyst,john,0.0
+Cyber Threat Intelligence,9,5,Average,Data Analyst,lara,55.56
+Analytical Skills,2,8,can't predict,Full Stack Developer,robin,400.0
+Data Handling,7,2,Very Poor,Database Administrator,jefforson,28.57
+Data Visualization,3,9,can't predict,Database Administrator,andrew,300.0
+Security Policies and Compliance,9,4,Below Average,Database Administrator,jefforson,44.44
+Database Management,8,10,can't predict,Database Administrator,jefforson,125.0
+Database Management Systems,10,2,Very Poor,Full Stack Developer,andrew,20.0
+Performance Tuning,5,2,Below Average,Data Analyst,andrew,40.0
+Database Security,1,0,Needs Improvement,Full Stack Developer,jefforson,0.0
+Cyber Threat Intelligence,9,4,Below Average,Cybersecurity Analyst,lara,44.44
+"APIs (RESTful, GraphQL)",10,5,Average,Full Stack Developer,robin,50.0
+Analytical Skills,2,2,Excellent,Database Administrator,jefforson,100.0
+"APIs (RESTful, GraphQL)",9,4,Below Average,Database Administrator,john,44.44
+Domain Knowledge,9,2,Very Poor,Artificial Intelligence (AI) Engineer,andrew,22.22
+Version Control/Git,2,7,can't predict,Data Analyst,jefforson,350.0
+Natural Language Processing ,7,1,Extremely Poor,Artificial Intelligence (AI) Engineer,lara,14.29
+Programming Skills,7,1,Extremely Poor,Full Stack Developer,lara,14.29
+SQL and Query Optimization,10,1,Extremely Poor,Data Analyst,robin,10.0
+Critical Thinking,10,3,Poor,Data Analyst,lara,30.0
+Knowledge of Security Tools,3,5,can't predict,Full Stack Developer,andrew,166.67
+Back-end Technologies,6,0,Needs Improvement,Data Analyst,jefforson,0.0
+Web Development Tools,4,1,Very Poor,Data Analyst,robin,25.0
+Back-end Technologies,2,5,can't predict,Data Analyst,robin,250.0
+Networking Skills,2,5,can't predict,Data Analyst,jefforson,250.0
+Programming Skills,10,2,Very Poor,Cybersecurity Analyst,john,20.0
+Database Management Systems,2,9,can't predict,Database Administrator,andrew,450.0
+Database Security,9,10,can't predict,Artificial Intelligence (AI) Engineer,john,111.11
+Attention to Detail,6,4,Above Average,Artificial Intelligence (AI) Engineer,john,66.67
+Front-end Technologies,3,2,Above Average,Full Stack Developer,john,66.67
+Version Control/Git,10,4,Below Average,Data Analyst,jefforson,40.0
+Database Management Systems,9,9,Excellent,Data Analyst,jefforson,100.0
+Data Modeling and Design,10,3,Poor,Data Analyst,jefforson,30.0
+Analytical Skills,10,2,Very Poor,Database Administrator,andrew,20.0
+Problem-Solving Abilities,5,8,can't predict,Data Analyst,jefforson,160.0
+Programming skills,4,1,Very Poor,Full Stack Developer,jefforson,25.0
+Version Control/Git,10,0,Needs Improvement,Data Analyst,john,0.0
+Analytical Skills,3,7,can't predict,Data Analyst,robin,233.33
+Algorithm Development,10,2,Very Poor,Database Administrator,john,20.0
+Knowledge of Security Tools,10,5,Average,Cybersecurity Analyst,john,50.0
+Web Development Tools,4,0,Needs Improvement,Data Analyst,john,0.0
+Deep Learning,8,8,Excellent,Cybersecurity Analyst,john,100.0
+Understanding of Security Tools,2,9,can't predict,Database Administrator,jefforson,450.0
+Deep Learning,9,9,Excellent,Artificial Intelligence (AI) Engineer,jefforson,100.0
+Troubleshooting and Problem-Solving,3,3,Excellent,Database Administrator,andrew,100.0
+Networking Skills,4,2,Average,Full Stack Developer,jefforson,50.0
+Scripting and Automation,3,10,can't predict,Full Stack Developer,john,333.33
+Domain Knowledge,5,2,Below Average,Database Administrator,john,40.0
+Attention to Detail,4,9,can't predict,Data Analyst,john,225.0
+Back-end Technologies,8,2,Very Poor,Full Stack Developer,jefforson,25.0
+Risk Assessment and Management,9,9,Excellent,Full Stack Developer,jefforson,100.0
+Deep Learning,7,4,Average,Data Analyst,jefforson,57.14
+Programming Skills,3,3,Excellent,Cybersecurity Analyst,robin,100.0
+Backup and Recovery,1,3,can't predict,Artificial Intelligence (AI) Engineer,john,300.0
+"APIs (RESTful, GraphQL)",10,8,Very Good,Cybersecurity Analyst,jefforson,80.0
+Web Development Tools,3,8,can't predict,Artificial Intelligence (AI) Engineer,andrew,266.67
+Domain Knowledge,4,1,Very Poor,Full Stack Developer,jefforson,25.0
+Backup and Recovery,2,7,can't predict,Database Administrator,andrew,350.0
+Security Policies and Compliance,6,7,can't predict,Full Stack Developer,jefforson,116.67
+Critical Thinking,7,10,can't predict,Full Stack Developer,lara,142.86
+Data Handling,8,10,can't predict,Full Stack Developer,john,125.0
+Analytical Skills,9,6,Above Average,Full Stack Developer,andrew,66.67
+Database Management Systems,6,3,Average,Cybersecurity Analyst,jefforson,50.0
+Statistical Knowledge,2,4,can't predict,Database Administrator,andrew,200.0
+SQL and Query Optimization,6,2,Poor,Full Stack Developer,andrew,33.33
+Database Security,8,7,Very Good,Data Analyst,robin,87.5
+Back-end Technologies,3,5,can't predict,Full Stack Developer,andrew,166.67
+SQL and Query Optimization,7,0,Needs Improvement,Artificial Intelligence (AI) Engineer,lara,0.0
+Data Visualization,7,3,Below Average,Database Administrator,robin,42.86
+Mathematics and Statistics.,10,3,Poor,Database Administrator,john,30.0
+Data Visualization,10,8,Very Good,Data Analyst,john,80.0
+Performance Tuning,2,0,Needs Improvement,Data Analyst,jefforson,0.0
+Database Knowledge,6,3,Average,Data Analyst,lara,50.0
+Front-end Technologies,10,10,Excellent,Data Analyst,lara,100.0
+Data Visualization,5,2,Below Average,Artificial Intelligence (AI) Engineer,john,40.0
+Critical Thinking,4,3,Good,Artificial Intelligence (AI) Engineer,andrew,75.0
+Database Management Systems,9,7,Good,Data Analyst,andrew,77.78
+Critical Thinking,4,4,Excellent,Database Administrator,jefforson,100.0
+Web Development Tools,10,6,Above Average,Data Analyst,lara,60.0
+Attention to Detail,6,10,can't predict,Cybersecurity Analyst,robin,166.67
+SQL and Query Optimization,10,1,Extremely Poor,Full Stack Developer,lara,10.0
+Version Control/Git,8,2,Very Poor,Full Stack Developer,jefforson,25.0
+Mathematics and Statistics.,7,3,Below Average,Data Analyst,john,42.86
+Scripting and Automation,4,10,can't predict,Data Analyst,lara,250.0
+Analytical Skills,1,7,can't predict,Data Analyst,jefforson,700.0
+Web Development Tools,9,6,Above Average,Cybersecurity Analyst,john,66.67
+Database Knowledge,8,3,Poor,Cybersecurity Analyst,robin,37.5
+Problem-Solving Abilities,7,5,Good,Data Analyst,robin,71.43
+Backup and Recovery,2,7,can't predict,Full Stack Developer,robin,350.0
+Understanding of Security Tools,6,6,Excellent,Artificial Intelligence (AI) Engineer,andrew,100.0
+Database Knowledge,4,5,can't predict,Database Administrator,andrew,125.0
+Critical Thinking,3,1,Poor,Artificial Intelligence (AI) Engineer,robin,33.33
+Deep Learning,4,0,Needs Improvement,Artificial Intelligence (AI) Engineer,andrew,0.0
+Database Security,9,5,Average,Database Administrator,robin,55.56
+Data Handling,10,4,Below Average,Artificial Intelligence (AI) Engineer,andrew,40.0
+Domain Knowledge,4,6,can't predict,Data Analyst,jefforson,150.0
+Data Modeling and Design,3,4,can't predict,Artificial Intelligence (AI) Engineer,robin,133.33
+Domain Knowledge,4,5,can't predict,Artificial Intelligence (AI) Engineer,andrew,125.0
+Database Knowledge,5,1,Very Poor,Full Stack Developer,jefforson,20.0
+Machine Learning,9,5,Average,Full Stack Developer,jefforson,55.56
+Statistical Knowledge,4,8,can't predict,Database Administrator,jefforson,200.0
+Attention to Detail,2,10,can't predict,Data Analyst,robin,500.0
+Scripting and Automation,5,1,Very Poor,Artificial Intelligence (AI) Engineer,andrew,20.0
+Back-end Technologies,10,1,Extremely Poor,Cybersecurity Analyst,lara,10.0
+Back-end Technologies,1,7,can't predict,Data Analyst,john,700.0
+Attention to Detail,10,5,Average,Cybersecurity Analyst,jefforson,50.0
+Machine Learning,2,5,can't predict,Data Analyst,lara,250.0
+Data Visualization,8,10,can't predict,Artificial Intelligence (AI) Engineer,robin,125.0
+Database Management Systems,2,1,Average,Cybersecurity Analyst,robin,50.0
+Database Knowledge,4,0,Needs Improvement,Database Administrator,john,0.0
+Programming Skills,1,0,Needs Improvement,Full Stack Developer,jefforson,0.0
+Statistical Knowledge,2,8,can't predict,Data Analyst,john,400.0
+Front-end Technologies,2,0,Needs Improvement,Data Analyst,jefforson,0.0
+SQL and Query Optimization,2,3,can't predict,Full Stack Developer,jefforson,150.0
+Analytical Skills,10,9,Excellent,Full Stack Developer,jefforson,90.0
+Domain Knowledge,5,10,can't predict,Data Analyst,andrew,200.0
+Analytical Skills,9,4,Below Average,Artificial Intelligence (AI) Engineer,jefforson,44.44
+Critical Thinking,6,8,can't predict,Artificial Intelligence (AI) Engineer,lara,133.33
+Analytical Skills,1,6,can't predict,Cybersecurity Analyst,andrew,600.0
+Version Control/Git,3,9,can't predict,Database Administrator,andrew,300.0
+Database Security,1,10,can't predict,Data Analyst,robin,1000.0
+Critical Thinking,1,1,Excellent,Artificial Intelligence (AI) Engineer,lara,100.0
+"APIs (RESTful, GraphQL)",8,5,Above Average,Data Analyst,lara,62.5
+Risk Assessment and Management,8,8,Excellent,Data Analyst,robin,100.0
+"APIs (RESTful, GraphQL)",4,10,can't predict,Database Administrator,andrew,250.0
+Database Management,10,3,Poor,Full Stack Developer,jefforson,30.0
+Back-end Technologies,3,8,can't predict,Data Analyst,jefforson,266.67
+Backup and Recovery,8,5,Above Average,Data Analyst,john,62.5
+Version Control/Git,10,5,Average,Data Analyst,lara,50.0
+Web Development Tools,7,2,Very Poor,Artificial Intelligence (AI) Engineer,robin,28.57
+Algorithm Development,5,3,Above Average,Data Analyst,jefforson,60.0
+Domain Knowledge,3,1,Poor,Data Analyst,robin,33.33
+Performance Tuning,5,4,Very Good,Artificial Intelligence (AI) Engineer,andrew,80.0
+Back-end Technologies,1,1,Excellent,Data Analyst,lara,100.0
+Front-end Technologies,10,7,Good,Cybersecurity Analyst,lara,70.0
+Domain Knowledge,9,10,can't predict,Data Analyst,robin,111.11
+Networking Skills,5,5,Excellent,Data Analyst,jefforson,100.0
+Critical Thinking,3,3,Excellent,Artificial Intelligence (AI) Engineer,robin,100.0
+Programming Skills,2,10,can't predict,Full Stack Developer,robin,500.0
+Backup and Recovery,4,6,can't predict,Artificial Intelligence (AI) Engineer,jefforson,150.0
+Cyber Threat Intelligence,2,8,can't predict,Artificial Intelligence (AI) Engineer,jefforson,400.0
+Cyber Threat Intelligence,2,7,can't predict,Database Administrator,andrew,350.0
+Version Control/Git,8,5,Above Average,Database Administrator,jefforson,62.5
+Statistical Knowledge,9,4,Below Average,Data Analyst,robin,44.44
+Programming Skills,8,5,Above Average,Artificial Intelligence (AI) Engineer,lara,62.5
+Domain Knowledge,5,7,can't predict,Full Stack Developer,andrew,140.0
+Version Control/Git,7,10,can't predict,Database Administrator,lara,142.86
+Database Security,2,9,can't predict,Data Analyst,jefforson,450.0
+Data Handling,10,1,Extremely Poor,Database Administrator,jefforson,10.0
+Data Modeling and Design,7,9,can't predict,Data Analyst,lara,128.57
+Understanding of Security Tools,7,3,Below Average,Cybersecurity Analyst,jefforson,42.86
+Web Development Tools,4,9,can't predict,Data Analyst,john,225.0
+Back-end Technologies,10,4,Below Average,Cybersecurity Analyst,andrew,40.0
+Troubleshooting and Problem-Solving,3,9,can't predict,Data Analyst,jefforson,300.0
+Database Management,7,2,Very Poor,Database Administrator,lara,28.57
+Domain Knowledge,9,10,can't predict,Artificial Intelligence (AI) Engineer,andrew,111.11
+Web Development Tools,3,4,can't predict,Cybersecurity Analyst,lara,133.33
+Security Policies and Compliance,1,0,Needs Improvement,Full Stack Developer,jefforson,0.0
+Critical Thinking,3,8,can't predict,Data Analyst,lara,266.67
+Attention to Detail,10,1,Extremely Poor,Data Analyst,robin,10.0
+Back-end Technologies,2,9,can't predict,Artificial Intelligence (AI) Engineer,robin,450.0
+Knowledge of Security Tools,2,10,can't predict,Artificial Intelligence (AI) Engineer,lara,500.0
+Deep Learning,4,2,Average,Artificial Intelligence (AI) Engineer,robin,50.0
+Problem-Solving Abilities,8,6,Good,Data Analyst,jefforson,75.0
+Cyber Threat Intelligence,7,5,Good,Full Stack Developer,john,71.43
+Cyber Threat Intelligence,8,0,Needs Improvement,Full Stack Developer,lara,0.0
+Deep Learning,7,10,can't predict,Artificial Intelligence (AI) Engineer,jefforson,142.86
+Web Development Tools,9,8,Very Good,Cybersecurity Analyst,andrew,88.89
+Networking Skills,8,6,Good,Data Analyst,jefforson,75.0
+Attention to Detail,9,7,Good,Database Administrator,robin,77.78
+Analytical Skills,7,6,Very Good,Full Stack Developer,lara,85.71
+Performance Tuning,6,6,Excellent,Full Stack Developer,andrew,100.0
+Back-end Technologies,2,5,can't predict,Full Stack Developer,jefforson,250.0
+Back-end Technologies,2,10,can't predict,Artificial Intelligence (AI) Engineer,lara,500.0
+Database Management,2,5,can't predict,Data Analyst,andrew,250.0
+Critical Thinking,4,8,can't predict,Cybersecurity Analyst,jefforson,200.0
+Security Policies and Compliance,4,8,can't predict,Cybersecurity Analyst,andrew,200.0
+Scripting and Automation,7,1,Extremely Poor,Data Analyst,jefforson,14.29
+Database Security,8,10,can't predict,Data Analyst,lara,125.0
+Critical Thinking,7,0,Needs Improvement,Data Analyst,andrew,0.0
+Database Knowledge,7,5,Good,Database Administrator,jefforson,71.43
+Algorithm Development,9,7,Good,Cybersecurity Analyst,andrew,77.78
+Understanding of Security Tools,4,8,can't predict,Full Stack Developer,andrew,200.0
+Analytical Skills,4,6,can't predict,Artificial Intelligence (AI) Engineer,robin,150.0
+Knowledge of Security Tools,6,9,can't predict,Database Administrator,john,150.0
+Statistical Knowledge,3,1,Poor,Data Analyst,jefforson,33.33
+Programming Skills,2,0,Needs Improvement,Artificial Intelligence (AI) Engineer,robin,0.0
+Database Management Systems,6,4,Above Average,Database Administrator,robin,66.67
+Algorithm Development,6,6,Excellent,Data Analyst,andrew,100.0
+Web Development Tools,7,3,Below Average,Full Stack Developer,lara,42.86
+Risk Assessment and Management,6,6,Excellent,Data Analyst,john,100.0
+Back-end Technologies,5,7,can't predict,Data Analyst,john,140.0
+Data Handling,4,3,Good,Artificial Intelligence (AI) Engineer,jefforson,75.0
+Scripting and Automation,7,4,Average,Full Stack Developer,robin,57.14
+Attention to Detail,10,2,Very Poor,Full Stack Developer,jefforson,20.0
+Web Development Tools,7,5,Good,Database Administrator,robin,71.43
+Problem-Solving Abilities,4,0,Needs Improvement,Full Stack Developer,lara,0.0
+Critical Thinking,10,10,Excellent,Full Stack Developer,robin,100.0
+Back-end Technologies,1,2,can't predict,Full Stack Developer,robin,200.0
+Programming Skills,9,5,Average,Artificial Intelligence (AI) Engineer,robin,55.56
+Front-end Technologies,5,4,Very Good,Data Analyst,john,80.0
+Security Tools,10,4,Below Average,Data Analyst,andrew,40.0
+Risk Assessment and Management,9,4,Below Average,Full Stack Developer,jefforson,44.44
+Data Visualization,1,6,can't predict,Data Analyst,jefforson,600.0
+Web Development Tools,7,2,Very Poor,Full Stack Developer,john,28.57
+"APIs (RESTful, GraphQL)",10,8,Very Good,Data Analyst,andrew,80.0
+Algorithm Development,9,5,Average,Cybersecurity Analyst,jefforson,55.56
+Attention to Detail,8,4,Average,Database Administrator,robin,50.0
+"APIs (RESTful, GraphQL)",3,6,can't predict,Data Analyst,andrew,200.0
+Programming Skills,6,4,Above Average,Data Analyst,lara,66.67
+Networking Skills,2,6,can't predict,Cybersecurity Analyst,jefforson,300.0
+Critical Thinking,9,7,Good,Data Analyst,jefforson,77.78
+Critical Thinking,4,9,can't predict,Full Stack Developer,robin,225.0
+Risk Assessment and Management,9,2,Very Poor,Cybersecurity Analyst,robin,22.22
+Troubleshooting and Problem-Solving,6,9,can't predict,Full Stack Developer,jefforson,150.0
+Data Handling,2,5,can't predict,Database Administrator,andrew,250.0
+Attention to Detail,3,8,can't predict,Artificial Intelligence (AI) Engineer,andrew,266.67
+Statistical Knowledge,2,3,can't predict,Artificial Intelligence (AI) Engineer,lara,150.0
+Database Management,2,10,can't predict,Cybersecurity Analyst,robin,500.0
+Web Development Tools,7,6,Very Good,Data Analyst,andrew,85.71
+Version Control/Git,9,0,Needs Improvement,Full Stack Developer,jefforson,0.0
+Database Knowledge,5,6,can't predict,Cybersecurity Analyst,john,120.0
+Data Modeling and Design,6,5,Very Good,Artificial Intelligence (AI) Engineer,jefforson,83.33
+Programming Skills,10,8,Very Good,Database Administrator,andrew,80.0
+"APIs (RESTful, GraphQL)",1,5,can't predict,Data Analyst,robin,500.0
+Performance Tuning,10,3,Poor,Data Analyst,lara,30.0
+Critical Thinking,4,5,can't predict,Artificial Intelligence (AI) Engineer,jefforson,125.0
+Programming Skills,3,5,can't predict,Cybersecurity Analyst,robin,166.67
+Web Development Tools,6,8,can't predict,Artificial Intelligence (AI) Engineer,lara,133.33
+Understanding of Security Tools,10,9,Excellent,Data Analyst,jefforson,90.0
+Domain Knowledge,6,1,Extremely Poor,Data Analyst,andrew,16.67
+Data Visualization,6,5,Very Good,Data Analyst,andrew,83.33
+Domain Knowledge,10,0,Needs Improvement,Cybersecurity Analyst,robin,0.0
+Data Visualization,1,8,can't predict,Artificial Intelligence (AI) Engineer,robin,800.0
+Front-end Technologies,7,1,Extremely Poor,Cybersecurity Analyst,robin,14.29
+Deep Learning,10,10,Excellent,Cybersecurity Analyst,andrew,100.0
+"APIs (RESTful, GraphQL)",3,1,Poor,Database Administrator,robin,33.33
+Critical Thinking,4,0,Needs Improvement,Artificial Intelligence (AI) Engineer,andrew,0.0
+Version Control/Git,8,5,Above Average,Artificial Intelligence (AI) Engineer,andrew,62.5
+Cyber Threat Intelligence,6,6,Excellent,Artificial Intelligence (AI) Engineer,jefforson,100.0
+Statistical Knowledge,2,9,can't predict,Full Stack Developer,andrew,450.0
+Problem-Solving Abilities,1,10,can't predict,Data Analyst,andrew,1000.0
+Front-end Technologies,2,0,Needs Improvement,Artificial Intelligence (AI) Engineer,lara,0.0
+Troubleshooting and Problem-Solving,5,0,Needs Improvement,Artificial Intelligence (AI) Engineer,andrew,0.0
+Programming Skills,1,6,can't predict,Full Stack Developer,john,600.0
+Data Visualization,4,2,Average,Full Stack Developer,robin,50.0
+Front-end Technologies,5,3,Above Average,Cybersecurity Analyst,jefforson,60.0
+"APIs (RESTful, GraphQL)",6,3,Average,Database Administrator,john,50.0
+Attention to Detail,10,8,Very Good,Database Administrator,jefforson,80.0
+Statistical Knowledge,1,6,can't predict,Database Administrator,jefforson,600.0
+Mathematics and Statistics.,4,2,Average,Full Stack Developer,robin,50.0
+Data Visualization,9,6,Above Average,Full Stack Developer,andrew,66.67
+Backup and Recovery,9,3,Poor,Full Stack Developer,robin,33.33
+Version Control/Git,7,5,Good,Full Stack Developer,jefforson,71.43
+Domain Knowledge,9,10,can't predict,Data Analyst,robin,111.11
+Programming Skills,10,3,Poor,Database Administrator,andrew,30.0
+Data Visualization,5,2,Below Average,Data Analyst,andrew,40.0
+Algorithm Development,5,9,can't predict,Artificial Intelligence (AI) Engineer,jefforson,180.0
+Scripting and Automation,3,1,Poor,Data Analyst,lara,33.33
+Database Management,4,1,Very Poor,Full Stack Developer,andrew,25.0
+Analytical Skills,7,6,Very Good,Data Analyst,lara,85.71
+Statistical Knowledge,8,6,Good,Database Administrator,john,75.0
+"APIs (RESTful, GraphQL)",3,3,Excellent,Data Analyst,andrew,100.0
+Database Knowledge,3,10,can't predict,Data Analyst,andrew,333.33
+Domain Knowledge,5,3,Above Average,Artificial Intelligence (AI) Engineer,lara,60.0
+Networking Skills,4,6,can't predict,Database Administrator,andrew,150.0
+Database Security,9,7,Good,Data Analyst,robin,77.78
+Troubleshooting and Problem-Solving,9,6,Above Average,Full Stack Developer,andrew,66.67
+Mathematics and Statistics.,3,3,Excellent,Artificial Intelligence (AI) Engineer,robin,100.0
+Analytical Skills,10,1,Extremely Poor,Data Analyst,lara,10.0
+Statistical Knowledge,3,9,can't predict,Data Analyst,john,300.0
+Database Management,2,2,Excellent,Database Administrator,lara,100.0
+Problem-Solving Abilities,6,7,can't predict,Data Analyst,lara,116.67
+Web Development Tools,9,3,Poor,Cybersecurity Analyst,jefforson,33.33
+Web Development Tools,3,6,can't predict,Database Administrator,lara,200.0
+Backup and Recovery,8,4,Average,Data Analyst,jefforson,50.0
+Statistical Knowledge,10,6,Above Average,Cybersecurity Analyst,robin,60.0
+Natural Language Processing ,2,2,Excellent,Data Analyst,lara,100.0
+Problem-Solving Abilities,1,5,can't predict,Data Analyst,robin,500.0
+Domain Knowledge,3,10,can't predict,Data Analyst,andrew,333.33
+Machine Learning,1,6,can't predict,Cybersecurity Analyst,lara,600.0
+Knowledge of Security Tools,10,6,Above Average,Database Administrator,robin,60.0
+"APIs (RESTful, GraphQL)",7,0,Needs Improvement,Full Stack Developer,andrew,0.0
+Networking Skills,4,0,Needs Improvement,Artificial Intelligence (AI) Engineer,robin,0.0
+"APIs (RESTful, GraphQL)",6,7,can't predict,Full Stack Developer,jefforson,116.67
+Programming Skills,5,5,Excellent,Data Analyst,jefforson,100.0
+Back-end Technologies,1,3,can't predict,Artificial Intelligence (AI) Engineer,lara,300.0
+SQL and Query Optimization,1,7,can't predict,Artificial Intelligence (AI) Engineer,jefforson,700.0
+Analytical Skills,2,1,Average,Data Analyst,jefforson,50.0
+Critical Thinking,10,9,Excellent,Cybersecurity Analyst,john,90.0
+Version Control/Git,1,10,can't predict,Full Stack Developer,jefforson,1000.0
+Scripting and Automation,2,5,can't predict,Artificial Intelligence (AI) Engineer,andrew,250.0
+Risk Assessment and Management,4,8,can't predict,Full Stack Developer,jefforson,200.0
+Attention to Detail,1,7,can't predict,Full Stack Developer,andrew,700.0
+Risk Assessment and Management,7,0,Needs Improvement,Data Analyst,andrew,0.0
+Front-end Technologies,3,6,can't predict,Data Analyst,robin,200.0
+Understanding of Security Tools,2,9,can't predict,Full Stack Developer,andrew,450.0
+Domain Knowledge,5,0,Needs Improvement,Data Analyst,john,0.0
+Database Management Systems,4,10,can't predict,Database Administrator,jefforson,250.0
+Natural Language Processing ,6,0,Needs Improvement,Data Analyst,andrew,0.0
+Web Development Tools,5,10,can't predict,Full Stack Developer,jefforson,200.0
+Troubleshooting and Problem-Solving,1,3,can't predict,Artificial Intelligence (AI) Engineer,robin,300.0
+Programming Skills,1,2,can't predict,Data Analyst,jefforson,200.0
+Knowledge of Security Tools,4,10,can't predict,Full Stack Developer,lara,250.0
+Troubleshooting and Problem-Solving,1,10,can't predict,Data Analyst,andrew,1000.0
+Critical Thinking,1,9,can't predict,Full Stack Developer,robin,900.0
+Analytical Skills,6,7,can't predict,Full Stack Developer,lara,116.67
+Analytical Skills,3,10,can't predict,Data Analyst,andrew,333.33
+Back-end Technologies,10,1,Extremely Poor,Database Administrator,jefforson,10.0
+Data Handling,8,4,Average,Data Analyst,john,50.0
+Version Control/Git,6,10,can't predict,Data Analyst,robin,166.67
+Domain Knowledge,5,1,Very Poor,Data Analyst,lara,20.0
+Cyber Threat Intelligence,7,10,can't predict,Cybersecurity Analyst,lara,142.86
+Front-end Technologies,8,1,Extremely Poor,Full Stack Developer,robin,12.5
+Programming skills,3,3,Excellent,Data Analyst,jefforson,100.0
+SQL and Query Optimization,4,9,can't predict,Artificial Intelligence (AI) Engineer,jefforson,225.0
+Database Management,4,1,Very Poor,Database Administrator,jefforson,25.0
+Deep Learning,1,6,can't predict,Artificial Intelligence (AI) Engineer,andrew,600.0
+Domain Knowledge,5,9,can't predict,Full Stack Developer,robin,180.0
+Programming Skills,9,7,Good,Cybersecurity Analyst,andrew,77.78
+Domain Knowledge,5,7,can't predict,Database Administrator,john,140.0
+Understanding of Security Tools,8,3,Poor,Cybersecurity Analyst,jefforson,37.5
+Data Visualization,1,3,can't predict,Full Stack Developer,jefforson,300.0
+Data Modeling and Design,7,1,Extremely Poor,Data Analyst,jefforson,14.29
+Critical Thinking,6,9,can't predict,Data Analyst,jefforson,150.0
+Statistical Knowledge,9,5,Average,Artificial Intelligence (AI) Engineer,jefforson,55.56
+Data Handling,3,3,Excellent,Artificial Intelligence (AI) Engineer,jefforson,100.0
+Analytical Skills,10,0,Needs Improvement,Data Analyst,john,0.0
+Attention to Detail,5,10,can't predict,Artificial Intelligence (AI) Engineer,jefforson,200.0
+Web Development Tools,5,1,Very Poor,Database Administrator,jefforson,20.0
+Natural Language Processing ,3,7,can't predict,Data Analyst,jefforson,233.33
+Data Modeling and Design,5,2,Below Average,Data Analyst,jefforson,40.0
+Database Knowledge,7,10,can't predict,Full Stack Developer,john,142.86
+Machine Learning,4,10,can't predict,Full Stack Developer,jefforson,250.0
+Backup and Recovery,2,5,can't predict,Artificial Intelligence (AI) Engineer,robin,250.0
+"APIs (RESTful, GraphQL)",7,2,Very Poor,Cybersecurity Analyst,john,28.57
+Algorithm Development,6,10,can't predict,Artificial Intelligence (AI) Engineer,andrew,166.67
+Scripting and Automation,4,2,Average,Data Analyst,lara,50.0
+Statistical Knowledge,10,10,Excellent,Database Administrator,andrew,100.0
+Statistical Knowledge,6,5,Very Good,Full Stack Developer,andrew,83.33
+Back-end Technologies,5,3,Above Average,Data Analyst,robin,60.0
+Web Development Tools,5,6,can't predict,Artificial Intelligence (AI) Engineer,jefforson,120.0
+Data Handling,1,1,Excellent,Data Analyst,jefforson,100.0
+Database Knowledge,1,5,can't predict,Data Analyst,jefforson,500.0
+Version Control/Git,8,0,Needs Improvement,Full Stack Developer,andrew,0.0
+Cyber Threat Intelligence,3,5,can't predict,Artificial Intelligence (AI) Engineer,lara,166.67
+Domain Knowledge,5,2,Below Average,Data Analyst,andrew,40.0
+Attention to Detail,1,3,can't predict,Artificial Intelligence (AI) Engineer,robin,300.0
+Back-end Technologies,1,3,can't predict,Database Administrator,john,300.0
+Web Development Tools,10,3,Poor,Artificial Intelligence (AI) Engineer,john,30.0
+Risk Assessment and Management,9,6,Above Average,Cybersecurity Analyst,jefforson,66.67
+Machine Learning,10,3,Poor,Database Administrator,jefforson,30.0
+Back-end Technologies,4,3,Good,Artificial Intelligence (AI) Engineer,robin,75.0
+Data Visualization,9,3,Poor,Database Administrator,jefforson,33.33
+Backup and Recovery,5,6,can't predict,Full Stack Developer,robin,120.0
+Networking Skills,7,6,Very Good,Cybersecurity Analyst,lara,85.71
+Networking Skills,3,0,Needs Improvement,Full Stack Developer,lara,0.0
+Networking Skills,5,9,can't predict,Full Stack Developer,jefforson,180.0
+Database Management Systems,4,7,can't predict,Data Analyst,robin,175.0
+Programming Skills,10,1,Extremely Poor,Cybersecurity Analyst,lara,10.0
+Analytical Skills,3,8,can't predict,Database Administrator,jefforson,266.67
+Critical Thinking,1,0,Needs Improvement,Cybersecurity Analyst,andrew,0.0
+Cyber Threat Intelligence,4,5,can't predict,Data Analyst,john,125.0
+Scripting and Automation,1,6,can't predict,Full Stack Developer,robin,600.0
+Analytical Skills,1,6,can't predict,Artificial Intelligence (AI) Engineer,lara,600.0
+Data Modeling and Design,4,2,Average,Full Stack Developer,robin,50.0
+Attention to Detail,2,7,can't predict,Cybersecurity Analyst,robin,350.0
+Security Tools,5,10,can't predict,Artificial Intelligence (AI) Engineer,john,200.0
+Networking Skills,3,7,can't predict,Database Administrator,andrew,233.33
+Networking Skills,8,9,can't predict,Data Analyst,andrew,112.5
+Attention to Detail,2,8,can't predict,Data Analyst,andrew,400.0
+Programming skills,8,4,Average,Full Stack Developer,jefforson,50.0
+Data Handling,9,4,Below Average,Artificial Intelligence (AI) Engineer,andrew,44.44
+Programming Skills,7,4,Average,Data Analyst,lara,57.14
+Statistical Knowledge,7,2,Very Poor,Full Stack Developer,john,28.57
+Mathematics and Statistics.,10,10,Excellent,Database Administrator,jefforson,100.0
+Data Handling,7,0,Needs Improvement,Data Analyst,lara,0.0
+"APIs (RESTful, GraphQL)",10,7,Good,Artificial Intelligence (AI) Engineer,andrew,70.0
+Understanding of Security Tools,9,1,Extremely Poor,Full Stack Developer,john,11.11
+Domain Knowledge,3,8,can't predict,Data Analyst,lara,266.67
+Programming Skills,6,10,can't predict,Artificial Intelligence (AI) Engineer,jefforson,166.67
+Scripting and Automation,1,1,Excellent,Full Stack Developer,john,100.0
+Networking Skills,4,8,can't predict,Data Analyst,lara,200.0
+Database Knowledge,8,8,Excellent,Full Stack Developer,andrew,100.0
+Attention to Detail,9,6,Above Average,Cybersecurity Analyst,andrew,66.67
+Web Development Tools,4,1,Very Poor,Artificial Intelligence (AI) Engineer,lara,25.0
+SQL and Query Optimization,5,4,Very Good,Full Stack Developer,jefforson,80.0
+"APIs (RESTful, GraphQL)",8,7,Very Good,Database Administrator,robin,87.5
+Database Management,3,8,can't predict,Cybersecurity Analyst,john,266.67
+Mathematics and Statistics.,8,0,Needs Improvement,Cybersecurity Analyst,john,0.0
+Critical Thinking,3,10,can't predict,Full Stack Developer,jefforson,333.33
+Cyber Threat Intelligence,1,3,can't predict,Database Administrator,jefforson,300.0
+Problem-Solving Abilities,4,2,Average,Data Analyst,lara,50.0
+Algorithm Development,2,3,can't predict,Artificial Intelligence (AI) Engineer,lara,150.0
+Domain Knowledge,7,6,Very Good,Artificial Intelligence (AI) Engineer,jefforson,85.71
+Back-end Technologies,10,0,Needs Improvement,Database Administrator,jefforson,0.0
+Scripting and Automation,8,6,Good,Full Stack Developer,jefforson,75.0
+Statistical Knowledge,7,6,Very Good,Artificial Intelligence (AI) Engineer,jefforson,85.71
+Database Management,1,2,can't predict,Full Stack Developer,robin,200.0
+Programming skills,2,9,can't predict,Cybersecurity Analyst,andrew,450.0
+"APIs (RESTful, GraphQL)",5,9,can't predict,Data Analyst,andrew,180.0
+Cyber Threat Intelligence,1,8,can't predict,Database Administrator,jefforson,800.0
+Understanding of Security Tools,6,4,Above Average,Full Stack Developer,andrew,66.67
+Front-end Technologies,4,1,Very Poor,Data Analyst,john,25.0
+Programming skills,3,2,Above Average,Artificial Intelligence (AI) Engineer,jefforson,66.67
+Database Management,7,6,Very Good,Artificial Intelligence (AI) Engineer,andrew,85.71
+Data Modeling and Design,2,6,can't predict,Data Analyst,john,300.0
+Statistical Knowledge,10,5,Average,Data Analyst,robin,50.0
+Programming skills,7,7,Excellent,Full Stack Developer,jefforson,100.0
+Domain Knowledge,3,1,Poor,Database Administrator,john,33.33
+Statistical Knowledge,2,2,Excellent,Data Analyst,robin,100.0
+Troubleshooting and Problem-Solving,4,9,can't predict,Data Analyst,andrew,225.0
+Database Management,10,10,Excellent,Database Administrator,jefforson,100.0
+Statistical Knowledge,8,7,Very Good,Data Analyst,jefforson,87.5
+Deep Learning,1,8,can't predict,Data Analyst,jefforson,800.0
+Database Knowledge,5,5,Excellent,Database Administrator,lara,100.0
+Critical Thinking,10,9,Excellent,Data Analyst,andrew,90.0
+Front-end Technologies,10,3,Poor,Artificial Intelligence (AI) Engineer,jefforson,30.0
+SQL and Query Optimization,7,8,can't predict,Artificial Intelligence (AI) Engineer,john,114.29
+Domain Knowledge,2,4,can't predict,Data Analyst,jefforson,200.0
+Security Policies and Compliance,10,7,Good,Full Stack Developer,john,70.0
+Problem-Solving Abilities,3,5,can't predict,Database Administrator,lara,166.67
+Problem-Solving Abilities,4,9,can't predict,Full Stack Developer,andrew,225.0
+Analytical Skills,10,6,Above Average,Artificial Intelligence (AI) Engineer,jefforson,60.0
+Data Visualization,5,6,can't predict,Database Administrator,andrew,120.0
+Machine Learning,8,2,Very Poor,Cybersecurity Analyst,robin,25.0
+Troubleshooting and Problem-Solving,8,4,Average,Data Analyst,jefforson,50.0
+SQL and Query Optimization,9,6,Above Average,Cybersecurity Analyst,john,66.67
+Version Control/Git,7,1,Extremely Poor,Data Analyst,john,14.29
+Algorithm Development,4,10,can't predict,Artificial Intelligence (AI) Engineer,robin,250.0
+Troubleshooting and Problem-Solving,7,9,can't predict,Database Administrator,lara,128.57
+Knowledge of Security Tools,5,8,can't predict,Database Administrator,jefforson,160.0
+Data Visualization,2,4,can't predict,Full Stack Developer,lara,200.0
+Understanding of Security Tools,4,1,Very Poor,Full Stack Developer,andrew,25.0
+Understanding of Security Tools,3,9,can't predict,Full Stack Developer,john,300.0
+Database Knowledge,1,0,Needs Improvement,Database Administrator,lara,0.0
+Programming Skills,6,2,Poor,Full Stack Developer,john,33.33
+Performance Tuning,9,3,Poor,Database Administrator,andrew,33.33
+Data Visualization,6,0,Needs Improvement,Cybersecurity Analyst,andrew,0.0
+Security Policies and Compliance,4,4,Excellent,Cybersecurity Analyst,andrew,100.0
+Front-end Technologies,2,8,can't predict,Data Analyst,jefforson,400.0
+Mathematics and Statistics.,2,9,can't predict,Full Stack Developer,lara,450.0
+Domain Knowledge,6,1,Extremely Poor,Data Analyst,jefforson,16.67
+Data Modeling and Design,3,3,Excellent,Cybersecurity Analyst,jefforson,100.0
+Problem-Solving Abilities,7,1,Extremely Poor,Data Analyst,jefforson,14.29
+Troubleshooting and Problem-Solving,3,6,can't predict,Cybersecurity Analyst,lara,200.0
+Deep Learning,4,3,Good,Full Stack Developer,john,75.0
+Deep Learning,3,2,Above Average,Cybersecurity Analyst,lara,66.67
+Critical Thinking,1,9,can't predict,Full Stack Developer,jefforson,900.0
+Natural Language Processing ,9,9,Excellent,Artificial Intelligence (AI) Engineer,jefforson,100.0
+Algorithm Development,7,5,Good,Data Analyst,jefforson,71.43
+SQL and Query Optimization,9,10,can't predict,Artificial Intelligence (AI) Engineer,lara,111.11
+Cyber Threat Intelligence,2,6,can't predict,Full Stack Developer,robin,300.0
+Risk Assessment and Management,5,0,Needs Improvement,Data Analyst,jefforson,0.0
+Database Knowledge,4,8,can't predict,Database Administrator,jefforson,200.0
+"APIs (RESTful, GraphQL)",6,7,can't predict,Full Stack Developer,lara,116.67
+Scripting and Automation,4,7,can't predict,Data Analyst,john,175.0
+Data Modeling and Design,2,0,Needs Improvement,Artificial Intelligence (AI) Engineer,lara,0.0
+Front-end Technologies,6,5,Very Good,Cybersecurity Analyst,robin,83.33
+Understanding of Security Tools,3,5,can't predict,Cybersecurity Analyst,andrew,166.67
+Risk Assessment and Management,10,2,Very Poor,Database Administrator,lara,20.0
+Analytical Skills,5,6,can't predict,Data Analyst,jefforson,120.0
+Database Management,1,2,can't predict,Full Stack Developer,robin,200.0
+Database Management,1,6,can't predict,Database Administrator,jefforson,600.0
+Critical Thinking,10,4,Below Average,Artificial Intelligence (AI) Engineer,john,40.0
+Version Control/Git,1,4,can't predict,Cybersecurity Analyst,andrew,400.0
+Critical Thinking,3,8,can't predict,Database Administrator,andrew,266.67
+Mathematics and Statistics.,1,4,can't predict,Cybersecurity Analyst,andrew,400.0
+Data Visualization,10,6,Above Average,Artificial Intelligence (AI) Engineer,robin,60.0
+Scripting and Automation,4,9,can't predict,Full Stack Developer,jefforson,225.0
+Database Security,4,8,can't predict,Artificial Intelligence (AI) Engineer,andrew,200.0
+SQL and Query Optimization,9,5,Average,Full Stack Developer,john,55.56
+Data Visualization,8,10,can't predict,Artificial Intelligence (AI) Engineer,andrew,125.0
+Database Knowledge,6,2,Poor,Database Administrator,lara,33.33
+Mathematics and Statistics.,2,6,can't predict,Cybersecurity Analyst,jefforson,300.0
+Programming Skills,9,9,Excellent,Data Analyst,lara,100.0
+Domain Knowledge,8,8,Excellent,Cybersecurity Analyst,john,100.0
+Version Control/Git,7,5,Good,Artificial Intelligence (AI) Engineer,robin,71.43
+Data Handling,3,0,Needs Improvement,Data Analyst,andrew,0.0
+Database Knowledge,7,10,can't predict,Data Analyst,jefforson,142.86
+Database Management,2,5,can't predict,Cybersecurity Analyst,jefforson,250.0
+"APIs (RESTful, GraphQL)",4,8,can't predict,Artificial Intelligence (AI) Engineer,jefforson,200.0
+Statistical Knowledge,8,10,can't predict,Data Analyst,robin,125.0
+Back-end Technologies,1,7,can't predict,Artificial Intelligence (AI) Engineer,jefforson,700.0
+Problem-Solving Abilities,9,9,Excellent,Full Stack Developer,lara,100.0
+Networking Skills,10,1,Extremely Poor,Artificial Intelligence (AI) Engineer,andrew,10.0
+Data Visualization,1,0,Needs Improvement,Data Analyst,john,0.0
+Domain Knowledge,2,6,can't predict,Data Analyst,andrew,300.0
+Database Management,5,5,Excellent,Cybersecurity Analyst,robin,100.0
+Domain Knowledge,5,5,Excellent,Full Stack Developer,jefforson,100.0
+Programming Skills,6,2,Poor,Full Stack Developer,jefforson,33.33
+Programming Skills,2,2,Excellent,Cybersecurity Analyst,john,100.0
+Database Management,9,6,Above Average,Database Administrator,jefforson,66.67
+Front-end Technologies,10,8,Very Good,Cybersecurity Analyst,robin,80.0
+Database Security,7,2,Very Poor,Full Stack Developer,robin,28.57
+Web Development Tools,2,8,can't predict,Data Analyst,andrew,400.0
+Cyber Threat Intelligence,5,10,can't predict,Data Analyst,andrew,200.0
+Database Security,5,1,Very Poor,Data Analyst,john,20.0
+Security Policies and Compliance,4,9,can't predict,Cybersecurity Analyst,jefforson,225.0
+Data Visualization,5,2,Below Average,Full Stack Developer,john,40.0
+Algorithm Development,4,9,can't predict,Cybersecurity Analyst,john,225.0
+Critical Thinking,9,0,Needs Improvement,Full Stack Developer,john,0.0
+Security Tools,9,0,Needs Improvement,Full Stack Developer,jefforson,0.0
+Data Visualization,2,8,can't predict,Data Analyst,jefforson,400.0
+Version Control/Git,7,6,Very Good,Data Analyst,jefforson,85.71
+Algorithm Development,5,5,Excellent,Cybersecurity Analyst,john,100.0
+Data Visualization,10,9,Excellent,Database Administrator,jefforson,90.0
+Database Management,1,10,can't predict,Data Analyst,lara,1000.0
+Statistical Knowledge,7,6,Very Good,Artificial Intelligence (AI) Engineer,john,85.71
+Web Development Tools,10,10,Excellent,Data Analyst,andrew,100.0
+Networking Skills,4,9,can't predict,Full Stack Developer,john,225.0
+SQL and Query Optimization,10,2,Very Poor,Cybersecurity Analyst,robin,20.0
+Attention to Detail,9,4,Below Average,Full Stack Developer,andrew,44.44
+Natural Language Processing ,2,0,Needs Improvement,Full Stack Developer,jefforson,0.0
+Networking Skills,10,8,Very Good,Cybersecurity Analyst,jefforson,80.0
+Security Tools,6,7,can't predict,Artificial Intelligence (AI) Engineer,lara,116.67
+SQL and Query Optimization,8,1,Extremely Poor,Cybersecurity Analyst,lara,12.5
+Natural Language Processing ,2,4,can't predict,Artificial Intelligence (AI) Engineer,jefforson,200.0
+Database Management,8,9,can't predict,Database Administrator,jefforson,112.5
+Domain Knowledge,6,8,can't predict,Database Administrator,john,133.33
+Data Visualization,1,4,can't predict,Data Analyst,jefforson,400.0
+Web Development Tools,7,8,can't predict,Artificial Intelligence (AI) Engineer,andrew,114.29
+Risk Assessment and Management,1,1,Excellent,Full Stack Developer,lara,100.0
+Domain Knowledge,10,5,Average,Full Stack Developer,robin,50.0
+Troubleshooting and Problem-Solving,3,5,can't predict,Full Stack Developer,robin,166.67
+Front-end Technologies,4,9,can't predict,Database Administrator,john,225.0
+Statistical Knowledge,7,4,Average,Full Stack Developer,john,57.14
+Risk Assessment and Management,7,3,Below Average,Full Stack Developer,andrew,42.86
+Data Modeling and Design,4,4,Excellent,Cybersecurity Analyst,lara,100.0
+Domain Knowledge,2,0,Needs Improvement,Database Administrator,jefforson,0.0
+Understanding of Security Tools,3,4,can't predict,Database Administrator,andrew,133.33
+Machine Learning,10,2,Very Poor,Database Administrator,jefforson,20.0
+Database Knowledge,8,1,Extremely Poor,Data Analyst,jefforson,12.5
+Performance Tuning,2,9,can't predict,Cybersecurity Analyst,andrew,450.0
+"APIs (RESTful, GraphQL)",5,0,Needs Improvement,Cybersecurity Analyst,robin,0.0
+Attention to Detail,2,0,Needs Improvement,Data Analyst,jefforson,0.0
+Programming Skills,1,9,can't predict,Cybersecurity Analyst,jefforson,900.0
+Statistical Knowledge,5,1,Very Poor,Data Analyst,robin,20.0
+Front-end Technologies,3,0,Needs Improvement,Cybersecurity Analyst,jefforson,0.0
+Data Handling,3,6,can't predict,Full Stack Developer,lara,200.0
+Analytical Skills,9,8,Very Good,Cybersecurity Analyst,jefforson,88.89
+Scripting and Automation,7,9,can't predict,Data Analyst,robin,128.57
+Risk Assessment and Management,9,7,Good,Data Analyst,jefforson,77.78
+Web Development Tools,5,4,Very Good,Full Stack Developer,john,80.0
+"APIs (RESTful, GraphQL)",9,3,Poor,Cybersecurity Analyst,jefforson,33.33
+Backup and Recovery,9,6,Above Average,Database Administrator,andrew,66.67
+Web Development Tools,8,5,Above Average,Database Administrator,jefforson,62.5
+Data Handling,6,3,Average,Data Analyst,andrew,50.0
+Troubleshooting and Problem-Solving,6,5,Very Good,Cybersecurity Analyst,jefforson,83.33
+Domain Knowledge,1,9,can't predict,Full Stack Developer,jefforson,900.0
+Programming skills,10,8,Very Good,Artificial Intelligence (AI) Engineer,andrew,80.0
+Cyber Threat Intelligence,1,3,can't predict,Cybersecurity Analyst,robin,300.0
+Security Policies and Compliance,7,7,Excellent,Data Analyst,jefforson,100.0
+Security Tools,6,4,Above Average,Full Stack Developer,robin,66.67
+Attention to Detail,5,1,Very Poor,Full Stack Developer,lara,20.0
+Problem-Solving Abilities,7,9,can't predict,Data Analyst,jefforson,128.57
+Domain Knowledge,10,0,Needs Improvement,Database Administrator,andrew,0.0
+Troubleshooting and Problem-Solving,2,1,Average,Artificial Intelligence (AI) Engineer,andrew,50.0
+Programming Skills,8,2,Very Poor,Full Stack Developer,robin,25.0
+Statistical Knowledge,6,10,can't predict,Database Administrator,andrew,166.67
+Statistical Knowledge,3,7,can't predict,Full Stack Developer,andrew,233.33
+Programming Skills,7,4,Average,Full Stack Developer,lara,57.14
+Critical Thinking,2,2,Excellent,Full Stack Developer,jefforson,100.0
+Cyber Threat Intelligence,2,1,Average,Data Analyst,lara,50.0
+Database Management,9,9,Excellent,Data Analyst,jefforson,100.0
+Critical Thinking,6,4,Above Average,Data Analyst,robin,66.67
+Version Control/Git,9,3,Poor,Artificial Intelligence (AI) Engineer,robin,33.33
+Attention to Detail,10,2,Very Poor,Full Stack Developer,jefforson,20.0
+Performance Tuning,1,3,can't predict,Cybersecurity Analyst,lara,300.0
+Web Development Tools,5,10,can't predict,Full Stack Developer,john,200.0
+"APIs (RESTful, GraphQL)",2,0,Needs Improvement,Cybersecurity Analyst,jefforson,0.0
+Front-end Technologies,9,9,Excellent,Full Stack Developer,jefforson,100.0
+Database Management Systems,4,7,can't predict,Data Analyst,john,175.0
+Algorithm Development,10,3,Poor,Full Stack Developer,lara,30.0
+Cyber Threat Intelligence,5,10,can't predict,Database Administrator,lara,200.0
+Backup and Recovery,6,0,Needs Improvement,Artificial Intelligence (AI) Engineer,lara,0.0
+Understanding of Security Tools,4,9,can't predict,Data Analyst,jefforson,225.0
+Risk Assessment and Management,8,6,Good,Full Stack Developer,john,75.0
+Front-end Technologies,10,7,Good,Data Analyst,jefforson,70.0
+Web Development Tools,1,0,Needs Improvement,Cybersecurity Analyst,john,0.0
+Data Modeling and Design,7,10,can't predict,Data Analyst,jefforson,142.86
+"APIs (RESTful, GraphQL)",8,2,Very Poor,Database Administrator,jefforson,25.0
+Cyber Threat Intelligence,3,6,can't predict,Artificial Intelligence (AI) Engineer,john,200.0
+Understanding of Security Tools,5,0,Needs Improvement,Cybersecurity Analyst,lara,0.0
+Statistical Knowledge,8,1,Extremely Poor,Data Analyst,robin,12.5
+Attention to Detail,8,3,Poor,Database Administrator,jefforson,37.5
+Data Handling,4,3,Good,Cybersecurity Analyst,jefforson,75.0
+Scripting and Automation,5,10,can't predict,Data Analyst,lara,200.0
+Troubleshooting and Problem-Solving,5,6,can't predict,Full Stack Developer,jefforson,120.0
+Version Control/Git,1,2,can't predict,Full Stack Developer,lara,200.0
+Database Security,6,5,Very Good,Cybersecurity Analyst,robin,83.33
+Problem-Solving Abilities,1,4,can't predict,Full Stack Developer,jefforson,400.0
+Database Knowledge,3,10,can't predict,Data Analyst,john,333.33
+Database Management Systems,10,7,Good,Full Stack Developer,robin,70.0
+Version Control/Git,1,3,can't predict,Full Stack Developer,lara,300.0
+Version Control/Git,7,7,Excellent,Database Administrator,andrew,100.0
+Critical Thinking,9,4,Below Average,Full Stack Developer,john,44.44
+Programming Skills,4,1,Very Poor,Artificial Intelligence (AI) Engineer,jefforson,25.0
+Web Development Tools,4,9,can't predict,Database Administrator,robin,225.0
+Domain Knowledge,5,6,can't predict,Data Analyst,lara,120.0
+Attention to Detail,3,4,can't predict,Data Analyst,andrew,133.33
+Version Control/Git,8,4,Average,Data Analyst,jefforson,50.0
+"APIs (RESTful, GraphQL)",3,9,can't predict,Full Stack Developer,andrew,300.0
+Front-end Technologies,4,5,can't predict,Full Stack Developer,jefforson,125.0
+Database Management Systems,3,10,can't predict,Full Stack Developer,john,333.33
+Programming Skills,8,8,Excellent,Cybersecurity Analyst,andrew,100.0
+Database Management,8,6,Good,Artificial Intelligence (AI) Engineer,robin,75.0
+Machine Learning,9,10,can't predict,Full Stack Developer,john,111.11
+Statistical Knowledge,6,8,can't predict,Data Analyst,john,133.33
+Networking Skills,5,3,Above Average,Data Analyst,john,60.0
+Domain Knowledge,10,4,Below Average,Artificial Intelligence (AI) Engineer,jefforson,40.0
+Troubleshooting and Problem-Solving,3,8,can't predict,Data Analyst,lara,266.67
+Problem-Solving Abilities,8,9,can't predict,Database Administrator,jefforson,112.5
+Back-end Technologies,5,5,Excellent,Database Administrator,andrew,100.0
+Troubleshooting and Problem-Solving,4,1,Very Poor,Full Stack Developer,lara,25.0
+Machine Learning,4,0,Needs Improvement,Full Stack Developer,andrew,0.0
+Mathematics and Statistics.,1,10,can't predict,Database Administrator,jefforson,1000.0
+Natural Language Processing ,10,5,Average,Database Administrator,lara,50.0
+SQL and Query Optimization,6,9,can't predict,Database Administrator,andrew,150.0
+Knowledge of Security Tools,7,3,Below Average,Database Administrator,andrew,42.86
+Back-end Technologies,3,3,Excellent,Data Analyst,robin,100.0
+Front-end Technologies,2,8,can't predict,Data Analyst,jefforson,400.0
+Data Visualization,7,5,Good,Full Stack Developer,andrew,71.43
+Domain Knowledge,9,5,Average,Artificial Intelligence (AI) Engineer,jefforson,55.56
+Knowledge of Security Tools,6,9,can't predict,Data Analyst,robin,150.0
+Data Modeling and Design,1,8,can't predict,Cybersecurity Analyst,andrew,800.0
+Analytical Skills,6,7,can't predict,Full Stack Developer,lara,116.67
+Programming Skills,9,6,Above Average,Database Administrator,andrew,66.67
+Risk Assessment and Management,9,5,Average,Artificial Intelligence (AI) Engineer,robin,55.56
+Analytical Skills,1,5,can't predict,Data Analyst,john,500.0
+Database Knowledge,6,2,Poor,Full Stack Developer,andrew,33.33
+Domain Knowledge,1,6,can't predict,Artificial Intelligence (AI) Engineer,lara,600.0
+SQL and Query Optimization,6,8,can't predict,Full Stack Developer,robin,133.33
+SQL and Query Optimization,3,8,can't predict,Data Analyst,jefforson,266.67
+Programming Skills,1,1,Excellent,Data Analyst,jefforson,100.0
+Web Development Tools,5,9,can't predict,Full Stack Developer,andrew,180.0
+Database Security,8,7,Very Good,Full Stack Developer,john,87.5
+Front-end Technologies,4,0,Needs Improvement,Data Analyst,lara,0.0
+Performance Tuning,5,10,can't predict,Cybersecurity Analyst,robin,200.0
+Back-end Technologies,9,7,Good,Full Stack Developer,robin,77.78
+Database Security,9,10,can't predict,Full Stack Developer,robin,111.11
+Data Handling,6,1,Extremely Poor,Artificial Intelligence (AI) Engineer,lara,16.67
+Data Modeling and Design,10,0,Needs Improvement,Database Administrator,andrew,0.0
+"APIs (RESTful, GraphQL)",5,1,Very Poor,Cybersecurity Analyst,robin,20.0
+Machine Learning,10,1,Extremely Poor,Database Administrator,jefforson,10.0
+Knowledge of Security Tools,4,0,Needs Improvement,Data Analyst,jefforson,0.0
+Database Management Systems,3,7,can't predict,Full Stack Developer,jefforson,233.33
+Security Tools,3,0,Needs Improvement,Artificial Intelligence (AI) Engineer,andrew,0.0
+Analytical Skills,6,2,Poor,Cybersecurity Analyst,andrew,33.33
+Security Policies and Compliance,10,6,Above Average,Cybersecurity Analyst,andrew,60.0
+Analytical Skills,8,8,Excellent,Full Stack Developer,jefforson,100.0
+Data Modeling and Design,9,1,Extremely Poor,Full Stack Developer,andrew,11.11
+Knowledge of Security Tools,2,5,can't predict,Data Analyst,andrew,250.0
+Understanding of Security Tools,1,6,can't predict,Data Analyst,jefforson,600.0
+Critical Thinking,4,3,Good,Data Analyst,jefforson,75.0
+Domain Knowledge,4,6,can't predict,Full Stack Developer,john,150.0
+Backup and Recovery,2,6,can't predict,Data Analyst,john,300.0
+Programming Skills,8,8,Excellent,Database Administrator,john,100.0
+Troubleshooting and Problem-Solving,7,1,Extremely Poor,Data Analyst,john,14.29
+Performance Tuning,4,4,Excellent,Data Analyst,jefforson,100.0
+Data Handling,5,9,can't predict,Data Analyst,jefforson,180.0
+Data Visualization,9,1,Extremely Poor,Database Administrator,john,11.11
+"APIs (RESTful, GraphQL)",9,8,Very Good,Database Administrator,jefforson,88.89
+Data Visualization,10,4,Below Average,Database Administrator,jefforson,40.0
+"APIs (RESTful, GraphQL)",5,9,can't predict,Full Stack Developer,andrew,180.0
+Attention to Detail,10,0,Needs Improvement,Cybersecurity Analyst,lara,0.0
+Programming Skills,4,6,can't predict,Data Analyst,jefforson,150.0
+SQL and Query Optimization,9,8,Very Good,Cybersecurity Analyst,jefforson,88.89
+Statistical Knowledge,1,1,Excellent,Database Administrator,andrew,100.0
+Algorithm Development,4,8,can't predict,Full Stack Developer,john,200.0
+Database Knowledge,4,3,Good,Full Stack Developer,lara,75.0
+Problem-Solving Abilities,2,5,can't predict,Cybersecurity Analyst,lara,250.0
+Back-end Technologies,5,2,Below Average,Database Administrator,jefforson,40.0
+Web Development Tools,2,4,can't predict,Cybersecurity Analyst,jefforson,200.0
+Database Knowledge,3,0,Needs Improvement,Cybersecurity Analyst,john,0.0
+Critical Thinking,2,3,can't predict,Cybersecurity Analyst,robin,150.0
+Deep Learning,6,1,Extremely Poor,Data Analyst,andrew,16.67
+"APIs (RESTful, GraphQL)",1,1,Excellent,Data Analyst,andrew,100.0
+SQL and Query Optimization,1,9,can't predict,Artificial Intelligence (AI) Engineer,robin,900.0
+Machine Learning,2,8,can't predict,Data Analyst,robin,400.0
+Data Modeling and Design,8,4,Average,Data Analyst,robin,50.0
+Version Control/Git,4,3,Good,Cybersecurity Analyst,robin,75.0
+Risk Assessment and Management,8,6,Good,Full Stack Developer,andrew,75.0
+Domain Knowledge,10,4,Below Average,Database Administrator,jefforson,40.0
+Machine Learning,7,8,can't predict,Data Analyst,jefforson,114.29
+Statistical Knowledge,8,7,Very Good,Cybersecurity Analyst,jefforson,87.5
+Analytical Skills,9,2,Very Poor,Full Stack Developer,robin,22.22
+Machine Learning,10,10,Excellent,Artificial Intelligence (AI) Engineer,jefforson,100.0
+Attention to Detail,6,1,Extremely Poor,Artificial Intelligence (AI) Engineer,jefforson,16.67
+Natural Language Processing ,9,6,Above Average,Data Analyst,andrew,66.67
+Web Development Tools,3,6,can't predict,Data Analyst,jefforson,200.0
+Networking Skills,9,9,Excellent,Artificial Intelligence (AI) Engineer,john,100.0
+"APIs (RESTful, GraphQL)",4,3,Good,Data Analyst,jefforson,75.0
+Programming Skills,8,7,Very Good,Database Administrator,jefforson,87.5
+Risk Assessment and Management,10,1,Extremely Poor,Cybersecurity Analyst,jefforson,10.0
+Domain Knowledge,3,10,can't predict,Database Administrator,lara,333.33
+Attention to Detail,1,2,can't predict,Cybersecurity Analyst,andrew,200.0
+Back-end Technologies,7,10,can't predict,Data Analyst,robin,142.86
+Attention to Detail,8,2,Very Poor,Data Analyst,john,25.0
+Data Visualization,7,10,can't predict,Data Analyst,lara,142.86
+Database Knowledge,9,7,Good,Cybersecurity Analyst,john,77.78
+Programming Skills,8,1,Extremely Poor,Cybersecurity Analyst,lara,12.5
+Knowledge of Security Tools,2,2,Excellent,Full Stack Developer,robin,100.0
+"APIs (RESTful, GraphQL)",2,6,can't predict,Database Administrator,jefforson,300.0
+Database Knowledge,10,9,Excellent,Artificial Intelligence (AI) Engineer,jefforson,90.0
+Troubleshooting and Problem-Solving,6,0,Needs Improvement,Data Analyst,jefforson,0.0
+Data Modeling and Design,1,1,Excellent,Full Stack Developer,andrew,100.0
+Database Knowledge,2,3,can't predict,Data Analyst,john,150.0
+Domain Knowledge,4,9,can't predict,Data Analyst,john,225.0
+Database Knowledge,8,0,Needs Improvement,Data Analyst,andrew,0.0
+Scripting and Automation,7,1,Extremely Poor,Artificial Intelligence (AI) Engineer,jefforson,14.29
+Security Policies and Compliance,10,8,Very Good,Database Administrator,john,80.0
+Risk Assessment and Management,7,6,Very Good,Artificial Intelligence (AI) Engineer,john,85.71
+Mathematics and Statistics.,9,7,Good,Cybersecurity Analyst,lara,77.78
+Security Tools,3,3,Excellent,Database Administrator,jefforson,100.0
+Programming skills,10,8,Very Good,Artificial Intelligence (AI) Engineer,jefforson,80.0
+Natural Language Processing ,2,5,can't predict,Cybersecurity Analyst,john,250.0
+Attention to Detail,6,0,Needs Improvement,Artificial Intelligence (AI) Engineer,andrew,0.0
+Database Knowledge,7,4,Average,Cybersecurity Analyst,john,57.14
+Data Modeling and Design,1,6,can't predict,Cybersecurity Analyst,lara,600.0
+Data Handling,9,0,Needs Improvement,Data Analyst,robin,0.0
+Deep Learning,1,10,can't predict,Full Stack Developer,jefforson,1000.0
+Database Knowledge,8,7,Very Good,Cybersecurity Analyst,andrew,87.5
+Version Control/Git,9,4,Below Average,Data Analyst,lara,44.44
+Database Management,4,1,Very Poor,Data Analyst,robin,25.0
+Domain Knowledge,3,5,can't predict,Full Stack Developer,andrew,166.67
+Attention to Detail,6,2,Poor,Data Analyst,andrew,33.33
+Back-end Technologies,9,5,Average,Database Administrator,jefforson,55.56
+Backup and Recovery,2,5,can't predict,Database Administrator,lara,250.0
+Database Security,4,10,can't predict,Database Administrator,robin,250.0
+Data Modeling and Design,5,8,can't predict,Data Analyst,lara,160.0
+Database Knowledge,9,7,Good,Full Stack Developer,robin,77.78
+Attention to Detail,5,4,Very Good,Data Analyst,jefforson,80.0
+Database Management Systems,10,7,Good,Database Administrator,andrew,70.0
+Troubleshooting and Problem-Solving,1,7,can't predict,Full Stack Developer,andrew,700.0
+Data Modeling and Design,10,10,Excellent,Data Analyst,jefforson,100.0
+Data Visualization,5,7,can't predict,Full Stack Developer,jefforson,140.0
+Natural Language Processing ,10,2,Very Poor,Full Stack Developer,robin,20.0
+Backup and Recovery,1,6,can't predict,Data Analyst,jefforson,600.0
+Database Knowledge,1,9,can't predict,Artificial Intelligence (AI) Engineer,andrew,900.0
+Data Visualization,1,1,Excellent,Data Analyst,john,100.0
+Natural Language Processing ,10,5,Average,Database Administrator,john,50.0
+Analytical Skills,10,7,Good,Cybersecurity Analyst,andrew,70.0
+Back-end Technologies,6,6,Excellent,Cybersecurity Analyst,jefforson,100.0
+Critical Thinking,9,8,Very Good,Data Analyst,jefforson,88.89
+Version Control/Git,4,4,Excellent,Artificial Intelligence (AI) Engineer,robin,100.0
+Web Development Tools,6,7,can't predict,Data Analyst,lara,116.67
+Version Control/Git,1,4,can't predict,Artificial Intelligence (AI) Engineer,jefforson,400.0
+Data Modeling and Design,8,2,Very Poor,Full Stack Developer,andrew,25.0
+Version Control/Git,10,3,Poor,Database Administrator,jefforson,30.0
+Natural Language Processing ,4,9,can't predict,Data Analyst,robin,225.0
+Critical Thinking,9,6,Above Average,Data Analyst,robin,66.67
+Data Modeling and Design,10,5,Average,Full Stack Developer,robin,50.0
+Back-end Technologies,1,5,can't predict,Cybersecurity Analyst,lara,500.0
+Critical Thinking,10,1,Extremely Poor,Cybersecurity Analyst,jefforson,10.0
+Understanding of Security Tools,2,2,Excellent,Database Administrator,jefforson,100.0
+Critical Thinking,5,6,can't predict,Data Analyst,john,120.0
+Database Management,6,8,can't predict,Data Analyst,robin,133.33
+Back-end Technologies,4,0,Needs Improvement,Artificial Intelligence (AI) Engineer,andrew,0.0
+Networking Skills,7,1,Extremely Poor,Full Stack Developer,andrew,14.29
+Scripting and Automation,4,4,Excellent,Full Stack Developer,jefforson,100.0
+Domain Knowledge,10,7,Good,Data Analyst,john,70.0
+Database Security,3,8,can't predict,Database Administrator,jefforson,266.67
+Domain Knowledge,9,6,Above Average,Full Stack Developer,andrew,66.67
+Attention to Detail,10,2,Very Poor,Data Analyst,lara,20.0
+Deep Learning,5,6,can't predict,Cybersecurity Analyst,robin,120.0
+Deep Learning,8,0,Needs Improvement,Artificial Intelligence (AI) Engineer,john,0.0
+Understanding of Security Tools,1,9,can't predict,Full Stack Developer,lara,900.0
+Database Security,8,10,can't predict,Database Administrator,robin,125.0
+Scripting and Automation,8,0,Needs Improvement,Data Analyst,robin,0.0
+Domain Knowledge,3,7,can't predict,Full Stack Developer,andrew,233.33
+Natural Language Processing ,9,9,Excellent,Cybersecurity Analyst,jefforson,100.0
+Back-end Technologies,2,6,can't predict,Cybersecurity Analyst,lara,300.0
+Problem-Solving Abilities,3,4,can't predict,Cybersecurity Analyst,jefforson,133.33
+Attention to Detail,1,8,can't predict,Full Stack Developer,andrew,800.0
+Critical Thinking,6,10,can't predict,Artificial Intelligence (AI) Engineer,jefforson,166.67
+Front-end Technologies,3,10,can't predict,Full Stack Developer,jefforson,333.33
+Database Management Systems,6,6,Excellent,Data Analyst,jefforson,100.0
+Natural Language Processing ,10,10,Excellent,Artificial Intelligence (AI) Engineer,robin,100.0
+Statistical Knowledge,9,5,Average,Cybersecurity Analyst,andrew,55.56
+Risk Assessment and Management,6,1,Extremely Poor,Full Stack Developer,lara,16.67
+Programming Skills,5,4,Very Good,Cybersecurity Analyst,robin,80.0
+Database Security,8,0,Needs Improvement,Data Analyst,john,0.0
+Backup and Recovery,5,4,Very Good,Data Analyst,jefforson,80.0
+Scripting and Automation,10,7,Good,Database Administrator,lara,70.0
+Front-end Technologies,9,8,Very Good,Data Analyst,andrew,88.89
+Knowledge of Security Tools,10,10,Excellent,Full Stack Developer,john,100.0
+Analytical Skills,7,1,Extremely Poor,Database Administrator,lara,14.29
+Critical Thinking,1,8,can't predict,Full Stack Developer,robin,800.0
+Database Knowledge,10,3,Poor,Artificial Intelligence (AI) Engineer,lara,30.0
+Attention to Detail,6,1,Extremely Poor,Data Analyst,andrew,16.67
+Problem-Solving Abilities,1,5,can't predict,Data Analyst,john,500.0
+Attention to Detail,7,5,Good,Data Analyst,jefforson,71.43
+Back-end Technologies,5,8,can't predict,Cybersecurity Analyst,jefforson,160.0
+Statistical Knowledge,8,2,Very Poor,Data Analyst,andrew,25.0
+Data Modeling and Design,1,5,can't predict,Database Administrator,lara,500.0
+Statistical Knowledge,3,2,Above Average,Cybersecurity Analyst,lara,66.67
+Web Development Tools,7,9,can't predict,Data Analyst,john,128.57
+Critical Thinking,6,5,Very Good,Artificial Intelligence (AI) Engineer,lara,83.33
+Programming Skills,6,1,Extremely Poor,Data Analyst,robin,16.67
+Data Visualization,7,5,Good,Data Analyst,jefforson,71.43
+Domain Knowledge,9,6,Above Average,Artificial Intelligence (AI) Engineer,andrew,66.67
+Database Management,8,4,Average,Cybersecurity Analyst,john,50.0
+Machine Learning,6,9,can't predict,Data Analyst,robin,150.0
+Attention to Detail,7,1,Extremely Poor,Database Administrator,john,14.29
+Data Handling,7,6,Very Good,Database Administrator,robin,85.71
+Analytical Skills,3,1,Poor,Full Stack Developer,robin,33.33
+Statistical Knowledge,10,2,Very Poor,Database Administrator,john,20.0
+"APIs (RESTful, GraphQL)",7,9,can't predict,Artificial Intelligence (AI) Engineer,jefforson,128.57
+Version Control/Git,2,1,Average,Cybersecurity Analyst,andrew,50.0
+Understanding of Security Tools,1,3,can't predict,Artificial Intelligence (AI) Engineer,andrew,300.0
+Programming Skills,10,10,Excellent,Data Analyst,john,100.0
+Database Management,5,10,can't predict,Full Stack Developer,jefforson,200.0
+Database Management,7,10,can't predict,Artificial Intelligence (AI) Engineer,lara,142.86
+Cyber Threat Intelligence,9,6,Above Average,Artificial Intelligence (AI) Engineer,robin,66.67
+Risk Assessment and Management,4,1,Very Poor,Data Analyst,robin,25.0
+Version Control/Git,6,8,can't predict,Cybersecurity Analyst,andrew,133.33
+Domain Knowledge,8,5,Above Average,Cybersecurity Analyst,robin,62.5
+Critical Thinking,10,5,Average,Database Administrator,robin,50.0
+Database Management,2,1,Average,Cybersecurity Analyst,jefforson,50.0
+Security Tools,1,1,Excellent,Database Administrator,robin,100.0
+Attention to Detail,3,8,can't predict,Cybersecurity Analyst,robin,266.67
+Data Modeling and Design,3,3,Excellent,Cybersecurity Analyst,andrew,100.0
+Knowledge of Security Tools,3,2,Above Average,Data Analyst,lara,66.67
+"APIs (RESTful, GraphQL)",6,2,Poor,Full Stack Developer,lara,33.33
+Programming skills,6,3,Average,Data Analyst,andrew,50.0
+Security Tools,4,0,Needs Improvement,Full Stack Developer,jefforson,0.0
+Natural Language Processing ,10,2,Very Poor,Data Analyst,lara,20.0
+Front-end Technologies,6,0,Needs Improvement,Full Stack Developer,lara,0.0
+Data Handling,2,1,Average,Full Stack Developer,jefforson,50.0
+Critical Thinking,1,9,can't predict,Database Administrator,jefforson,900.0
+Performance Tuning,3,7,can't predict,Data Analyst,jefforson,233.33
+Troubleshooting and Problem-Solving,8,0,Needs Improvement,Data Analyst,jefforson,0.0
+Analytical Skills,4,2,Average,Artificial Intelligence (AI) Engineer,robin,50.0
+Front-end Technologies,6,1,Extremely Poor,Database Administrator,john,16.67
+Scripting and Automation,1,8,can't predict,Artificial Intelligence (AI) Engineer,robin,800.0
+Critical Thinking,3,1,Poor,Cybersecurity Analyst,john,33.33
+Domain Knowledge,3,1,Poor,Cybersecurity Analyst,jefforson,33.33
+Scripting and Automation,2,6,can't predict,Database Administrator,robin,300.0
+Database Management,2,6,can't predict,Data Analyst,jefforson,300.0
+Front-end Technologies,7,5,Good,Data Analyst,andrew,71.43
+Attention to Detail,1,3,can't predict,Full Stack Developer,john,300.0
+Version Control/Git,7,3,Below Average,Data Analyst,jefforson,42.86
+Data Handling,4,5,can't predict,Data Analyst,andrew,125.0
+SQL and Query Optimization,1,4,can't predict,Full Stack Developer,lara,400.0
+Database Management,9,9,Excellent,Full Stack Developer,robin,100.0
+Web Development Tools,7,5,Good,Data Analyst,lara,71.43
+Database Management,5,2,Below Average,Cybersecurity Analyst,andrew,40.0
+Data Handling,7,0,Needs Improvement,Data Analyst,jefforson,0.0
+Knowledge of Security Tools,8,2,Very Poor,Data Analyst,john,25.0
+Critical Thinking,10,9,Excellent,Database Administrator,jefforson,90.0
+Domain Knowledge,4,10,can't predict,Data Analyst,lara,250.0
+SQL and Query Optimization,2,8,can't predict,Artificial Intelligence (AI) Engineer,john,400.0
+Attention to Detail,5,0,Needs Improvement,Data Analyst,jefforson,0.0
+Critical Thinking,10,6,Above Average,Full Stack Developer,john,60.0
+Statistical Knowledge,4,0,Needs Improvement,Full Stack Developer,andrew,0.0
+Back-end Technologies,7,0,Needs Improvement,Cybersecurity Analyst,john,0.0
+Performance Tuning,6,0,Needs Improvement,Data Analyst,andrew,0.0
+Back-end Technologies,4,1,Very Poor,Data Analyst,john,25.0
+Critical Thinking,1,3,can't predict,Database Administrator,lara,300.0
+Database Management,3,1,Poor,Cybersecurity Analyst,robin,33.33
+Security Tools,9,1,Extremely Poor,Data Analyst,john,11.11
+Database Knowledge,4,4,Excellent,Data Analyst,lara,100.0
+Algorithm Development,6,10,can't predict,Artificial Intelligence (AI) Engineer,lara,166.67
+Cyber Threat Intelligence,10,0,Needs Improvement,Artificial Intelligence (AI) Engineer,lara,0.0
+Data Modeling and Design,5,6,can't predict,Cybersecurity Analyst,jefforson,120.0
+Natural Language Processing ,3,5,can't predict,Database Administrator,lara,166.67
+Data Visualization,3,10,can't predict,Data Analyst,lara,333.33
+Front-end Technologies,5,6,can't predict,Database Administrator,lara,120.0
+Understanding of Security Tools,9,4,Below Average,Data Analyst,john,44.44
+Deep Learning,5,4,Very Good,Database Administrator,lara,80.0
+Security Policies and Compliance,5,1,Very Poor,Database Administrator,robin,20.0
+Mathematics and Statistics.,9,3,Poor,Artificial Intelligence (AI) Engineer,andrew,33.33
+Risk Assessment and Management,7,7,Excellent,Data Analyst,robin,100.0
+Data Visualization,5,4,Very Good,Full Stack Developer,jefforson,80.0
+Programming skills,8,2,Very Poor,Full Stack Developer,jefforson,25.0
+Programming skills,7,9,can't predict,Data Analyst,jefforson,128.57
+Data Visualization,8,7,Very Good,Data Analyst,andrew,87.5
+Risk Assessment and Management,5,4,Very Good,Data Analyst,lara,80.0
+Database Security,1,7,can't predict,Artificial Intelligence (AI) Engineer,andrew,700.0
+Statistical Knowledge,7,8,can't predict,Database Administrator,lara,114.29
+Knowledge of Security Tools,7,2,Very Poor,Full Stack Developer,john,28.57
+Programming skills,8,6,Good,Database Administrator,jefforson,75.0
+Backup and Recovery,1,7,can't predict,Data Analyst,jefforson,700.0
+Web Development Tools,7,4,Average,Data Analyst,jefforson,57.14
+Domain Knowledge,6,5,Very Good,Data Analyst,andrew,83.33
+"APIs (RESTful, GraphQL)",3,8,can't predict,Full Stack Developer,andrew,266.67
+Risk Assessment and Management,2,4,can't predict,Database Administrator,andrew,200.0
+Domain Knowledge,8,3,Poor,Artificial Intelligence (AI) Engineer,john,37.5
+"APIs (RESTful, GraphQL)",5,9,can't predict,Artificial Intelligence (AI) Engineer,jefforson,180.0
+Database Knowledge,3,5,can't predict,Artificial Intelligence (AI) Engineer,robin,166.67
+Database Management,10,9,Excellent,Database Administrator,andrew,90.0
+Data Modeling and Design,10,8,Very Good,Data Analyst,robin,80.0
+Algorithm Development,8,8,Excellent,Cybersecurity Analyst,john,100.0
+Version Control/Git,9,1,Extremely Poor,Data Analyst,jefforson,11.11
+Understanding of Security Tools,7,0,Needs Improvement,Database Administrator,jefforson,0.0
+Data Visualization,3,10,can't predict,Data Analyst,robin,333.33
+Algorithm Development,8,3,Poor,Full Stack Developer,lara,37.5
+Version Control/Git,4,9,can't predict,Data Analyst,jefforson,225.0
+Analytical Skills,9,3,Poor,Full Stack Developer,jefforson,33.33
+Backup and Recovery,3,5,can't predict,Data Analyst,jefforson,166.67
+Networking Skills,5,2,Below Average,Full Stack Developer,jefforson,40.0
+Backup and Recovery,8,7,Very Good,Full Stack Developer,andrew,87.5
+Web Development Tools,2,9,can't predict,Full Stack Developer,jefforson,450.0
+Web Development Tools,7,7,Excellent,Artificial Intelligence (AI) Engineer,john,100.0
+Data Visualization,10,0,Needs Improvement,Cybersecurity Analyst,jefforson,0.0
+Database Knowledge,2,4,can't predict,Data Analyst,robin,200.0
+Version Control/Git,1,7,can't predict,Data Analyst,jefforson,700.0
+Performance Tuning,3,4,can't predict,Data Analyst,robin,133.33
+"APIs (RESTful, GraphQL)",9,6,Above Average,Cybersecurity Analyst,andrew,66.67
+Critical Thinking,2,6,can't predict,Artificial Intelligence (AI) Engineer,andrew,300.0
+Analytical Skills,10,2,Very Poor,Full Stack Developer,lara,20.0
+Critical Thinking,5,2,Below Average,Database Administrator,john,40.0
+Back-end Technologies,7,10,can't predict,Full Stack Developer,andrew,142.86
+Statistical Knowledge,4,7,can't predict,Full Stack Developer,lara,175.0
+Version Control/Git,2,4,can't predict,Full Stack Developer,robin,200.0
+Risk Assessment and Management,1,0,Needs Improvement,Full Stack Developer,andrew,0.0
+Domain Knowledge,9,8,Very Good,Artificial Intelligence (AI) Engineer,robin,88.89
+"APIs (RESTful, GraphQL)",5,9,can't predict,Full Stack Developer,lara,180.0
+Mathematics and Statistics.,6,0,Needs Improvement,Data Analyst,jefforson,0.0
+Back-end Technologies,4,9,can't predict,Full Stack Developer,andrew,225.0
+Cyber Threat Intelligence,5,2,Below Average,Database Administrator,andrew,40.0
+Domain Knowledge,1,4,can't predict,Artificial Intelligence (AI) Engineer,andrew,400.0
+Front-end Technologies,1,3,can't predict,Full Stack Developer,lara,300.0
+Performance Tuning,10,10,Excellent,Data Analyst,john,100.0
+Data Modeling and Design,6,5,Very Good,Full Stack Developer,lara,83.33
+Web Development Tools,7,3,Below Average,Artificial Intelligence (AI) Engineer,robin,42.86
+Deep Learning,7,7,Excellent,Artificial Intelligence (AI) Engineer,jefforson,100.0
+Security Tools,8,2,Very Poor,Full Stack Developer,john,25.0
+Programming skills,9,6,Above Average,Data Analyst,john,66.67
+Database Management,4,1,Very Poor,Full Stack Developer,john,25.0
+Security Policies and Compliance,2,2,Excellent,Database Administrator,john,100.0
+Database Security,2,2,Excellent,Artificial Intelligence (AI) Engineer,andrew,100.0
+Statistical Knowledge,2,4,can't predict,Data Analyst,jefforson,200.0
+Security Tools,6,5,Very Good,Data Analyst,jefforson,83.33
+Analytical Skills,2,4,can't predict,Full Stack Developer,robin,200.0
+Natural Language Processing ,1,6,can't predict,Full Stack Developer,andrew,600.0
+"APIs (RESTful, GraphQL)",7,4,Average,Cybersecurity Analyst,robin,57.14
+Database Management Systems,10,7,Good,Cybersecurity Analyst,jefforson,70.0
+Database Management,3,4,can't predict,Database Administrator,andrew,133.33
+Critical Thinking,10,4,Below Average,Data Analyst,robin,40.0
+Front-end Technologies,10,8,Very Good,Data Analyst,robin,80.0
+Knowledge of Security Tools,3,6,can't predict,Artificial Intelligence (AI) Engineer,john,200.0
+Database Knowledge,1,6,can't predict,Cybersecurity Analyst,jefforson,600.0
+Cyber Threat Intelligence,2,3,can't predict,Data Analyst,robin,150.0
+Programming skills,8,9,can't predict,Database Administrator,jefforson,112.5
+Domain Knowledge,3,1,Poor,Full Stack Developer,john,33.33
+Back-end Technologies,8,4,Average,Database Administrator,robin,50.0
+Security Tools,9,1,Extremely Poor,Data Analyst,jefforson,11.11
+Version Control/Git,10,9,Excellent,Artificial Intelligence (AI) Engineer,andrew,90.0
+Web Development Tools,8,8,Excellent,Full Stack Developer,lara,100.0
+Data Visualization,6,4,Above Average,Data Analyst,jefforson,66.67
+Networking Skills,3,10,can't predict,Full Stack Developer,lara,333.33
+"APIs (RESTful, GraphQL)",7,0,Needs Improvement,Database Administrator,andrew,0.0
+Risk Assessment and Management,8,2,Very Poor,Artificial Intelligence (AI) Engineer,robin,25.0
+Mathematics and Statistics.,5,8,can't predict,Artificial Intelligence (AI) Engineer,andrew,160.0
+Programming skills,6,6,Excellent,Database Administrator,robin,100.0
+Database Management,9,8,Very Good,Cybersecurity Analyst,andrew,88.89
+Critical Thinking,8,6,Good,Data Analyst,andrew,75.0
+Data Modeling and Design,4,7,can't predict,Cybersecurity Analyst,andrew,175.0
+Analytical Skills,1,2,can't predict,Data Analyst,robin,200.0
+Deep Learning,5,5,Excellent,Database Administrator,john,100.0
+Statistical Knowledge,10,0,Needs Improvement,Full Stack Developer,john,0.0
+Security Tools,4,0,Needs Improvement,Artificial Intelligence (AI) Engineer,john,0.0
+Programming Skills,4,6,can't predict,Artificial Intelligence (AI) Engineer,andrew,150.0
+Understanding of Security Tools,10,6,Above Average,Cybersecurity Analyst,robin,60.0
+Knowledge of Security Tools,10,1,Extremely Poor,Artificial Intelligence (AI) Engineer,jefforson,10.0
+Database Management,9,9,Excellent,Cybersecurity Analyst,robin,100.0
+Risk Assessment and Management,6,10,can't predict,Cybersecurity Analyst,robin,166.67
+Scripting and Automation,2,9,can't predict,Full Stack Developer,robin,450.0
+Troubleshooting and Problem-Solving,5,2,Below Average,Artificial Intelligence (AI) Engineer,jefforson,40.0
+Deep Learning,6,0,Needs Improvement,Data Analyst,jefforson,0.0
+Problem-Solving Abilities,5,0,Needs Improvement,Data Analyst,lara,0.0
+Data Visualization,6,5,Very Good,Database Administrator,robin,83.33
+Front-end Technologies,7,6,Very Good,Data Analyst,andrew,85.71
+Risk Assessment and Management,7,4,Average,Artificial Intelligence (AI) Engineer,andrew,57.14
+Web Development Tools,2,7,can't predict,Full Stack Developer,lara,350.0
+Problem-Solving Abilities,1,2,can't predict,Cybersecurity Analyst,john,200.0
+Database Knowledge,7,0,Needs Improvement,Data Analyst,robin,0.0
+Security Tools,4,9,can't predict,Full Stack Developer,jefforson,225.0
+Attention to Detail,4,5,can't predict,Full Stack Developer,robin,125.0
+Networking Skills,1,10,can't predict,Full Stack Developer,andrew,1000.0
+Performance Tuning,7,8,can't predict,Cybersecurity Analyst,jefforson,114.29
+SQL and Query Optimization,6,3,Average,Data Analyst,john,50.0
+Statistical Knowledge,5,3,Above Average,Database Administrator,lara,60.0
+Algorithm Development,1,3,can't predict,Data Analyst,jefforson,300.0
+Cyber Threat Intelligence,5,2,Below Average,Data Analyst,robin,40.0
+Programming Skills,8,5,Above Average,Full Stack Developer,john,62.5
+Machine Learning,5,3,Above Average,Cybersecurity Analyst,robin,60.0
+Web Development Tools,1,0,Needs Improvement,Artificial Intelligence (AI) Engineer,andrew,0.0
+Database Knowledge,7,3,Below Average,Full Stack Developer,andrew,42.86
+"APIs (RESTful, GraphQL)",3,9,can't predict,Artificial Intelligence (AI) Engineer,andrew,300.0
+Data Handling,4,8,can't predict,Data Analyst,andrew,200.0
+Web Development Tools,2,5,can't predict,Cybersecurity Analyst,robin,250.0
+Understanding of Security Tools,3,4,can't predict,Full Stack Developer,jefforson,133.33
+"APIs (RESTful, GraphQL)",5,9,can't predict,Cybersecurity Analyst,andrew,180.0
+Cyber Threat Intelligence,2,4,can't predict,Data Analyst,lara,200.0
+Data Visualization,3,0,Needs Improvement,Artificial Intelligence (AI) Engineer,lara,0.0
+Understanding of Security Tools,10,2,Very Poor,Database Administrator,john,20.0
+Machine Learning,4,1,Very Poor,Full Stack Developer,jefforson,25.0
+Statistical Knowledge,9,1,Extremely Poor,Cybersecurity Analyst,jefforson,11.11
+Understanding of Security Tools,4,8,can't predict,Data Analyst,john,200.0
+Back-end Technologies,2,7,can't predict,Database Administrator,john,350.0
+Understanding of Security Tools,7,0,Needs Improvement,Data Analyst,robin,0.0
+Database Management,4,9,can't predict,Artificial Intelligence (AI) Engineer,andrew,225.0
+Web Development Tools,1,3,can't predict,Data Analyst,andrew,300.0
+Networking Skills,5,2,Below Average,Data Analyst,jefforson,40.0
+Data Visualization,8,0,Needs Improvement,Data Analyst,jefforson,0.0
+Programming Skills,2,4,can't predict,Data Analyst,lara,200.0
+Domain Knowledge,5,5,Excellent,Cybersecurity Analyst,jefforson,100.0
+Back-end Technologies,5,5,Excellent,Database Administrator,jefforson,100.0
+Networking Skills,1,7,can't predict,Full Stack Developer,lara,700.0
+Networking Skills,8,5,Above Average,Database Administrator,robin,62.5
+Attention to Detail,7,9,can't predict,Database Administrator,jefforson,128.57
+Analytical Skills,3,2,Above Average,Data Analyst,robin,66.67
+Database Management,10,9,Excellent,Cybersecurity Analyst,jefforson,90.0
+Domain Knowledge,7,6,Very Good,Full Stack Developer,robin,85.71
+Domain Knowledge,7,9,can't predict,Full Stack Developer,andrew,128.57
+Version Control/Git,6,7,can't predict,Full Stack Developer,jefforson,116.67
+Programming skills,5,5,Excellent,Full Stack Developer,robin,100.0
+Domain Knowledge,5,10,can't predict,Data Analyst,robin,200.0
+Knowledge of Security Tools,1,2,can't predict,Database Administrator,john,200.0
+Database Security,8,7,Very Good,Cybersecurity Analyst,jefforson,87.5
+Data Modeling and Design,6,8,can't predict,Full Stack Developer,lara,133.33
+Data Visualization,3,6,can't predict,Full Stack Developer,jefforson,200.0
+Back-end Technologies,9,3,Poor,Data Analyst,john,33.33
+Attention to Detail,2,9,can't predict,Data Analyst,jefforson,450.0
+Domain Knowledge,6,5,Very Good,Artificial Intelligence (AI) Engineer,andrew,83.33
+Web Development Tools,2,1,Average,Data Analyst,robin,50.0
+Machine Learning,5,6,can't predict,Full Stack Developer,andrew,120.0
+Programming Skills,2,10,can't predict,Artificial Intelligence (AI) Engineer,lara,500.0
+Back-end Technologies,2,3,can't predict,Artificial Intelligence (AI) Engineer,andrew,150.0
+Attention to Detail,8,8,Excellent,Data Analyst,lara,100.0
+Front-end Technologies,7,1,Extremely Poor,Full Stack Developer,jefforson,14.29
+Database Security,4,1,Very Poor,Full Stack Developer,robin,25.0
+Security Policies and Compliance,5,4,Very Good,Full Stack Developer,john,80.0
+Web Development Tools,1,0,Needs Improvement,Data Analyst,robin,0.0
+Version Control/Git,5,2,Below Average,Artificial Intelligence (AI) Engineer,lara,40.0
+Mathematics and Statistics.,1,3,can't predict,Full Stack Developer,andrew,300.0
+Troubleshooting and Problem-Solving,5,10,can't predict,Data Analyst,john,200.0
+"APIs (RESTful, GraphQL)",8,5,Above Average,Data Analyst,andrew,62.5
+Data Handling,10,9,Excellent,Database Administrator,andrew,90.0
+Understanding of Security Tools,10,7,Good,Full Stack Developer,andrew,70.0
+Statistical Knowledge,5,7,can't predict,Data Analyst,john,140.0
+Back-end Technologies,8,4,Average,Cybersecurity Analyst,andrew,50.0
+Database Management,6,6,Excellent,Cybersecurity Analyst,andrew,100.0
+Database Knowledge,2,1,Average,Artificial Intelligence (AI) Engineer,robin,50.0
+Risk Assessment and Management,8,3,Poor,Database Administrator,andrew,37.5
+Database Management Systems,10,9,Excellent,Cybersecurity Analyst,john,90.0
+"APIs (RESTful, GraphQL)",3,9,can't predict,Data Analyst,john,300.0
+Attention to Detail,6,2,Poor,Full Stack Developer,lara,33.33
+"APIs (RESTful, GraphQL)",6,0,Needs Improvement,Database Administrator,john,0.0
+"APIs (RESTful, GraphQL)",7,5,Good,Data Analyst,robin,71.43
+Database Security,9,2,Very Poor,Data Analyst,lara,22.22
+Programming skills,6,6,Excellent,Database Administrator,andrew,100.0
+Database Management Systems,6,7,can't predict,Database Administrator,lara,116.67
+Analytical Skills,7,9,can't predict,Full Stack Developer,robin,128.57
+Algorithm Development,10,4,Below Average,Artificial Intelligence (AI) Engineer,jefforson,40.0
+Mathematics and Statistics.,8,2,Very Poor,Full Stack Developer,jefforson,25.0
+Programming Skills,9,5,Average,Artificial Intelligence (AI) Engineer,john,55.56
+Mathematics and Statistics.,3,3,Excellent,Artificial Intelligence (AI) Engineer,lara,100.0
+Critical Thinking,1,0,Needs Improvement,Cybersecurity Analyst,john,0.0
+Domain Knowledge,6,4,Above Average,Data Analyst,robin,66.67
+Database Management Systems,7,2,Very Poor,Data Analyst,jefforson,28.57
+Version Control/Git,7,1,Extremely Poor,Database Administrator,jefforson,14.29
+Database Security,6,0,Needs Improvement,Database Administrator,lara,0.0
+Problem-Solving Abilities,5,7,can't predict,Data Analyst,jefforson,140.0
+Web Development Tools,6,10,can't predict,Full Stack Developer,jefforson,166.67
+Database Management,8,0,Needs Improvement,Data Analyst,john,0.0
+Scripting and Automation,4,5,can't predict,Full Stack Developer,andrew,125.0
+Database Knowledge,9,10,can't predict,Full Stack Developer,andrew,111.11
+Front-end Technologies,1,2,can't predict,Full Stack Developer,lara,200.0
+Backup and Recovery,8,9,can't predict,Data Analyst,andrew,112.5
+Security Tools,3,7,can't predict,Data Analyst,john,233.33
+Database Management,3,3,Excellent,Data Analyst,john,100.0
+Backup and Recovery,7,5,Good,Data Analyst,andrew,71.43
+Database Knowledge,4,5,can't predict,Data Analyst,robin,125.0
+Web Development Tools,2,6,can't predict,Full Stack Developer,andrew,300.0
+Programming Skills,6,9,can't predict,Full Stack Developer,jefforson,150.0
+Programming Skills,7,3,Below Average,Data Analyst,robin,42.86
+Programming Skills,7,2,Very Poor,Data Analyst,jefforson,28.57
+Version Control/Git,5,10,can't predict,Artificial Intelligence (AI) Engineer,jefforson,200.0
+Database Security,7,7,Excellent,Data Analyst,jefforson,100.0
+Understanding of Security Tools,9,8,Very Good,Cybersecurity Analyst,jefforson,88.89
+Web Development Tools,1,8,can't predict,Data Analyst,lara,800.0
+Networking Skills,1,4,can't predict,Data Analyst,john,400.0
+Web Development Tools,6,10,can't predict,Data Analyst,jefforson,166.67
+Cyber Threat Intelligence,1,3,can't predict,Artificial Intelligence (AI) Engineer,jefforson,300.0
+Domain Knowledge,4,0,Needs Improvement,Full Stack Developer,andrew,0.0
+Analytical Skills,8,5,Above Average,Artificial Intelligence (AI) Engineer,robin,62.5
+Back-end Technologies,5,6,can't predict,Full Stack Developer,robin,120.0
+Machine Learning,2,10,can't predict,Database Administrator,john,500.0
+Web Development Tools,5,4,Very Good,Cybersecurity Analyst,lara,80.0
+Front-end Technologies,10,6,Above Average,Data Analyst,andrew,60.0
+Performance Tuning,2,7,can't predict,Data Analyst,andrew,350.0
+Algorithm Development,10,1,Extremely Poor,Artificial Intelligence (AI) Engineer,lara,10.0
+Domain Knowledge,6,4,Above Average,Data Analyst,lara,66.67
+Data Modeling and Design,6,3,Average,Artificial Intelligence (AI) Engineer,andrew,50.0
+Attention to Detail,8,7,Very Good,Data Analyst,jefforson,87.5
+Web Development Tools,9,5,Average,Data Analyst,john,55.56
+Cyber Threat Intelligence,3,0,Needs Improvement,Artificial Intelligence (AI) Engineer,john,0.0
+Database Management Systems,9,9,Excellent,Data Analyst,andrew,100.0
+Database Knowledge,9,6,Above Average,Full Stack Developer,andrew,66.67
+Back-end Technologies,9,9,Excellent,Database Administrator,andrew,100.0
+Data Visualization,10,3,Poor,Database Administrator,jefforson,30.0
+Performance Tuning,5,3,Above Average,Data Analyst,robin,60.0
+Statistical Knowledge,8,8,Excellent,Database Administrator,andrew,100.0
+Database Knowledge,2,2,Excellent,Data Analyst,robin,100.0
+Database Knowledge,9,9,Excellent,Cybersecurity Analyst,robin,100.0
+Algorithm Development,6,3,Average,Data Analyst,robin,50.0
+Programming Skills,7,7,Excellent,Full Stack Developer,andrew,100.0
+Database Security,7,10,can't predict,Data Analyst,jefforson,142.86
+Machine Learning,9,8,Very Good,Database Administrator,jefforson,88.89
+Programming Skills,5,0,Needs Improvement,Full Stack Developer,robin,0.0
+Attention to Detail,3,2,Above Average,Cybersecurity Analyst,robin,66.67
+Critical Thinking,8,3,Poor,Full Stack Developer,andrew,37.5
+Networking Skills,10,9,Excellent,Cybersecurity Analyst,john,90.0
+Front-end Technologies,8,3,Poor,Cybersecurity Analyst,andrew,37.5
+Data Visualization,8,0,Needs Improvement,Database Administrator,jefforson,0.0
+Web Development Tools,5,5,Excellent,Full Stack Developer,jefforson,100.0
+"APIs (RESTful, GraphQL)",6,0,Needs Improvement,Cybersecurity Analyst,robin,0.0
+Data Visualization,7,8,can't predict,Data Analyst,jefforson,114.29
+Domain Knowledge,5,3,Above Average,Data Analyst,jefforson,60.0
+Understanding of Security Tools,3,3,Excellent,Data Analyst,andrew,100.0
+Networking Skills,6,1,Extremely Poor,Full Stack Developer,jefforson,16.67
+Problem-Solving Abilities,1,9,can't predict,Data Analyst,andrew,900.0
+Performance Tuning,5,8,can't predict,Full Stack Developer,jefforson,160.0
+Back-end Technologies,2,2,Excellent,Full Stack Developer,andrew,100.0
+Web Development Tools,3,0,Needs Improvement,Cybersecurity Analyst,andrew,0.0
+Data Visualization,5,2,Below Average,Data Analyst,lara,40.0
+Critical Thinking,10,6,Above Average,Full Stack Developer,jefforson,60.0
+Database Security,5,2,Below Average,Artificial Intelligence (AI) Engineer,jefforson,40.0
+Web Development Tools,7,5,Good,Data Analyst,jefforson,71.43
+Front-end Technologies,2,2,Excellent,Full Stack Developer,lara,100.0
+Performance Tuning,3,6,can't predict,Full Stack Developer,lara,200.0
+Web Development Tools,10,7,Good,Database Administrator,jefforson,70.0
+Database Management,8,1,Extremely Poor,Artificial Intelligence (AI) Engineer,robin,12.5
+Back-end Technologies,10,2,Very Poor,Cybersecurity Analyst,andrew,20.0
+Data Modeling and Design,4,7,can't predict,Full Stack Developer,andrew,175.0
+Front-end Technologies,8,10,can't predict,Data Analyst,robin,125.0
+Analytical Skills,9,6,Above Average,Database Administrator,robin,66.67
+Data Visualization,6,0,Needs Improvement,Cybersecurity Analyst,robin,0.0
+Back-end Technologies,2,3,can't predict,Cybersecurity Analyst,robin,150.0
+Cyber Threat Intelligence,3,1,Poor,Artificial Intelligence (AI) Engineer,jefforson,33.33
+Web Development Tools,7,5,Good,Artificial Intelligence (AI) Engineer,andrew,71.43
+Networking Skills,7,1,Extremely Poor,Data Analyst,robin,14.29
+Risk Assessment and Management,3,0,Needs Improvement,Cybersecurity Analyst,robin,0.0
+Statistical Knowledge,5,0,Needs Improvement,Full Stack Developer,andrew,0.0
+Problem-Solving Abilities,9,8,Very Good,Data Analyst,jefforson,88.89
+Database Management,7,5,Good,Cybersecurity Analyst,robin,71.43
+Version Control/Git,10,0,Needs Improvement,Cybersecurity Analyst,jefforson,0.0
+Analytical Skills,5,10,can't predict,Data Analyst,lara,200.0
+Deep Learning,6,5,Very Good,Full Stack Developer,andrew,83.33
+Attention to Detail,5,0,Needs Improvement,Full Stack Developer,lara,0.0
+Web Development Tools,3,9,can't predict,Database Administrator,lara,300.0
+Database Knowledge,3,8,can't predict,Data Analyst,andrew,266.67
+Data Handling,2,1,Average,Data Analyst,jefforson,50.0
+Data Visualization,2,8,can't predict,Artificial Intelligence (AI) Engineer,robin,400.0
+Front-end Technologies,6,10,can't predict,Artificial Intelligence (AI) Engineer,john,166.67
+Algorithm Development,5,10,can't predict,Database Administrator,jefforson,200.0
+Risk Assessment and Management,5,5,Excellent,Full Stack Developer,robin,100.0
+Critical Thinking,1,8,can't predict,Artificial Intelligence (AI) Engineer,jefforson,800.0
+Database Knowledge,5,10,can't predict,Data Analyst,john,200.0
+"APIs (RESTful, GraphQL)",7,10,can't predict,Data Analyst,robin,142.86
+"APIs (RESTful, GraphQL)",3,3,Excellent,Artificial Intelligence (AI) Engineer,lara,100.0
+Database Management,9,1,Extremely Poor,Data Analyst,lara,11.11
+Attention to Detail,1,1,Excellent,Full Stack Developer,andrew,100.0
+Domain Knowledge,5,6,can't predict,Artificial Intelligence (AI) Engineer,andrew,120.0
+Critical Thinking,9,1,Extremely Poor,Artificial Intelligence (AI) Engineer,robin,11.11
+Database Management,8,6,Good,Artificial Intelligence (AI) Engineer,jefforson,75.0
+Database Management,1,7,can't predict,Data Analyst,andrew,700.0
+Front-end Technologies,1,10,can't predict,Artificial Intelligence (AI) Engineer,jefforson,1000.0
+Data Modeling and Design,10,6,Above Average,Data Analyst,robin,60.0
+Mathematics and Statistics.,6,6,Excellent,Data Analyst,andrew,100.0
+Networking Skills,1,4,can't predict,Full Stack Developer,jefforson,400.0
+Web Development Tools,2,0,Needs Improvement,Data Analyst,andrew,0.0
+Security Tools,4,7,can't predict,Cybersecurity Analyst,jefforson,175.0
+Security Tools,10,4,Below Average,Database Administrator,lara,40.0
+Version Control/Git,6,3,Average,Database Administrator,lara,50.0
+Database Management Systems,2,5,can't predict,Artificial Intelligence (AI) Engineer,jefforson,250.0
+Version Control/Git,6,7,can't predict,Full Stack Developer,andrew,116.67
+Cyber Threat Intelligence,8,8,Excellent,Artificial Intelligence (AI) Engineer,lara,100.0
+Mathematics and Statistics.,6,2,Poor,Data Analyst,jefforson,33.33
+Security Policies and Compliance,5,6,can't predict,Data Analyst,andrew,120.0
+Data Visualization,1,6,can't predict,Database Administrator,jefforson,600.0
+Data Visualization,10,7,Good,Database Administrator,lara,70.0
+Database Management,7,6,Very Good,Full Stack Developer,robin,85.71
+Programming skills,4,0,Needs Improvement,Full Stack Developer,jefforson,0.0
+Domain Knowledge,7,1,Extremely Poor,Artificial Intelligence (AI) Engineer,jefforson,14.29
+Performance Tuning,8,0,Needs Improvement,Database Administrator,lara,0.0
+Machine Learning,5,8,can't predict,Data Analyst,john,160.0
+Knowledge of Security Tools,5,10,can't predict,Cybersecurity Analyst,jefforson,200.0
+Domain Knowledge,1,9,can't predict,Cybersecurity Analyst,andrew,900.0
+Security Tools,3,8,can't predict,Full Stack Developer,jefforson,266.67
+Natural Language Processing ,7,6,Very Good,Data Analyst,jefforson,85.71
+Networking Skills,9,5,Average,Artificial Intelligence (AI) Engineer,robin,55.56
+Statistical Knowledge,1,4,can't predict,Database Administrator,robin,400.0
+Front-end Technologies,1,0,Needs Improvement,Database Administrator,robin,0.0
+Attention to Detail,4,7,can't predict,Data Analyst,john,175.0
+Back-end Technologies,10,2,Very Poor,Database Administrator,andrew,20.0
+Web Development Tools,6,10,can't predict,Full Stack Developer,john,166.67
+Programming Skills,8,0,Needs Improvement,Database Administrator,robin,0.0
+Domain Knowledge,10,4,Below Average,Cybersecurity Analyst,lara,40.0
+Machine Learning,1,8,can't predict,Full Stack Developer,jefforson,800.0
+Machine Learning,8,6,Good,Database Administrator,andrew,75.0
+Deep Learning,1,7,can't predict,Database Administrator,lara,700.0
+Web Development Tools,3,5,can't predict,Database Administrator,john,166.67
+Database Security,8,3,Poor,Artificial Intelligence (AI) Engineer,andrew,37.5
+Database Knowledge,9,6,Above Average,Full Stack Developer,lara,66.67
+Database Management Systems,7,3,Below Average,Full Stack Developer,john,42.86
+Domain Knowledge,9,6,Above Average,Data Analyst,lara,66.67
+Analytical Skills,4,0,Needs Improvement,Cybersecurity Analyst,lara,0.0
+Critical Thinking,3,0,Needs Improvement,Cybersecurity Analyst,andrew,0.0
+Data Visualization,4,2,Average,Data Analyst,robin,50.0
+Risk Assessment and Management,8,0,Needs Improvement,Full Stack Developer,jefforson,0.0
+Networking Skills,1,1,Excellent,Data Analyst,robin,100.0
+Critical Thinking,5,3,Above Average,Data Analyst,lara,60.0
+Security Policies and Compliance,7,8,can't predict,Data Analyst,jefforson,114.29
+Problem-Solving Abilities,6,5,Very Good,Data Analyst,john,83.33
+SQL and Query Optimization,9,4,Below Average,Cybersecurity Analyst,andrew,44.44
+Database Management,8,7,Very Good,Database Administrator,andrew,87.5
+Web Development Tools,6,0,Needs Improvement,Cybersecurity Analyst,robin,0.0
+Front-end Technologies,5,4,Very Good,Full Stack Developer,john,80.0
+"APIs (RESTful, GraphQL)",3,3,Excellent,Database Administrator,lara,100.0
+Troubleshooting and Problem-Solving,6,0,Needs Improvement,Database Administrator,lara,0.0
+Domain Knowledge,2,4,can't predict,Database Administrator,jefforson,200.0
+"APIs (RESTful, GraphQL)",5,8,can't predict,Data Analyst,lara,160.0
+Analytical Skills,9,1,Extremely Poor,Artificial Intelligence (AI) Engineer,robin,11.11
+Performance Tuning,5,5,Excellent,Artificial Intelligence (AI) Engineer,jefforson,100.0
+Backup and Recovery,6,8,can't predict,Data Analyst,robin,133.33
+Data Modeling and Design,9,7,Good,Data Analyst,andrew,77.78
+Security Tools,9,4,Below Average,Data Analyst,andrew,44.44
+Backup and Recovery,8,5,Above Average,Data Analyst,john,62.5
+Web Development Tools,5,5,Excellent,Full Stack Developer,lara,100.0
+Domain Knowledge,3,2,Above Average,Data Analyst,robin,66.67
+Version Control/Git,8,0,Needs Improvement,Data Analyst,lara,0.0
+Security Policies and Compliance,6,2,Poor,Database Administrator,jefforson,33.33
+Knowledge of Security Tools,9,2,Very Poor,Cybersecurity Analyst,robin,22.22
+Networking Skills,10,0,Needs Improvement,Full Stack Developer,andrew,0.0
+Knowledge of Security Tools,3,6,can't predict,Cybersecurity Analyst,andrew,200.0
+Scripting and Automation,1,6,can't predict,Artificial Intelligence (AI) Engineer,andrew,600.0
+Natural Language Processing ,8,8,Excellent,Cybersecurity Analyst,jefforson,100.0
+Web Development Tools,10,8,Very Good,Artificial Intelligence (AI) Engineer,jefforson,80.0
+Version Control/Git,7,9,can't predict,Cybersecurity Analyst,lara,128.57
+Database Management,3,6,can't predict,Artificial Intelligence (AI) Engineer,john,200.0
+Risk Assessment and Management,5,4,Very Good,Data Analyst,lara,80.0
+Algorithm Development,1,6,can't predict,Data Analyst,john,600.0
+Risk Assessment and Management,3,6,can't predict,Full Stack Developer,andrew,200.0
+Web Development Tools,3,9,can't predict,Artificial Intelligence (AI) Engineer,andrew,300.0
+Web Development Tools,3,3,Excellent,Database Administrator,andrew,100.0
+Database Management,2,9,can't predict,Full Stack Developer,lara,450.0
+Version Control/Git,7,8,can't predict,Data Analyst,lara,114.29
+Risk Assessment and Management,9,7,Good,Database Administrator,john,77.78
+Risk Assessment and Management,2,8,can't predict,Data Analyst,jefforson,400.0
+Understanding of Security Tools,1,9,can't predict,Data Analyst,robin,900.0
+Cyber Threat Intelligence,6,1,Extremely Poor,Database Administrator,robin,16.67
+Domain Knowledge,10,10,Excellent,Artificial Intelligence (AI) Engineer,robin,100.0
+Version Control/Git,2,10,can't predict,Data Analyst,jefforson,500.0
+"APIs (RESTful, GraphQL)",4,4,Excellent,Full Stack Developer,robin,100.0
+Mathematics and Statistics.,5,7,can't predict,Database Administrator,lara,140.0
+Attention to Detail,5,10,can't predict,Data Analyst,lara,200.0
+Statistical Knowledge,1,6,can't predict,Cybersecurity Analyst,andrew,600.0
+Performance Tuning,3,2,Above Average,Artificial Intelligence (AI) Engineer,john,66.67
+Performance Tuning,4,5,can't predict,Database Administrator,jefforson,125.0
+Back-end Technologies,8,4,Average,Data Analyst,andrew,50.0
+Web Development Tools,7,8,can't predict,Database Administrator,andrew,114.29
+Problem-Solving Abilities,10,2,Very Poor,Cybersecurity Analyst,jefforson,20.0
+Cyber Threat Intelligence,7,2,Very Poor,Full Stack Developer,john,28.57
+Database Security,7,3,Below Average,Database Administrator,john,42.86
+Data Visualization,10,0,Needs Improvement,Database Administrator,robin,0.0
+Performance Tuning,10,8,Very Good,Data Analyst,jefforson,80.0
+Critical Thinking,10,1,Extremely Poor,Data Analyst,andrew,10.0
+Database Management,4,6,can't predict,Database Administrator,andrew,150.0
+Back-end Technologies,3,9,can't predict,Cybersecurity Analyst,lara,300.0
+Knowledge of Security Tools,2,10,can't predict,Data Analyst,robin,500.0
+Critical Thinking,6,2,Poor,Data Analyst,john,33.33
+Security Tools,9,7,Good,Full Stack Developer,andrew,77.78
+Risk Assessment and Management,8,3,Poor,Artificial Intelligence (AI) Engineer,andrew,37.5
+Statistical Knowledge,1,6,can't predict,Full Stack Developer,robin,600.0
+Front-end Technologies,10,5,Average,Full Stack Developer,jefforson,50.0
+Domain Knowledge,3,8,can't predict,Data Analyst,robin,266.67
+Data Visualization,8,9,can't predict,Data Analyst,lara,112.5
+Risk Assessment and Management,8,1,Extremely Poor,Full Stack Developer,jefforson,12.5
+Algorithm Development,3,5,can't predict,Database Administrator,john,166.67
+Backup and Recovery,1,4,can't predict,Database Administrator,andrew,400.0
+Programming Skills,5,5,Excellent,Full Stack Developer,lara,100.0
+Database Management,4,2,Average,Database Administrator,robin,50.0
+Database Knowledge,1,8,can't predict,Data Analyst,andrew,800.0
+Data Handling,10,1,Extremely Poor,Data Analyst,andrew,10.0
+Algorithm Development,8,5,Above Average,Artificial Intelligence (AI) Engineer,jefforson,62.5
+SQL and Query Optimization,4,4,Excellent,Database Administrator,jefforson,100.0
+Networking Skills,7,3,Below Average,Cybersecurity Analyst,jefforson,42.86
+Programming Skills,2,0,Needs Improvement,Data Analyst,jefforson,0.0
+Attention to Detail,5,5,Excellent,Data Analyst,john,100.0
+Database Management Systems,1,0,Needs Improvement,Data Analyst,jefforson,0.0
+Attention to Detail,3,2,Above Average,Data Analyst,lara,66.67
+Backup and Recovery,9,4,Below Average,Full Stack Developer,robin,44.44
+Database Management,10,6,Above Average,Database Administrator,andrew,60.0
+Networking Skills,8,3,Poor,Data Analyst,jefforson,37.5
+Attention to Detail,10,10,Excellent,Database Administrator,robin,100.0
+SQL and Query Optimization,7,8,can't predict,Full Stack Developer,jefforson,114.29
+Database Management,10,10,Excellent,Data Analyst,lara,100.0
+Programming Skills,2,6,can't predict,Cybersecurity Analyst,andrew,300.0
+Database Management Systems,8,4,Average,Database Administrator,jefforson,50.0
+Database Management,7,5,Good,Artificial Intelligence (AI) Engineer,jefforson,71.43
+Version Control/Git,1,5,can't predict,Cybersecurity Analyst,lara,500.0
+Data Handling,4,1,Very Poor,Full Stack Developer,jefforson,25.0
+Domain Knowledge,7,7,Excellent,Database Administrator,robin,100.0
+Programming Skills,9,2,Very Poor,Full Stack Developer,jefforson,22.22
+"APIs (RESTful, GraphQL)",3,0,Needs Improvement,Full Stack Developer,jefforson,0.0
+Machine Learning,8,7,Very Good,Data Analyst,lara,87.5
+"APIs (RESTful, GraphQL)",8,6,Good,Cybersecurity Analyst,robin,75.0
+Statistical Knowledge,1,7,can't predict,Database Administrator,andrew,700.0
+Data Visualization,10,3,Poor,Database Administrator,jefforson,30.0
+Programming Skills,10,6,Above Average,Full Stack Developer,john,60.0
+Database Knowledge,5,9,can't predict,Data Analyst,robin,180.0
+Front-end Technologies,4,3,Good,Data Analyst,andrew,75.0
+Knowledge of Security Tools,2,7,can't predict,Cybersecurity Analyst,robin,350.0
+Statistical Knowledge,8,4,Average,Data Analyst,andrew,50.0
+Attention to Detail,5,2,Below Average,Database Administrator,jefforson,40.0
+Domain Knowledge,5,4,Very Good,Data Analyst,lara,80.0
+Scripting and Automation,2,1,Average,Cybersecurity Analyst,andrew,50.0
+Deep Learning,7,1,Extremely Poor,Full Stack Developer,robin,14.29
+Back-end Technologies,9,2,Very Poor,Data Analyst,jefforson,22.22
+"APIs (RESTful, GraphQL)",6,7,can't predict,Full Stack Developer,lara,116.67
+Cyber Threat Intelligence,1,6,can't predict,Cybersecurity Analyst,john,600.0
+Analytical Skills,3,9,can't predict,Data Analyst,robin,300.0
+Statistical Knowledge,3,7,can't predict,Artificial Intelligence (AI) Engineer,john,233.33
+Data Handling,2,9,can't predict,Data Analyst,andrew,450.0
+Database Security,10,0,Needs Improvement,Full Stack Developer,andrew,0.0
+Critical Thinking,2,6,can't predict,Cybersecurity Analyst,robin,300.0
+Cyber Threat Intelligence,1,4,can't predict,Data Analyst,andrew,400.0
+Programming skills,7,4,Average,Data Analyst,lara,57.14
+Back-end Technologies,1,8,can't predict,Artificial Intelligence (AI) Engineer,andrew,800.0
+Algorithm Development,9,9,Excellent,Full Stack Developer,andrew,100.0
+Analytical Skills,2,3,can't predict,Full Stack Developer,andrew,150.0
+Database Knowledge,4,2,Average,Data Analyst,jefforson,50.0
+Domain Knowledge,5,3,Above Average,Full Stack Developer,john,60.0
+Risk Assessment and Management,1,6,can't predict,Cybersecurity Analyst,john,600.0
+Analytical Skills,5,1,Very Poor,Database Administrator,lara,20.0
+Algorithm Development,6,5,Very Good,Full Stack Developer,andrew,83.33
+Back-end Technologies,7,6,Very Good,Cybersecurity Analyst,andrew,85.71
+Programming Skills,10,7,Good,Full Stack Developer,robin,70.0
+Mathematics and Statistics.,3,9,can't predict,Artificial Intelligence (AI) Engineer,jefforson,300.0
+Mathematics and Statistics.,4,8,can't predict,Data Analyst,robin,200.0
+Back-end Technologies,6,4,Above Average,Data Analyst,andrew,66.67
+Front-end Technologies,3,4,can't predict,Data Analyst,john,133.33
+Machine Learning,1,7,can't predict,Full Stack Developer,robin,700.0
+Database Management,9,4,Below Average,Full Stack Developer,jefforson,44.44
+Database Management,10,7,Good,Full Stack Developer,john,70.0
+Programming Skills,1,4,can't predict,Database Administrator,andrew,400.0
+Security Policies and Compliance,5,5,Excellent,Data Analyst,andrew,100.0
+Data Visualization,7,7,Excellent,Full Stack Developer,andrew,100.0
+Performance Tuning,1,0,Needs Improvement,Full Stack Developer,jefforson,0.0
+Mathematics and Statistics.,7,5,Good,Cybersecurity Analyst,john,71.43
+Troubleshooting and Problem-Solving,8,1,Extremely Poor,Artificial Intelligence (AI) Engineer,andrew,12.5
+Web Development Tools,2,7,can't predict,Database Administrator,jefforson,350.0
+Front-end Technologies,1,3,can't predict,Database Administrator,lara,300.0
+Back-end Technologies,5,7,can't predict,Full Stack Developer,john,140.0
+Domain Knowledge,8,7,Very Good,Database Administrator,lara,87.5
+Understanding of Security Tools,6,5,Very Good,Full Stack Developer,jefforson,83.33
+Understanding of Security Tools,5,5,Excellent,Full Stack Developer,robin,100.0
+Troubleshooting and Problem-Solving,3,5,can't predict,Database Administrator,lara,166.67
+Programming skills,10,0,Needs Improvement,Data Analyst,jefforson,0.0
+Database Management,9,8,Very Good,Full Stack Developer,john,88.89
+Performance Tuning,6,3,Average,Data Analyst,john,50.0
+Domain Knowledge,10,0,Needs Improvement,Database Administrator,jefforson,0.0
+Domain Knowledge,1,7,can't predict,Data Analyst,jefforson,700.0
+Backup and Recovery,5,8,can't predict,Cybersecurity Analyst,andrew,160.0
+Networking Skills,8,1,Extremely Poor,Artificial Intelligence (AI) Engineer,andrew,12.5
+Algorithm Development,5,1,Very Poor,Artificial Intelligence (AI) Engineer,john,20.0
+"APIs (RESTful, GraphQL)",8,10,can't predict,Data Analyst,robin,125.0
+Data Modeling and Design,10,7,Good,Artificial Intelligence (AI) Engineer,robin,70.0
+Troubleshooting and Problem-Solving,5,2,Below Average,Data Analyst,andrew,40.0
+Natural Language Processing ,9,1,Extremely Poor,Artificial Intelligence (AI) Engineer,jefforson,11.11
+Domain Knowledge,3,5,can't predict,Artificial Intelligence (AI) Engineer,john,166.67
+Database Security,10,5,Average,Full Stack Developer,jefforson,50.0
+Cyber Threat Intelligence,7,6,Very Good,Artificial Intelligence (AI) Engineer,jefforson,85.71
+Mathematics and Statistics.,1,4,can't predict,Artificial Intelligence (AI) Engineer,andrew,400.0
+Database Knowledge,3,7,can't predict,Full Stack Developer,jefforson,233.33
+Data Handling,3,4,can't predict,Database Administrator,john,133.33
+Front-end Technologies,1,8,can't predict,Full Stack Developer,robin,800.0
+Machine Learning,5,6,can't predict,Data Analyst,jefforson,120.0
+Version Control/Git,6,1,Extremely Poor,Database Administrator,andrew,16.67
+Database Security,6,6,Excellent,Database Administrator,andrew,100.0
+Programming skills,3,3,Excellent,Artificial Intelligence (AI) Engineer,andrew,100.0
+Database Knowledge,2,10,can't predict,Database Administrator,john,500.0
+Database Management,7,6,Very Good,Data Analyst,jefforson,85.71
+Version Control/Git,1,0,Needs Improvement,Cybersecurity Analyst,john,0.0
+Data Modeling and Design,3,0,Needs Improvement,Artificial Intelligence (AI) Engineer,andrew,0.0
+Attention to Detail,3,6,can't predict,Database Administrator,lara,200.0
+Security Policies and Compliance,4,5,can't predict,Full Stack Developer,jefforson,125.0
+Back-end Technologies,3,8,can't predict,Full Stack Developer,john,266.67
+Security Policies and Compliance,7,10,can't predict,Cybersecurity Analyst,jefforson,142.86
+"APIs (RESTful, GraphQL)",2,9,can't predict,Cybersecurity Analyst,andrew,450.0
+Programming Skills,9,7,Good,Data Analyst,jefforson,77.78
+Data Handling,7,0,Needs Improvement,Artificial Intelligence (AI) Engineer,jefforson,0.0
+"APIs (RESTful, GraphQL)",3,6,can't predict,Database Administrator,lara,200.0
+Domain Knowledge,2,7,can't predict,Database Administrator,robin,350.0
+Data Handling,2,5,can't predict,Full Stack Developer,andrew,250.0
+Database Management,3,7,can't predict,Data Analyst,andrew,233.33
+Data Modeling and Design,5,8,can't predict,Data Analyst,lara,160.0
+Statistical Knowledge,6,9,can't predict,Data Analyst,jefforson,150.0
+Programming skills,4,3,Good,Data Analyst,jefforson,75.0
+Security Policies and Compliance,9,10,can't predict,Full Stack Developer,jefforson,111.11
+Data Visualization,5,10,can't predict,Data Analyst,andrew,200.0
+Knowledge of Security Tools,8,10,can't predict,Full Stack Developer,john,125.0
+Web Development Tools,6,5,Very Good,Artificial Intelligence (AI) Engineer,jefforson,83.33
+Understanding of Security Tools,5,4,Very Good,Data Analyst,jefforson,80.0
+Data Handling,8,7,Very Good,Database Administrator,andrew,87.5
+Data Visualization,4,6,can't predict,Cybersecurity Analyst,lara,150.0
+Programming Skills,3,8,can't predict,Artificial Intelligence (AI) Engineer,john,266.67
+Critical Thinking,9,3,Poor,Full Stack Developer,lara,33.33
+Domain Knowledge,3,7,can't predict,Cybersecurity Analyst,john,233.33
+Web Development Tools,6,6,Excellent,Database Administrator,john,100.0
+SQL and Query Optimization,6,4,Above Average,Data Analyst,lara,66.67
+Data Visualization,5,7,can't predict,Data Analyst,robin,140.0
+Statistical Knowledge,6,5,Very Good,Data Analyst,robin,83.33
+Version Control/Git,10,1,Extremely Poor,Database Administrator,lara,10.0
+Data Visualization,7,2,Very Poor,Artificial Intelligence (AI) Engineer,lara,28.57
+Data Modeling and Design,2,3,can't predict,Artificial Intelligence (AI) Engineer,john,150.0
+Critical Thinking,9,2,Very Poor,Cybersecurity Analyst,andrew,22.22
+Programming Skills,6,3,Average,Artificial Intelligence (AI) Engineer,jefforson,50.0
+Performance Tuning,9,3,Poor,Cybersecurity Analyst,jefforson,33.33
+Database Knowledge,8,1,Extremely Poor,Full Stack Developer,lara,12.5
+Database Management,6,6,Excellent,Full Stack Developer,jefforson,100.0
+Database Management,3,6,can't predict,Artificial Intelligence (AI) Engineer,john,200.0
+Critical Thinking,4,10,can't predict,Data Analyst,john,250.0
+Database Management,8,0,Needs Improvement,Data Analyst,jefforson,0.0
+Programming Skills,2,5,can't predict,Data Analyst,jefforson,250.0
+Statistical Knowledge,10,9,Excellent,Full Stack Developer,andrew,90.0
+Security Tools,9,9,Excellent,Database Administrator,robin,100.0
+Critical Thinking,9,9,Excellent,Data Analyst,andrew,100.0
+Domain Knowledge,8,2,Very Poor,Data Analyst,robin,25.0
+Data Modeling and Design,1,0,Needs Improvement,Data Analyst,robin,0.0
+Mathematics and Statistics.,8,2,Very Poor,Artificial Intelligence (AI) Engineer,john,25.0
+Analytical Skills,8,6,Good,Cybersecurity Analyst,jefforson,75.0
+Front-end Technologies,9,7,Good,Full Stack Developer,lara,77.78
+Natural Language Processing ,3,1,Poor,Full Stack Developer,jefforson,33.33
+Risk Assessment and Management,10,9,Excellent,Full Stack Developer,robin,90.0
+Data Visualization,5,4,Very Good,Artificial Intelligence (AI) Engineer,andrew,80.0
+Database Security,2,0,Needs Improvement,Data Analyst,jefforson,0.0
+Web Development Tools,9,5,Average,Data Analyst,robin,55.56
+Front-end Technologies,8,8,Excellent,Database Administrator,jefforson,100.0
+Troubleshooting and Problem-Solving,9,6,Above Average,Data Analyst,andrew,66.67
+Troubleshooting and Problem-Solving,6,5,Very Good,Data Analyst,lara,83.33
+Security Policies and Compliance,4,6,can't predict,Database Administrator,robin,150.0
+Mathematics and Statistics.,1,0,Needs Improvement,Full Stack Developer,robin,0.0
+Attention to Detail,10,6,Above Average,Database Administrator,jefforson,60.0
+Database Knowledge,7,0,Needs Improvement,Data Analyst,john,0.0
+Version Control/Git,5,0,Needs Improvement,Data Analyst,jefforson,0.0
+Web Development Tools,8,8,Excellent,Data Analyst,andrew,100.0
+Analytical Skills,6,6,Excellent,Full Stack Developer,andrew,100.0
+Mathematics and Statistics.,7,8,can't predict,Database Administrator,lara,114.29
+Data Visualization,2,8,can't predict,Full Stack Developer,andrew,400.0
+"APIs (RESTful, GraphQL)",6,8,can't predict,Data Analyst,jefforson,133.33
+Domain Knowledge,8,2,Very Poor,Database Administrator,lara,25.0
+Front-end Technologies,4,2,Average,Database Administrator,robin,50.0
+Data Modeling and Design,1,10,can't predict,Database Administrator,andrew,1000.0
+Attention to Detail,2,1,Average,Full Stack Developer,andrew,50.0
+"APIs (RESTful, GraphQL)",6,7,can't predict,Data Analyst,robin,116.67
+Back-end Technologies,6,6,Excellent,Full Stack Developer,jefforson,100.0
+Scripting and Automation,6,9,can't predict,Database Administrator,john,150.0
+Database Knowledge,6,2,Poor,Full Stack Developer,lara,33.33
+Performance Tuning,6,1,Extremely Poor,Database Administrator,lara,16.67
+Database Management,6,9,can't predict,Cybersecurity Analyst,jefforson,150.0
+Domain Knowledge,1,6,can't predict,Data Analyst,robin,600.0
+Web Development Tools,10,8,Very Good,Database Administrator,john,80.0
+Front-end Technologies,10,3,Poor,Data Analyst,john,30.0
+Data Visualization,1,4,can't predict,Full Stack Developer,lara,400.0
+Domain Knowledge,3,9,can't predict,Database Administrator,andrew,300.0
+Web Development Tools,6,0,Needs Improvement,Data Analyst,jefforson,0.0
+Cyber Threat Intelligence,5,1,Very Poor,Data Analyst,lara,20.0
+Troubleshooting and Problem-Solving,1,10,can't predict,Artificial Intelligence (AI) Engineer,andrew,1000.0
+Front-end Technologies,6,3,Average,Data Analyst,robin,50.0
+Domain Knowledge,7,3,Below Average,Data Analyst,robin,42.86
+Version Control/Git,8,10,can't predict,Artificial Intelligence (AI) Engineer,john,125.0
+Algorithm Development,1,4,can't predict,Artificial Intelligence (AI) Engineer,robin,400.0
+Problem-Solving Abilities,7,10,can't predict,Database Administrator,lara,142.86
+Scripting and Automation,5,8,can't predict,Database Administrator,jefforson,160.0
+Back-end Technologies,9,4,Below Average,Data Analyst,jefforson,44.44
+Critical Thinking,7,4,Average,Artificial Intelligence (AI) Engineer,andrew,57.14
+Understanding of Security Tools,9,6,Above Average,Artificial Intelligence (AI) Engineer,andrew,66.67
+Troubleshooting and Problem-Solving,9,4,Below Average,Database Administrator,jefforson,44.44
+Data Handling,10,7,Good,Cybersecurity Analyst,andrew,70.0
+Analytical Skills,3,7,can't predict,Full Stack Developer,andrew,233.33
+Natural Language Processing ,5,1,Very Poor,Data Analyst,lara,20.0
+Data Visualization,9,8,Very Good,Data Analyst,andrew,88.89
+Version Control/Git,2,5,can't predict,Database Administrator,jefforson,250.0
+Data Visualization,5,5,Excellent,Data Analyst,lara,100.0
+Troubleshooting and Problem-Solving,9,0,Needs Improvement,Artificial Intelligence (AI) Engineer,jefforson,0.0
+Data Modeling and Design,5,10,can't predict,Data Analyst,andrew,200.0
+Data Modeling and Design,1,3,can't predict,Cybersecurity Analyst,andrew,300.0
+Risk Assessment and Management,4,1,Very Poor,Full Stack Developer,andrew,25.0
+Front-end Technologies,1,4,can't predict,Data Analyst,robin,400.0
+Deep Learning,8,5,Above Average,Cybersecurity Analyst,jefforson,62.5
+Security Policies and Compliance,4,0,Needs Improvement,Cybersecurity Analyst,jefforson,0.0
+Deep Learning,10,2,Very Poor,Full Stack Developer,andrew,20.0
+"APIs (RESTful, GraphQL)",3,0,Needs Improvement,Data Analyst,jefforson,0.0
+Domain Knowledge,2,6,can't predict,Data Analyst,andrew,300.0
+"APIs (RESTful, GraphQL)",9,10,can't predict,Artificial Intelligence (AI) Engineer,andrew,111.11
+Web Development Tools,10,9,Excellent,Database Administrator,john,90.0
+Database Management Systems,2,9,can't predict,Database Administrator,jefforson,450.0
+Web Development Tools,9,10,can't predict,Data Analyst,jefforson,111.11
+Knowledge of Security Tools,6,1,Extremely Poor,Data Analyst,john,16.67
+Algorithm Development,5,1,Very Poor,Data Analyst,robin,20.0
+Troubleshooting and Problem-Solving,5,5,Excellent,Artificial Intelligence (AI) Engineer,andrew,100.0
+Programming skills,1,2,can't predict,Data Analyst,andrew,200.0
+Data Visualization,9,10,can't predict,Full Stack Developer,robin,111.11
+Database Security,2,7,can't predict,Data Analyst,andrew,350.0
+Natural Language Processing ,3,5,can't predict,Artificial Intelligence (AI) Engineer,jefforson,166.67
+Data Visualization,1,5,can't predict,Data Analyst,jefforson,500.0
+Natural Language Processing ,5,5,Excellent,Full Stack Developer,robin,100.0
+Critical Thinking,5,10,can't predict,Data Analyst,jefforson,200.0
+Analytical Skills,5,7,can't predict,Data Analyst,jefforson,140.0
+Attention to Detail,9,3,Poor,Full Stack Developer,lara,33.33
+Deep Learning,6,8,can't predict,Artificial Intelligence (AI) Engineer,jefforson,133.33
+Version Control/Git,5,7,can't predict,Database Administrator,lara,140.0
+Natural Language Processing ,1,0,Needs Improvement,Cybersecurity Analyst,jefforson,0.0
+Performance Tuning,9,10,can't predict,Full Stack Developer,andrew,111.11
+Critical Thinking,3,3,Excellent,Data Analyst,lara,100.0
+Programming Skills,5,4,Very Good,Cybersecurity Analyst,jefforson,80.0
+Networking Skills,5,6,can't predict,Cybersecurity Analyst,robin,120.0
+Data Visualization,3,3,Excellent,Cybersecurity Analyst,robin,100.0
+Data Visualization,6,8,can't predict,Database Administrator,jefforson,133.33
+Knowledge of Security Tools,8,6,Good,Data Analyst,lara,75.0
+Critical Thinking,2,3,can't predict,Full Stack Developer,andrew,150.0
+Front-end Technologies,8,2,Very Poor,Artificial Intelligence (AI) Engineer,jefforson,25.0
+Domain Knowledge,7,7,Excellent,Database Administrator,jefforson,100.0
+Database Management,6,3,Average,Data Analyst,lara,50.0
+Cyber Threat Intelligence,6,7,can't predict,Cybersecurity Analyst,lara,116.67
+Domain Knowledge,8,5,Above Average,Full Stack Developer,jefforson,62.5
+Critical Thinking,8,1,Extremely Poor,Database Administrator,lara,12.5
+Natural Language Processing ,4,7,can't predict,Data Analyst,john,175.0
+Programming Skills,8,6,Good,Artificial Intelligence (AI) Engineer,andrew,75.0
+Data Modeling and Design,7,8,can't predict,Full Stack Developer,andrew,114.29
+Domain Knowledge,5,8,can't predict,Full Stack Developer,robin,160.0
+Data Modeling and Design,8,9,can't predict,Artificial Intelligence (AI) Engineer,andrew,112.5
+Version Control/Git,7,5,Good,Cybersecurity Analyst,john,71.43
+Domain Knowledge,2,6,can't predict,Full Stack Developer,robin,300.0
+"APIs (RESTful, GraphQL)",2,9,can't predict,Data Analyst,robin,450.0
+SQL and Query Optimization,7,5,Good,Data Analyst,john,71.43
+Analytical Skills,2,5,can't predict,Artificial Intelligence (AI) Engineer,jefforson,250.0
+Critical Thinking,9,9,Excellent,Artificial Intelligence (AI) Engineer,andrew,100.0
+Back-end Technologies,5,10,can't predict,Full Stack Developer,robin,200.0
+Deep Learning,8,2,Very Poor,Full Stack Developer,john,25.0
+"APIs (RESTful, GraphQL)",7,1,Extremely Poor,Artificial Intelligence (AI) Engineer,lara,14.29
+Security Policies and Compliance,7,7,Excellent,Full Stack Developer,jefforson,100.0
+Programming Skills,4,8,can't predict,Full Stack Developer,john,200.0
+Web Development Tools,2,8,can't predict,Data Analyst,jefforson,400.0
+Web Development Tools,9,1,Extremely Poor,Data Analyst,jefforson,11.11
+Attention to Detail,3,8,can't predict,Data Analyst,andrew,266.67
+Natural Language Processing ,1,4,can't predict,Database Administrator,jefforson,400.0
+Performance Tuning,10,4,Below Average,Database Administrator,robin,40.0
+Scripting and Automation,3,8,can't predict,Artificial Intelligence (AI) Engineer,lara,266.67
+Version Control/Git,6,0,Needs Improvement,Cybersecurity Analyst,john,0.0
+Backup and Recovery,1,4,can't predict,Full Stack Developer,lara,400.0
+Data Handling,10,0,Needs Improvement,Full Stack Developer,john,0.0
+Database Knowledge,10,7,Good,Artificial Intelligence (AI) Engineer,andrew,70.0
+SQL and Query Optimization,7,1,Extremely Poor,Full Stack Developer,robin,14.29
+Domain Knowledge,2,9,can't predict,Cybersecurity Analyst,jefforson,450.0
+Database Management,8,4,Average,Data Analyst,andrew,50.0
+Data Handling,7,7,Excellent,Artificial Intelligence (AI) Engineer,andrew,100.0
+Performance Tuning,7,10,can't predict,Database Administrator,andrew,142.86
+Attention to Detail,7,6,Very Good,Database Administrator,john,85.71
+Understanding of Security Tools,8,8,Excellent,Database Administrator,andrew,100.0
+Database Knowledge,7,7,Excellent,Cybersecurity Analyst,lara,100.0
+Database Management,1,9,can't predict,Data Analyst,andrew,900.0
+Data Visualization,1,8,can't predict,Full Stack Developer,lara,800.0
+Domain Knowledge,1,1,Excellent,Full Stack Developer,lara,100.0
+Domain Knowledge,8,8,Excellent,Data Analyst,jefforson,100.0
+Data Visualization,2,3,can't predict,Artificial Intelligence (AI) Engineer,robin,150.0
+Data Visualization,2,3,can't predict,Database Administrator,lara,150.0
+Attention to Detail,9,9,Excellent,Artificial Intelligence (AI) Engineer,jefforson,100.0
+SQL and Query Optimization,2,7,can't predict,Database Administrator,andrew,350.0
+Front-end Technologies,9,5,Average,Data Analyst,jefforson,55.56
+Troubleshooting and Problem-Solving,3,7,can't predict,Artificial Intelligence (AI) Engineer,andrew,233.33
+Data Modeling and Design,6,5,Very Good,Artificial Intelligence (AI) Engineer,jefforson,83.33
+Back-end Technologies,3,10,can't predict,Database Administrator,jefforson,333.33
+Database Management,3,7,can't predict,Database Administrator,robin,233.33
+Web Development Tools,5,8,can't predict,Artificial Intelligence (AI) Engineer,andrew,160.0
+"APIs (RESTful, GraphQL)",9,10,can't predict,Artificial Intelligence (AI) Engineer,jefforson,111.11
+Domain Knowledge,6,8,can't predict,Database Administrator,jefforson,133.33
+Database Management,1,3,can't predict,Artificial Intelligence (AI) Engineer,andrew,300.0
+Back-end Technologies,8,10,can't predict,Full Stack Developer,lara,125.0
+Domain Knowledge,8,0,Needs Improvement,Artificial Intelligence (AI) Engineer,robin,0.0
+Version Control/Git,10,7,Good,Data Analyst,jefforson,70.0
+Database Management,8,9,can't predict,Data Analyst,robin,112.5
+Database Knowledge,4,1,Very Poor,Cybersecurity Analyst,jefforson,25.0
+Data Visualization,8,9,can't predict,Full Stack Developer,jefforson,112.5
+Backup and Recovery,5,7,can't predict,Data Analyst,john,140.0
+Data Visualization,3,9,can't predict,Full Stack Developer,andrew,300.0
+Troubleshooting and Problem-Solving,10,1,Extremely Poor,Database Administrator,robin,10.0
+Domain Knowledge,3,8,can't predict,Cybersecurity Analyst,lara,266.67
+Algorithm Development,2,5,can't predict,Full Stack Developer,robin,250.0
+Database Management Systems,9,8,Very Good,Database Administrator,john,88.89
+Cyber Threat Intelligence,10,1,Extremely Poor,Full Stack Developer,john,10.0
+Database Management,4,7,can't predict,Full Stack Developer,jefforson,175.0
+Performance Tuning,2,7,can't predict,Data Analyst,robin,350.0
+Problem-Solving Abilities,1,3,can't predict,Data Analyst,robin,300.0
+"APIs (RESTful, GraphQL)",10,5,Average,Database Administrator,jefforson,50.0
+Critical Thinking,8,0,Needs Improvement,Data Analyst,andrew,0.0
+Analytical Skills,7,10,can't predict,Database Administrator,lara,142.86
+Natural Language Processing ,3,7,can't predict,Full Stack Developer,jefforson,233.33
+Back-end Technologies,3,10,can't predict,Artificial Intelligence (AI) Engineer,robin,333.33
+Front-end Technologies,1,4,can't predict,Data Analyst,andrew,400.0
+Networking Skills,9,0,Needs Improvement,Artificial Intelligence (AI) Engineer,jefforson,0.0
+SQL and Query Optimization,6,10,can't predict,Artificial Intelligence (AI) Engineer,lara,166.67
+Database Security,5,5,Excellent,Database Administrator,john,100.0
+Domain Knowledge,9,9,Excellent,Data Analyst,andrew,100.0
+Back-end Technologies,1,9,can't predict,Data Analyst,andrew,900.0
+Networking Skills,6,0,Needs Improvement,Data Analyst,john,0.0
+Database Management,7,5,Good,Data Analyst,lara,71.43
+Web Development Tools,9,0,Needs Improvement,Database Administrator,andrew,0.0
+Database Security,3,7,can't predict,Cybersecurity Analyst,lara,233.33
+Data Handling,7,5,Good,Data Analyst,john,71.43
+Domain Knowledge,1,4,can't predict,Data Analyst,jefforson,400.0
+Knowledge of Security Tools,2,5,can't predict,Data Analyst,andrew,250.0
+Data Handling,9,1,Extremely Poor,Data Analyst,jefforson,11.11
+Backup and Recovery,4,2,Average,Artificial Intelligence (AI) Engineer,andrew,50.0
+Version Control/Git,4,9,can't predict,Cybersecurity Analyst,lara,225.0
+Domain Knowledge,3,0,Needs Improvement,Data Analyst,lara,0.0
+Version Control/Git,9,4,Below Average,Database Administrator,jefforson,44.44
+Attention to Detail,7,2,Very Poor,Artificial Intelligence (AI) Engineer,jefforson,28.57
+Networking Skills,9,7,Good,Full Stack Developer,john,77.78
+Database Management,3,2,Above Average,Database Administrator,andrew,66.67
+Problem-Solving Abilities,9,7,Good,Cybersecurity Analyst,andrew,77.78
+Networking Skills,7,3,Below Average,Full Stack Developer,jefforson,42.86
+Web Development Tools,5,7,can't predict,Data Analyst,john,140.0
+Critical Thinking,2,0,Needs Improvement,Cybersecurity Analyst,jefforson,0.0
+Understanding of Security Tools,5,7,can't predict,Full Stack Developer,jefforson,140.0
+Troubleshooting and Problem-Solving,7,4,Average,Artificial Intelligence (AI) Engineer,jefforson,57.14
+Back-end Technologies,1,3,can't predict,Cybersecurity Analyst,robin,300.0
+Statistical Knowledge,9,10,can't predict,Data Analyst,andrew,111.11
+Machine Learning,3,6,can't predict,Data Analyst,jefforson,200.0
+Database Security,3,3,Excellent,Full Stack Developer,john,100.0
+Data Handling,5,6,can't predict,Full Stack Developer,john,120.0
+Back-end Technologies,8,10,can't predict,Artificial Intelligence (AI) Engineer,john,125.0
+Security Tools,7,10,can't predict,Data Analyst,john,142.86
+Programming Skills,8,3,Poor,Full Stack Developer,jefforson,37.5
+Version Control/Git,1,0,Needs Improvement,Full Stack Developer,john,0.0
+Backup and Recovery,7,4,Average,Data Analyst,jefforson,57.14
+Web Development Tools,9,9,Excellent,Artificial Intelligence (AI) Engineer,lara,100.0
+Programming Skills,5,5,Excellent,Artificial Intelligence (AI) Engineer,lara,100.0
+"APIs (RESTful, GraphQL)",5,10,can't predict,Data Analyst,john,200.0
+SQL and Query Optimization,1,2,can't predict,Artificial Intelligence (AI) Engineer,jefforson,200.0
+Web Development Tools,6,7,can't predict,Data Analyst,robin,116.67
+Natural Language Processing ,1,9,can't predict,Data Analyst,robin,900.0
+Database Security,4,4,Excellent,Artificial Intelligence (AI) Engineer,lara,100.0
+Statistical Knowledge,10,10,Excellent,Data Analyst,lara,100.0
+Critical Thinking,2,2,Excellent,Data Analyst,jefforson,100.0
+"APIs (RESTful, GraphQL)",7,10,can't predict,Cybersecurity Analyst,john,142.86
+Attention to Detail,6,10,can't predict,Data Analyst,lara,166.67
+Knowledge of Security Tools,8,0,Needs Improvement,Data Analyst,jefforson,0.0
+Scripting and Automation,1,6,can't predict,Cybersecurity Analyst,jefforson,600.0
+Machine Learning,2,5,can't predict,Full Stack Developer,lara,250.0
+"APIs (RESTful, GraphQL)",6,0,Needs Improvement,Artificial Intelligence (AI) Engineer,robin,0.0
+Deep Learning,5,9,can't predict,Database Administrator,lara,180.0
+Back-end Technologies,10,3,Poor,Data Analyst,robin,30.0
+Knowledge of Security Tools,10,2,Very Poor,Data Analyst,john,20.0
+Domain Knowledge,2,10,can't predict,Full Stack Developer,jefforson,500.0
+Database Management,10,1,Extremely Poor,Database Administrator,john,10.0
+Mathematics and Statistics.,3,5,can't predict,Data Analyst,andrew,166.67
+Front-end Technologies,5,5,Excellent,Data Analyst,lara,100.0
+SQL and Query Optimization,1,4,can't predict,Full Stack Developer,andrew,400.0
+"APIs (RESTful, GraphQL)",2,5,can't predict,Database Administrator,jefforson,250.0
+Back-end Technologies,1,2,can't predict,Artificial Intelligence (AI) Engineer,lara,200.0
+Database Management Systems,8,6,Good,Data Analyst,andrew,75.0
+Data Visualization,6,6,Excellent,Database Administrator,andrew,100.0
+Domain Knowledge,3,1,Poor,Full Stack Developer,jefforson,33.33
+Version Control/Git,7,3,Below Average,Database Administrator,jefforson,42.86
+Understanding of Security Tools,8,7,Very Good,Cybersecurity Analyst,jefforson,87.5
+Backup and Recovery,3,1,Poor,Data Analyst,john,33.33
+Domain Knowledge,8,2,Very Poor,Data Analyst,john,25.0
+Version Control/Git,2,9,can't predict,Cybersecurity Analyst,lara,450.0
+Analytical Skills,3,7,can't predict,Full Stack Developer,robin,233.33
+Backup and Recovery,1,8,can't predict,Artificial Intelligence (AI) Engineer,jefforson,800.0
+Database Knowledge,7,8,can't predict,Artificial Intelligence (AI) Engineer,jefforson,114.29
+Analytical Skills,1,2,can't predict,Data Analyst,robin,200.0
+Deep Learning,10,3,Poor,Full Stack Developer,jefforson,30.0
+Networking Skills,9,7,Good,Data Analyst,jefforson,77.78
+Back-end Technologies,8,3,Poor,Data Analyst,jefforson,37.5
+Networking Skills,3,5,can't predict,Cybersecurity Analyst,lara,166.67
+Networking Skills,1,8,can't predict,Database Administrator,robin,800.0
+Database Management,10,4,Below Average,Cybersecurity Analyst,lara,40.0
+Database Management,6,9,can't predict,Full Stack Developer,jefforson,150.0
+Knowledge of Security Tools,4,1,Very Poor,Database Administrator,robin,25.0
+Database Management,10,8,Very Good,Artificial Intelligence (AI) Engineer,andrew,80.0
+Back-end Technologies,6,5,Very Good,Database Administrator,andrew,83.33
+Back-end Technologies,1,6,can't predict,Data Analyst,jefforson,600.0
+"APIs (RESTful, GraphQL)",2,6,can't predict,Cybersecurity Analyst,andrew,300.0
+Data Visualization,1,0,Needs Improvement,Database Administrator,andrew,0.0
+Cyber Threat Intelligence,4,1,Very Poor,Cybersecurity Analyst,lara,25.0
+Domain Knowledge,2,6,can't predict,Full Stack Developer,lara,300.0
+Statistical Knowledge,10,6,Above Average,Data Analyst,andrew,60.0
+Domain Knowledge,1,0,Needs Improvement,Full Stack Developer,andrew,0.0
+Algorithm Development,3,8,can't predict,Data Analyst,jefforson,266.67
+Web Development Tools,1,9,can't predict,Database Administrator,john,900.0
+Security Policies and Compliance,3,5,can't predict,Database Administrator,jefforson,166.67
+Algorithm Development,3,8,can't predict,Database Administrator,lara,266.67
+Analytical Skills,6,3,Average,Full Stack Developer,robin,50.0
+Critical Thinking,5,7,can't predict,Database Administrator,andrew,140.0
+Scripting and Automation,9,10,can't predict,Database Administrator,jefforson,111.11
+Programming skills,10,9,Excellent,Artificial Intelligence (AI) Engineer,andrew,90.0
+Understanding of Security Tools,4,6,can't predict,Artificial Intelligence (AI) Engineer,lara,150.0
+Backup and Recovery,3,0,Needs Improvement,Database Administrator,jefforson,0.0
+Deep Learning,4,10,can't predict,Data Analyst,robin,250.0
+Networking Skills,10,6,Above Average,Database Administrator,robin,60.0
+Knowledge of Security Tools,4,4,Excellent,Cybersecurity Analyst,john,100.0
+Front-end Technologies,7,3,Below Average,Cybersecurity Analyst,lara,42.86
+Understanding of Security Tools,10,10,Excellent,Cybersecurity Analyst,lara,100.0
+Database Knowledge,9,2,Very Poor,Data Analyst,john,22.22
+Performance Tuning,6,5,Very Good,Artificial Intelligence (AI) Engineer,andrew,83.33
+Database Knowledge,5,8,can't predict,Data Analyst,john,160.0
+Mathematics and Statistics.,5,5,Excellent,Data Analyst,andrew,100.0
+Database Security,1,4,can't predict,Artificial Intelligence (AI) Engineer,andrew,400.0
+Backup and Recovery,2,5,can't predict,Data Analyst,robin,250.0
+Database Knowledge,3,9,can't predict,Data Analyst,jefforson,300.0
+Programming Skills,9,4,Below Average,Artificial Intelligence (AI) Engineer,jefforson,44.44
+Analytical Skills,3,9,can't predict,Artificial Intelligence (AI) Engineer,jefforson,300.0
+Natural Language Processing ,2,6,can't predict,Full Stack Developer,jefforson,300.0
+Statistical Knowledge,10,6,Above Average,Data Analyst,robin,60.0
+Back-end Technologies,8,4,Average,Artificial Intelligence (AI) Engineer,andrew,50.0
+Database Management,2,7,can't predict,Cybersecurity Analyst,jefforson,350.0
+Deep Learning,5,4,Very Good,Artificial Intelligence (AI) Engineer,john,80.0
+Back-end Technologies,10,8,Very Good,Database Administrator,john,80.0
+Front-end Technologies,6,10,can't predict,Artificial Intelligence (AI) Engineer,andrew,166.67
+Security Tools,3,0,Needs Improvement,Data Analyst,andrew,0.0
+Security Tools,9,6,Above Average,Full Stack Developer,robin,66.67
+Cyber Threat Intelligence,10,6,Above Average,Data Analyst,andrew,60.0
+Back-end Technologies,8,9,can't predict,Database Administrator,john,112.5
+Critical Thinking,1,10,can't predict,Full Stack Developer,robin,1000.0
+Knowledge of Security Tools,1,7,can't predict,Artificial Intelligence (AI) Engineer,robin,700.0
+Networking Skills,2,4,can't predict,Data Analyst,jefforson,200.0
+Database Management,7,3,Below Average,Artificial Intelligence (AI) Engineer,lara,42.86
+Web Development Tools,6,2,Poor,Database Administrator,john,33.33
+Mathematics and Statistics.,7,6,Very Good,Artificial Intelligence (AI) Engineer,john,85.71
+Risk Assessment and Management,10,10,Excellent,Data Analyst,jefforson,100.0
+Programming skills,10,5,Average,Full Stack Developer,andrew,50.0
+Attention to Detail,6,9,can't predict,Cybersecurity Analyst,jefforson,150.0
+Data Modeling and Design,9,3,Poor,Full Stack Developer,jefforson,33.33
+Performance Tuning,2,2,Excellent,Artificial Intelligence (AI) Engineer,andrew,100.0
