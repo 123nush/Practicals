@@ -1,0 +1,53 @@
+Category name,total questions,correct questions,correctness,Performance,Job Profile Name,User name
+Analytical Skills,5,2,40,Below Average,Data Analyst,john
+Programming Skills,8,7,87.5,Very Good,Data Analyst,john
+Statistical Knowledge,4,1,25,Very Poor,Data Analyst,john
+Data Visualization,6,4,66.66,Above Average,Data Analyst,john
+Database Knowledge,7,3,42.85,Below Average,Data Analyst,john
+Critical Thinking,2,2,100,Excellent,Data Analyst,john
+Attention to Detail,0,0,0,Needs Improvement,Data Analyst,john
+Domain Knowledge,3,2,66.66,Above  Average,Data Analyst,john
+Front-end Technologies,4,3,75,Good,Full Stack Developer,andrew
+Back-end Technologies,3,1,33.33,Poor,Full Stack Developer,andrew
+Database Management,5,3,60,Above Average,Full Stack Developer,andrew
+"APIs (RESTful, GraphQL)",1,0,0,Needs Improvement,Full Stack Developer,andrew
+Web Development Tools,6,5,83.33,Very Good,Full Stack Developer,andrew
+Version Control/Git,2,1,50,Average,Full Stack Developer,andrew
+Knowledge of Security Tools,5,2,40,Below Average,Cybersecurity Analyst,jefforson
+Networking Skills,3,2,66.66,Above Average,Cybersecurity Analyst,jefforson
+Security Policies and Compliance,7,5,71.42,Good,Cybersecurity Analyst,jefforson
+Cyber Threat Intelligence,4,3,75,Good,Cybersecurity Analyst,jefforson
+Understanding of Security Tools,2,1,50,Average,Cybersecurity Analyst,jefforson
+Security Tools,6,1,16.66,Extremly Poor,Cybersecurity Analyst,jefforson
+Risk Assessment and Management,4,1,25,Very Poor,Cybersecurity Analyst,jefforson
+Analytical Skills,3,2,66.66,Above Average,Data Analyst,jefforson
+Programming Skills,5,3,60,Above Average,Data Analyst,jefforson
+Statistical Knowledge,4,2,50,Average,Data Analyst,jefforson
+Data Visualization,6,6,100,Excellent,Data Analyst,jefforson
+Database Knowledge,7,5,71.42,Good,Data Analyst,jefforson
+Critical Thinking,4,1,25,Very Poor,Data Analyst,jefforson
+Attention to Detail,8,7,87.5,Very Good,Data Analyst,jefforson
+Domain Knowledge,3,2,66.66,Above  Average,Data Analyst,jefforson
+Front-end Technologies,6,1,16.66,Extremly Poor,Full Stack Developer,andrew
+Back-end Technologies,6,2,33.33,Poor,Full Stack Developer,andrew
+Database Management,7,5,71.42,good,Full Stack Developer,andrew
+"APIs (RESTful, GraphQL)",6,5,83.33,Very Good,Full Stack Developer,andrew
+Web Development Tools,6,5,83.33,Very Good,Full Stack Developer,andrew
+Version Control/Git,5,4,80,Very Good,Full Stack Developer,andrew
+Deep Learning,7,4,57.14,Average,Artificial Intelligence (AI) Engineer,lara
+Programming skills,10,7,70,Good,Artificial Intelligence (AI) Engineer,lara
+Problem-Solving Abilities,5,3,60,Above Average,Artificial Intelligence (AI) Engineer,lara
+Machine Learning,3,1,33.33,Poor,Artificial Intelligence (AI) Engineer,lara
+Algorithm Development,7,3,42.85,Below Average,Artificial Intelligence (AI) Engineer,lara
+Mathematics and Statistics.,9,5,55.55,Average,Artificial Intelligence (AI) Engineer,lara
+Natural Language Processing ,1,0,0,Needs Improvement,Artificial Intelligence (AI) Engineer,lara
+Data Handling,5,4,80,Very Good,Artificial Intelligence (AI) Engineer,lara
+Domain Knowledge,6,6,100,Excellent,Artificial Intelligence (AI) Engineer,lara
+Data Modeling and Design,5,4,80,Very Good,Database Administrator,robin
+Database Management Systems,10,6,60,Above Average,Database Administrator,robin
+SQL and Query Optimization,3,1,33.33,Poor,Database Administrator,robin
+Database Security,5,2,40,Below Average,Database Administrator,robin
+Backup and Recovery,7,4,57.14,average,Database Administrator,robin
+Performance Tuning,7,3,42.85,Below Average,Database Administrator,robin
+Troubleshooting and Problem-Solving,1,0,0,Needs Improvement,Database Administrator,robin
+Scripting and Automation,3,2,66.66,Above Average,Database Administrator,robin
