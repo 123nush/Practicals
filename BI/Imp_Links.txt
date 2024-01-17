@@ -1,1 +1,2 @@
-What if Analysis :- https://www.javatpoint.com/what-if-analysis-in-excel 
+What if Analysis :- 1. https://www.javatpoint.com/what-if-analysis-in-excel 
+                    2. https://www.geeksforgeeks.org/what-if-analysis-with-data-tables-in-excel/
