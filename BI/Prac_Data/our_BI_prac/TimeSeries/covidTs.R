@@ -1,0 +1,8 @@
+x <- c(580, 7813, 28266, 59287, 75700,87820, 95314, 126214, 218843, 471497,936851, 1508725, 2072113)
+library(lubridate)
+png(file = 'E:\\TY_Anushka_Sanika\\SEM_6\\BI\\our_BI_prac\\covidData.png')
+mts <- ts(x, start = c(2020,1), frequency = 365.25 / 7)
+print(mts)
+plot(mts, xlab = "Weekly Data", ylab = "Total Positive Cases", main = "Covid-19 Pandemic", col.main = "darkgreen")
+dev.off()
+plot(mts, xlab = "Weekly Data", ylab = "Total Positive Cases", main = "Covid-19 Pandemic", col.main = "darkgreen")

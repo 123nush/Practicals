@@ -1,0 +1,10 @@
+library(party)
+print(readingSkills)
+print(head(readingSkills))
+input.dat <- readingSkills[c(1:105),c('nativeSpeaker','age','score')]
+png(file = 'E:\\TY_Anushka_Sanika\\SEM_6\\BI\\our_BI_prac\\DecisionTree\\decision_tree.png')
+output.tree <- ctree(nativeSpeaker ~ age + score, data = input.dat)
+print(output.tree)
+plot(output.tree)
+dev.off()
+plot(output.tree)
