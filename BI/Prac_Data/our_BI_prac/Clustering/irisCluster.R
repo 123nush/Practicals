@@ -1,13 +1,14 @@
 newiris <-iris
-#print(iris)
+print(iris)
 newiris$Species <- NULL
 kc <- kmeans(newiris,3)
 print(kc)
 print(kc$cluster)
 table(iris$Species,kc$cluster)
-cluster_colors <- c("red", "blue", "green")
-plot(newiris[c("Sepal.Length","Sepal.Width")],col = cluster_colors[kc$cluster])
+cluster_colors <- c("red", "blue", "green","yellow")
+print(kc$centers)
+plot(newiris[c("Petal.Length","Petal.Width")],col = kc$cluster)
 
-points(kc$centers[,c("Sepal.Length","Sepal.Width")],col=1:3,pch=8,cex=2)
+#points(kc$centers[,c("Petal.Length","Petal.Width")],col=1:3,pch=8,cex=2)
 dev.off()
-plot(newiris[c("Sepal.Length","Sepal.Width")],col = kc$cluster)
+plot(newiris[c("Petal.Length","Petal.Width")],col = kc$cluster)

@@ -1,0 +1,13 @@
+x<-c(151, 174, 138, 186, 128, 136, 179, 163, 152, 131)
+y<-c(63, 81, 56, 91, 47, 57, 76, 72, 62, 48)
+linear<-lm(y~x) 
+print(linear)
+print(summary(linear))
+a<-data.frame(x=c(170,200))
+result<-predict(linear,a)
+print(result)
+png(file = 'E:\\TY_Anushka_Sanika\\SEM_6\\BI\\our_BI_prac\\Linear\\linearregression.png')
+plot(x,y,col="blue",main="Height and Weight regression",abline(lm(y~x)),cex=1.3,pch=7,xlab="Heights",ylab="weights in cm ")
+dev.off()
+#plot(x,y,col="blue",main="Height and Weight regression",abline(lm(y~x)),cex=1.3,pch=7,xlab="Heights",ylab="weights in cm ")
+
